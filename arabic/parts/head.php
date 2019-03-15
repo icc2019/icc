@@ -12,7 +12,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta charset="UTF-8">
 <script type="text/javascript" src="assests/js/jquery.js"></script>
-<title>Karma Responsive Web Template</title>
+<title></title>
 
 
 <!-- RSS -->
@@ -29,7 +29,7 @@
 
 <!-- Primary CSS -->
 <link rel="stylesheet" href="assests/css/style.css" type="text/css" media="all" />
-<link rel="stylesheet" href="assests/css/rtl-style.css"  media="all"/>
+<!-- <link rel="stylesheet" href="assests/css/rtl-style.css"  media="all"/> -->
 <link rel="stylesheet" href="assests/css/_mobile.css" type="text/css" media="all" />
 
 

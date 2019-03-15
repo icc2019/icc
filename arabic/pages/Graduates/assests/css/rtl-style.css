@@ -1,0 +1,72 @@
+#header .header-holder.tt-logo-center #menu-main-nav, #header .header-holder.tt-logo-center #megaMenu{
+  direction: rtl;
+}
+#menu-main-nav .drop {
+
+  right: 0
+}
+.post_content{
+  top: 40px
+}
+#content, #content.content_left_sidebar.content_no_subnav{
+  float: right;
+      margin-top: -142px;
+}
+#sidebar{
+  float: left;
+      border-right: 1px solid #D8D8D6;
+      border-left: 0
+}
+#menu-main-nav, #megaMenu ul.megaMenu, .header-area #megaMenu {
+    float: left;
+}
+.one_half, .one_third, .one_fourth, .one_fifth, .one_sixth, .three_fourth, .two_thirds {
+    float: right;
+    margin-right: 0px;
+    margin-left: 30px;
+}
+#footer h3{
+  text-align: right;
+}
+ul.tt-recent-posts .tt-blog-sc-img{
+  float: right;
+}
+#footer, #footer p, #footer ul, #footer_bottom, #footer_bottom p, #footer_bottom ul, #footer #mc_signup_form label{
+  text-align: right;
+}
+.footer-content li{
+  direction: rtl;
+}
+#foot_left{
+  width: auto;
+}
+
+/* ///////////////////////////////////Links */
+.links h3, .links p{
+  text-align: right;
+      font-weight: bold;
+}
+.one_half, .one_third, .one_fourth, .one_fifth, .one_sixth, .three_fourth, .two_thirds {
+    float: right;
+    margin-right: 30px;
+    margin-left: 0px;
+}
+.links li{
+  text-align: -webkit-right;
+  list-style: none;
+}
+
+#main img{
+  width: auto;
+}
+.heading-horizontal{
+  color: #277fa6;
+border-bottom: 2px solid #277fa6;
+padding-bottom: 7px;
+font-weight: bold;
+text-align: right;
+}
+#content h4{
+  text-align: -webkit-center;
+font-weight: 700;
+}
