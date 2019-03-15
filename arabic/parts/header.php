@@ -49,11 +49,11 @@
                      <ul class="sub-menu">
 
                         <li>
-                           <a href="template-classic-3-column-home.html"><span> About ICC</span></a>
+                           <a href="#"><span> About ICC</span></a>
 
                         </li>
                         <li>
-                           <a href="template-gallery-1-column.html"><span>General Chairs</span></a>
+                           <a href="arabic/pages/General-Chairs"><span>General Chairs</span></a>
 
                         </li>
                         <li>
