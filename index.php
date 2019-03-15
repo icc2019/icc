@@ -18,10 +18,9 @@
               <!-- ////////////////////////////////////////////////////////// -->
                <?php include('arabic/parts/slider.php');?>
 
-
+                <?php include('arabic/parts/content.php');?>
                <!-- *****************************main******************************8 -->
-               <?php include('arabic/parts/article.php');?>
-               <?php include('arabic/parts/aside.php');?>
+
                <!-- *********************************************************************** -->
 
             <!-- END jquery1-slider-wrap -->
@@ -31,10 +30,9 @@
 
 
                 <!-- ****************news********************8 -->
-              <?php include('arabic/parts/news.php');?>
+
               <!-- *********************************  Tabs + Accordions***********************       -->
-            <?php include('arabic/parts/accordions.php');?>
-              <?php include('arabic/parts/slider2.php');?>
+
 
                   <!-- ////////////////////////////////////////////////////////// -->
                   <!-- ***************** - Content Ends Here - ****************** -->
