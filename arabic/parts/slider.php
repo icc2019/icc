@@ -8,54 +8,11 @@
          <!-- END slider-content-main -->
 
          <div class="slider-content-sub">
-            <img src="assests/images/slider/8.gif" alt="" />
+            <img src="assests/images/slider/01.png" alt="" />
          </div><!-- END slider-content-sub -->
 
       </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/8.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/1440.png" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/d3.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/Registration-.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/Registration.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/إعلان عمادة البحث العلمي.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/المؤتمر العالمي الثامن.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/تصميم تهنئة.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
-      <li class="jqslider karma-slider-normal-image">
-         <div class="slider-content-sub">
-            <img src="assests/images/slider/2.jpg" alt="" />
-         </div><!-- END slider-content-sub -->
-      </li>
+
+
    </ul>
 </div>
