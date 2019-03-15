@@ -7,7 +7,7 @@
          <div class="toolbar-right">
             <ul>
                <li><a href="">ُEnglish</a></li>
-               <li><a href="">اتصل بنا</a></li>
+               <li><a href="arabic/pages/contactUs">اتصل بنا</a></li>
                 <li><a href="arabic/pages/siteMap">هيكل الموقع</a></li>
             </ul>
          </div><!-- END toolbar-left -->
