@@ -12,7 +12,8 @@
             <div class="main-area">
 
             <!-- END jquery1-slider-wrap -->
-        <?php include('parts/Organizing-Committee.php');?>
+          
+        <?php include('parts/About-Riyadh.php');?>
                <main role="main" id="content" class="">
 
               </main><!-- END main #content -->

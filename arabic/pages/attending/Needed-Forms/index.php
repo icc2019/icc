@@ -12,7 +12,7 @@
             <div class="main-area">
 
             <!-- END jquery1-slider-wrap -->
-        <?php include('parts/Organizing-Committee.php');?>
+        <?php include('parts/Needed-Forms.php');?>
                <main role="main" id="content" class="">
 
               </main><!-- END main #content -->
