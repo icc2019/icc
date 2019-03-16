@@ -53,15 +53,15 @@
 
                         </li>
                         <li>
-                           <a href="arabic/pages/General-Chairs"><span>General Chairs</span></a>
+                           <a href="arabic/pages/home/General-Chairs"><span>General Chairs</span></a>
 
                         </li>
                         <li>
-                           <a href="template-contact-smartphone.html"><span>Organizing Committee </span></a>
+                           <a href="arabic/pages/home/Organizing-Committee"><span>Organizing Committee </span></a>
 
                         </li>
                         <li>
-                           <a href="template-utility-sitemap-1.html"><span>Sponsors </span></a>
+                           <a href="arabic/pages/home/Sponsors-and-Partners"><span>Sponsors </span></a>
 
                         </li>
 
@@ -71,11 +71,11 @@
 
 
                   <li>
-                     <a href="template-sliders-karma-jquery-1.html" class="nav-link"><span><strong>Call For Papers </strong></span></a>
+                     <a href="#" class="nav-link"><span><strong>Call For Papers </strong></span></a>
                      <ul class="sub-menu">
-                        <li><a href="template-sliders-karma-jquery-1.html"><span> Tracks</span></a></li>
-                        <li><a href="template-sliders-karma-jquery-1.html"><span> Submission</span></a></li>
-                        <li><a href="template-sliders-karma-jquery-1.html"><span> Important Dates</span></a></li>
+                        <li><a href="arabic/pages/call-for-papers/tracks"><span> Tracks</span></a></li>
+                        <li><a href="arabic/pages/call-for-papers/submission"><span> Submission</span></a></li>
+                        <li><a href="arabic/pages/call-for-papers/Important-Dates"><span> Important Dates</span></a></li>
 
 
                      </ul>

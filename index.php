@@ -48,7 +48,7 @@
 
 
          <!-- ***************** - Footer Starts Here - ***************** -->
-      <?php include('arabic/parts/footer.php');?>
+      <?php //include('arabic/parts/footer.php');?>
 
 
 </div><!-- END wrapper -->
