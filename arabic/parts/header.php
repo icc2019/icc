@@ -122,27 +122,27 @@
                      </ul>
                   </li>
                   <li>
-                     <a href="template-gallery-1-column.html" class="nav-link"><span><strong>   Media Center</strong></span></a>
+                     <a href="#" class="nav-link"><span><strong>   Media Center</strong></span></a>
                      <ul class="sub-menu">
 
                         <li>
-                           <a href="template-classic-3-column-home.html"><span>    News </span></a>
+                           <a href="arabic/pages/media-center/News"><span>    News </span></a>
 
                         </li>
 
                         <li>
-                           <a href="template-contact-smartphone.html"><span>Announcements   </span></a>
+                           <a href="arabic/pages/media-center/Announcements"><span>Announcements   </span></a>
 
                         </li>
                      </ul>
                   </li>
 
                   <li>
-                     <a href="template-gallery-1-column.html" class="nav-link"><span><strong>    Contact Us</strong></span></a>
+                     <a href="#"><span><strong>    Contact Us</strong></span></a>
                      <ul class="sub-menu">
 
                         <li>
-                           <a href="template-classic-3-column-home.html"><span>    Contact Us </span></a>
+                           <a href="arabic/pages/contactUs/"><span>    Contact Us </span></a>
 
                         </li>
 
