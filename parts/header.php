@@ -1,0 +1,156 @@
+<header role="banner" id="header">
+   <div class="top-block">
+   <div class="top-holder">
+
+
+         <!-- ***************** - Top Toolbar Left Side - ***************** -->
+        <!-- <div class="toolbar-right">
+            <ul>
+               <li><a href="">ُEnglish</a></li>
+               <li><a href="/pages/contactUs">اتصل بنا</a></li>
+                <li><a href="/pages/siteMap">هيكل الموقع</a></li>
+            </ul>
+         </div>-->
+         <!-- END toolbar-left -->
+
+
+
+
+         <!-- ***************** - Top Toolbar Right Side - ***************** -->
+         <!--<div class="toolbar-left">
+            <ul>
+               <li><a href="#" class="" title=" ">موظف</a></li>
+               <li><a href="pages/Departments" class="" title=" ">هيئة التدريس</a></li>
+               <li><a href="pages/Graduates" class="a" title=" ">طالبة</a></li>
+            </ul>
+         </div>-->
+         <!-- END toolbar-right -->
+      </div>
+      <!-- END top-holder -->
+   </div>
+   <!-- END top-block -->
+
+
+
+   <div class="header-holder tt-logo-center">
+      <div class="header-overlay">
+         <div class="header-area">
+            <a href="" class="logo">
+              <!-- <img src="assests/images/logo/logo.png" alt="   " class="tt-retina-logo" width="50" height="50" /> -->
+              ICC</a>
+
+
+
+            <!-- ***************** - Main Menu - ***************** -->
+            <nav role="navigation">
+               <ul id="menu-main-nav">
+                  <li>
+                     <a href="#" class="nav-link"><span><strong>Home</strong></span></a>
+                     <ul class="sub-menu">
+
+
+                        <li>
+                           <a href="General-Chairs.php"><span>General Chairs</span></a>
+
+                        </li>
+                        <li>
+                           <a href="Organizing-Committee.php"><span>Organizing Committee </span></a>
+
+                        </li>
+                        <li>
+                           <a href="Sponsors-and-Partners.php"><span>Sponsors and Partners </span></a>
+
+                        </li>
+
+
+                     </ul>
+                  </li>
+
+
+                  <li>
+                     <a href="#" class="nav-link"><span><strong>Call For Papers </strong></span></a>
+                     <ul class="sub-menu">
+                        <li><a href="tracks.php"><span> Tracks</span></a></li>
+                        <li><a href="submission.php"><span> Submission</span></a></li>
+                        <li><a href="Important-Dates.php"><span> Important Dates</span></a></li>
+
+
+                     </ul>
+                  </li>
+
+
+
+                  <li>
+                     <a href="#" class="nav-link"><span><strong>Workshops </strong></span></a>
+                     <ul class="sub-menu">
+
+                        <li>
+                           <a href="workshop-proposal.php"><span>  Workshops Tracks </span></a>
+
+                        </li>
+                        <li>
+                           <a href="workshops-tracks.php"><span>  Workshop Proposal </span></a>
+
+                        </li>
+                     </ul>
+                  </li>
+
+                  <li>
+                     <a href="#" class="nav-link"><span><strong>Attending</strong></span></a>
+                     <ul class="sub-menu">
+                        <li><a href="Registration.php"><span>  Registration</span></a></li>
+
+                        <li><a href="Venue.php"><span> Venue</span></a></li>
+                        <li><a href="About-Riyadh.php"><span>   About Riyadh</span></a></li>
+
+
+
+
+                     </ul>
+                  </li>
+                  <li>
+                     <a href="#" class="nav-link" ><span><strong> Program</strong></span></a>
+                     <ul class="sub-menu">
+
+
+                       <li> <a href="Keynote-Speakers.php"><span>   Keynote Speakers  </span></a>  </li>
+                          <li> <a href="program.php"><span>  Program   </span></a>  </li>
+
+                     </ul>
+                  </li>
+                  <li>
+                     <a href="#" class="nav-link"><span><strong>   Media Center</strong></span></a>
+                     <ul class="sub-menu">
+
+                        <li>
+                           <a href="News.php"><span>    News </span></a>
+
+                        </li>
+
+                        <li>
+                           <a href="Announcements.php"><span>Announcements   </span></a>
+
+                        </li>
+                     </ul>
+                  </li>
+
+                  <li>
+                     <a href="#"><span><strong>    Contact Us</strong></span></a>
+                     <ul class="sub-menu">
+
+                        <li>
+                           <a href="contactUs.php"><span>    Contact Us </span></a>
+
+                        </li>
+
+                     </ul>
+                  </li>
+
+
+
+               </ul>
+            </nav>
+         </div><!-- END header-area -->
+      </div><!-- END header-overlay -->
+   </div><!-- END header-holder -->
+</header><!-- END header -->

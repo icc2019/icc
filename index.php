@@ -1,9 +1,9 @@
-<?php include('arabic/parts/head.php');?>
+<?php include('parts/head.php');?>
 
    <div id="tt-wide-layout" class="content-style-default">
       <div id="wrapper">
         <!-- ******************header****************** -->
-<?php include('arabic/parts/header.php');?>
+<?php include('parts/header.php');?>
 
 
 
@@ -16,9 +16,9 @@
               <!-- ////////////////////////////////////////////////////////// -->
               <!-- ***************** - Content Start Here - ***************** -->
               <!-- ////////////////////////////////////////////////////////// -->
-               <?php include('arabic/parts/slider.php');?>
+               <?php include('parts/slider.php');?>
 
-                <?php include('arabic/parts/content.php');?>
+                <?php include('parts/content.php');?>
                <!-- *****************************main******************************8 -->
 
                <!-- *********************************************************************** -->
@@ -48,7 +48,7 @@
 
 
          <!-- ***************** - Footer Starts Here - ***************** -->
-      <?php //include('arabic/parts/footer.php');?>
+      <?php //include('parts/footer.php');?>
 
 
 </div><!-- END wrapper -->
@@ -56,4 +56,4 @@
 
 
 <!-- *************foot**************** -->
-<?php include('arabic/parts/foot.php'); ?>
+<?php include('parts/foot.php'); ?>
