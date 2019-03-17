@@ -45,13 +45,10 @@
             <nav role="navigation">
                <ul id="menu-main-nav">
                   <li>
-                     <a href="template-gallery-1-column.html" class="nav-link"><span><strong>Home</strong></span></a>
+                     <a href="#" class="nav-link"><span><strong>Home</strong></span></a>
                      <ul class="sub-menu">
 
-                        <li>
-                           <a href="#"><span> About ICC</span></a>
 
-                        </li>
                         <li>
                            <a href="arabic/pages/home/General-Chairs"><span>General Chairs</span></a>
 
@@ -61,7 +58,7 @@
 
                         </li>
                         <li>
-                           <a href="arabic/pages/home/Sponsors-and-Partners"><span>Sponsors </span></a>
+                           <a href="arabic/pages/home/Sponsors-and-Partners"><span>Sponsors and Partners </span></a>
 
                         </li>
 
@@ -102,7 +99,7 @@
                      <a href="#" class="nav-link"><span><strong>Attending</strong></span></a>
                      <ul class="sub-menu">
                         <li><a href="arabic/pages/attending/Registration"><span>  Registration</span></a></li>
-                        <li><a href="arabic/pages/attending/Needed-Forms"><span>Needed Forms </span></a></li>
+
                         <li><a href="arabic/pages/attending/Venue"><span> Venue</span></a></li>
                         <li><a href="arabic/pages/attending/About-Riyadh"><span>   About Riyadh</span></a></li>
 

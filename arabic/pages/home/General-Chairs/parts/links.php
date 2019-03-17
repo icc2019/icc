@@ -11,46 +11,25 @@
       General Chairs<br /><span>TBD</span>
     </p>
   </ol>
-     <ol>
-
-
-       - Dr. Auhood Abd. Al Faries (chair)</ol>
-   <ol>
-
-
-     - Prof. Hend Al-Khalifa</ol>
   <ol>
+    <strong>General Executive Chairs</strong>
+  </ol>
+<ol>- Dr. Auhood Abd. Al Faries (chair)</ol>
+<ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
+<ol>- Dr. Heba A. Kurdi (King Saud University)</ol>
+<ol>- Prof. Elhadi Shakshuki (Acadia University, Canada)</ol>
+<ol>- Dr. Hessah Aleisa (Princess Nourah University)</ol>
+<ol>- Dr. Ghadah Aldehim (Princess Nourah University)</ol>
+<ol>- Dr. Hanan Aljuaid (Princess Nourah University)</ol>
+<ol>- Dr. Evon Abu-Taieh (Jordan University)</ol>
+<ol>- Dr. Hadil Ahmed Shaiba (Princess Nourah University)</ol>
 
-
-     - Dr. Heba A. Kurdi</ol>
-  <ol>
-
-
-     - Dr. Hessah Aleisa</ol>
-  <ol>
-
-
-     - Dr. Ghadah Aldehim</ol>
-  <ol>
-
-
-     - Dr. Hanan Aljuaid </ol>
-  <ol>
-
-
-     - Dr. Hadil Ahmed Shaiba</ol>
-  <ol>
-
-
-     - Dr. Mai Abd. Alduailij </ol>
-  <ol>
-
-
-     - Dr. Manel AYADI</ol>
-
+<ol>- Dr. Mai Abd. Alduailij (Princess Nourah University)</ol>
+<ol>- Dr. Maali Alabdulhafith (Princess Nourah University)</ol>
+<ol>- Dr. Manel AYADI (Princess Nourah University)</ol>
 
 <br />
-<ol><h4> Program Chairs<br /></h4><span>TBD</span></ol>
+<ol><h4> Technical Program Chairs<br /></h4><span>TBD</span></ol>
   <ol>
     <h3>Workshop committee members:</h3>
   </ol>
@@ -65,9 +44,7 @@
 <ol>
   - Dr. Samia Chlouk
 </ol>
-<ol>
-  <h3>Special Session Chairs</h3>
-</ol>
+
 <ol>
   TBD
 </ol>

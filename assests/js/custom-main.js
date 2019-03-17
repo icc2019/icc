@@ -151,7 +151,7 @@ function truethemes_doStickyMenu() {
     container.find('.header-area').css({
         maxWidth: 980,
         padding: '20px 20px',
-        margin: 'auto'
+        // margin: 'auto'
     });
     container.find('.logo').css({
         'float': 'left',

@@ -1,16 +1,14 @@
-<div class="Organizing-Committee">
-  <h3> Organizer Committee</h3>
-  <div class="text-center">
-   <p> Dr. Auhood Abdullah Alfaries <strong>(Chair of Higher Preparatory Committee)</strong></p>
-    <p> Dr. Hind Khalifa<strong>(Chair  of Scientific Committee)</strong></p>
-    <p> Dr. Mouna Jamjoum<strong>(Chair of Public relationships Committee</strong></p>
-    <p> Dr. Norah Alghamdi<strong>(Chair of Workshops Committee)</strong></p>
-    <p> Dr. Etidal Abdelkarim<strong>(Chair of Sponsors Committee)</strong></p>
-    <p> Dr. Hanan Aljeed <strong> (Chair of Registration Committee)</strong></p>
-    <p>Dr. Samia Chlouk <strong>(Chair of Scientific posters Committee)</strong></p>
-    <p> Dr. Rim Salah<strong>(Chair of Opening Ceremony Committee)</strong></p>
-    <p>Dr. Ahmed Ibrahim  <strong>(Chair of Security Committee)​</strong></p>
-    <p>Ms. Lama Alhousen  <strong>(Chair of Financial Committee)</strong></p>
-    <p>Ms. Maram Alchablan <strong>(Chair of Reception and hospitality Committee)</strong></p>
+<main role="main" id="content" class="content_full_width">
+<div class="one_half tt-column">
+  <img src="assests/images/news/logo2.png" width="100px" height="100px"/>
+       <h4>Important Dates </h4>
+       <p>Submission Deadline ​ March 30th, 2019  Notification Deadline M ay 30th, 2019 Camera Ready Deadline ​Jun e 30th, 2019​  ​ ​​ <a href="http://www.pnu.edu.sa/PNUICC/NewsActivities/News/Pages/News1.aspx">Details</a>
+       </p>
   </div>
+  <div class="one_half tt-column">
+    <img src="assests/images/news/logo2.png" width="100px" height="100px"/>
+         <h4>Important Dates </h4>
+         <p>PNU will hold ICC, in   October 22-24, 2019 - Riyadh, Saudi Arabia ​​ <a href="http://www.pnu.edu.sa/PNUICC/NewsActivities/News/Pages/news2.aspx">Details</a>
+         </p>
+    </div>
 </div>

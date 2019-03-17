@@ -1,11 +1,11 @@
 <?php include('../../../parts/head.php');?>
-
+  
    <div id="tt-wide-layout" class="content-style-default">
       <div id="wrapper">
         <!-- ******************header****************** -->
      <?php include('../../../parts/header.php');?>
 
-   <?php include('../../../parts/slider.php');?>
+
 
          <!-- ***************** - Main Content Area - ***************** -->
          <div id="main" class="tt-slider-karma-custom-jquery-1">

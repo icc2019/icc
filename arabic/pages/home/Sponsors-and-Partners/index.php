@@ -5,7 +5,7 @@
         <!-- ******************header****************** -->
      <?php include('../../../parts/header.php');?>
 
-   <?php include('../../../parts/slider.php');?>
+
 
          <!-- ***************** - Main Content Area - ***************** -->
          <div id="main" class="tt-slider-karma-custom-jquery-1">
@@ -28,7 +28,7 @@
 
 
          <!-- ***************** - Footer Starts Here - ***************** -->
-      <?php include('../../../parts/footer.php');?>
+      <?php //include('../../../parts/footer.php');?>
 
 
 </div><!-- END wrapper -->
@@ -36,4 +36,4 @@
 
 
 <!-- *************foot**************** -->
-<?php include('../../parts/foot.php'); ?>
+<?php include('../../../parts/foot.php'); ?>
