@@ -6,8 +6,8 @@
                  	  <!-- ***************** - Top Toolbar Left Side - ***************** -->
                     <div class="toolbar-left">
                        <ul class="sf-menu sf-js-enabled sf-arrows">
-                          <li><a href="index.html">Home</a></li>
-                          
+                          <li><a href="index.php">Home</a></li>
+
                             <ul class="sub-menu" style="display: none;">
                               <li><a href="content-features.html">Features Overview</a></li>
                               <li><a href="content-design.html">Design Options</a></li>

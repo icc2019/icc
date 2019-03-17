@@ -37,7 +37,7 @@
 <link rel="stylesheet" href="assests/css/karma-political-blue.css" type="text/css" media="all" />
 <link rel="stylesheet" href="assests/css/secondary-political-blue.css" type="text/css" media="all" />
 <link rel="stylesheet" href="assests/css/_font-awesome.css" type="text/css" media="all" />
-
+<link rel="stylesheet" href="assests/css/editCss.css" type="text/css" media="all" />
 
 
 <!--[if IE 9]>
