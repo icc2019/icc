@@ -1,33 +1,48 @@
 <header role="banner" id="header">
-   <div class="top-block">
-   <div class="top-holder">
+  <div class="top-block">
+                 <div class="top-holder">
 
 
-         <!-- ***************** - Top Toolbar Left Side - ***************** -->
-        <!-- <div class="toolbar-right">
-            <ul>
-               <li><a href="">ُEnglish</a></li>
-               <li><a href="/pages/contactUs">اتصل بنا</a></li>
-                <li><a href="/pages/siteMap">هيكل الموقع</a></li>
-            </ul>
-         </div>-->
-         <!-- END toolbar-left -->
+                 	  <!-- ***************** - Top Toolbar Left Side - ***************** -->
+                    <div class="toolbar-left">
+                       <ul class="sf-menu sf-js-enabled sf-arrows">
+                          <li><a href="index.html">Home</a></li>
+                          <li><a href="#" class="sf-with-ul" >links</a>
+                            <ul class="sub-menu" style="display: none;">
+                              <li><a href="content-features.html">Features Overview</a></li>
+                              <li><a href="content-design.html">Design Options</a></li>
+
+                           </ul>
+                          </li>
+                          <li class="">
+                             <a href="Keynote-Speakers.php" >speakers</a>
+
+                          </li>
+                          <li class="">
+                             <a href="Sponsors-and-Partners.php" >Sponsors</a>
+
+                          </li>
+                       </ul>
+                    </div><!-- END toolbar-left -->
 
 
 
 
-         <!-- ***************** - Top Toolbar Right Side - ***************** -->
-         <!--<div class="toolbar-left">
-            <ul>
-               <li><a href="#" class="" title=" ">موظف</a></li>
-               <li><a href="pages/Departments" class="" title=" ">هيئة التدريس</a></li>
-               <li><a href="pages/Graduates" class="a" title=" ">طالبة</a></li>
-            </ul>
-         </div>-->
-         <!-- END toolbar-right -->
-      </div>
-      <!-- END top-holder -->
-   </div>
+                    <!-- ***************** - Top Toolbar Right Side - ***************** -->
+                    <div class="toolbar-right">
+                       <ul class="social_icons tt_vector_social_icons tt_no_social_title tt_image_social_icons">
+                          <li><a href="#" class="rss" title="RSS Feed">RSS</a></li>
+                          <li><a href="#" class="twitter" title="Twitter">Twitter</a></li>
+                          <li><a href="#" class="facebook" title="Facebook">Facebook</a></li>
+                          <li><a href="#" class="email" title="Email">Email</a></li>
+                          <li><a href="#" class="linkedin" title="LinkedIn">LinkedIn</a></li>
+                          <li><a href="#" class="google +" title="Google +">Google+</a></li>
+                          <li><a href="#" class="dribbble" title="Dribbble">Dribbble</a></li>
+                          <li><a href="#" class="skype" title="Skype">Skype</a></li>
+                       </ul>
+                    </div><!-- END toolbar-right -->
+                 </div><!-- END top-holder -->
+              </div>
    <!-- END top-block -->
 
 
@@ -45,7 +60,7 @@
             <nav role="navigation">
                <ul id="menu-main-nav">
                   <li>
-                     <a href="#" class="nav-link"><span><strong>Home</strong></span></a>
+                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
                      <ul class="sub-menu">
 
 
