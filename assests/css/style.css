@@ -977,7 +977,7 @@ footer {
 
 .footer-content {
 	/* padding: 55px 0 35px 0; */
-	padding: 70px 0;
+	padding: 15px 0;
 	position: relative;
 }
 
@@ -7818,6 +7818,10 @@ h1, h2, h3, h4, h5, #footer h3, #menu-main-nav li strong, p.footer-callout-headi
 
 h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 12px;
+	margin-bottom: 14px;
+color: #155e81;
+border-bottom: 1px solid;
+padding-bottom: 15px;
 }
 
 p {

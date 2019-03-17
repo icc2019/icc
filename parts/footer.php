@@ -19,14 +19,14 @@
 <div id="footer_bottom">
    <div class="info">
 
-       <div id="foot_left">&nbsp;  &copy; ICCONF <?php echo  date("Y");?>
+       <div id="foot_left">&nbsp;  &copy; ICC <?php echo  date("Y");?>
        </div><!-- END foot_left -->
 
        <div id="foot_right">
           <div class="top-footer">
              <a href="#" class="link-top">top</a>
           </div>
-        
+
        </div><!-- END foot_right -->
 </div><!-- END info -->
 
