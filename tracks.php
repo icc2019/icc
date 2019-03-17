@@ -1,5 +1,5 @@
 <?php include('parts/head.php');?>
-  
+
    <div id="tt-wide-layout" class="content-style-default">
       <div id="wrapper">
         <!-- ******************header****************** -->
@@ -26,7 +26,7 @@
 
 
          <!-- ***************** - Footer Starts Here - ***************** -->
-      <?php //include('../../parts/footer.php');?>
+      <?php include('parts/footer.php');?>
 
 
 </div><!-- END wrapper -->

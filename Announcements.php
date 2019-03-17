@@ -26,7 +26,7 @@
 
 
          <!-- ***************** - Footer Starts Here - ***************** -->
-      <?php //include('../../parts/footer.php');?>
+      <?php include('parts/footer.php');?>
 
 
 </div><!-- END wrapper -->

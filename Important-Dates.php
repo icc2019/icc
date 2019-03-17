@@ -5,7 +5,7 @@
         <!-- ******************header****************** -->
      <?php include('parts/header.php');?>
 
-   
+
 
          <!-- ***************** - Main Content Area - ***************** -->
          <div id="main" class="tt-slider-karma-custom-jquery-1">
@@ -26,7 +26,7 @@
 
 
          <!-- ***************** - Footer Starts Here - ***************** -->
-      <?php //include('../../parts/footer.php');?>
+      <?php include('parts/footer.php');?>
 
 
 </div><!-- END wrapper -->
