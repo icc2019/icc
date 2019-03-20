@@ -28,6 +28,12 @@
          <div class="slider-content-sub">
             <img src="assests/images/sponsers/1.png" alt=""width="400px" height="200px" />
          </div>
+         <div class="slider-content-sub">
+            <img src="assests/images/sponsers/4.png" alt=""width="400px" height="200px" />
+         </div>
+         <div class="slider-content-sub">
+            <img src="assests/images/sponsers/4.jpg" alt=""width="400px" height="200px" />
+         </div>
 
       </li>
 
