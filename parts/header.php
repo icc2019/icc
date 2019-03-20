@@ -130,7 +130,7 @@
 
 
                        <li> <a href="Keynote-Speakers.php"><span>   Keynote Speakers  </span></a>  </li>
-                          <li> <a href="program.php"><span>  Program   </span></a>  </li>
+                          <li> <a href="parts/program.php"><span>  Program   </span></a>  </li>
 
                      </ul>
                   </li>

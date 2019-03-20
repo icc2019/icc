@@ -9,6 +9,8 @@
 #main .main-area {
     width: auto;
     padding: 16px 0px 0px;
+    margin-left: 20px;
+    margin-right: 20px;
 }}
 @media only screen and (max-width: 479px){
 .jquery1-slider-wrap {
