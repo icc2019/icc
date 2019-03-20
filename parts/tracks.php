@@ -1,96 +1,96 @@
 <div class="Organizing-Committee">
-  <h3>Tracks</h3>
+  <h1>Tracks</h1>
   <ul>
-    <li>
+
       <h4>Topics</h4><br /><p>
       We solicit papers on all areas of interest to the ICC community and aligned fields, including but not limited to:
-    </p></li>
+    </p>
 
-    <li><h4>Track1: Data Science</h4></li>
-    <li>Big Data and Analytics</li>
-    <li>Bioinformatics</li>
-    <li>Distributed Systems</li>
-    <li>Artificial Intelligence</li>
-    <li>Data/Web Mining</li>
-    <li>Data visualization</li>
-    <li>Data classification and taxonomy</li>
-    <li> Data metrics and metrology</li>
-    <li> Machine learning and deep learning</li>
-    <li> Data analytics</li>
-    <li>Data provenance</li>
-    <li>Big Data, cloud computing and data-intensive systems</li>
-    <li>Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.</li>
-    <li><h4>Track 2: CyberSecurity</h4></li>
-    <li>Application Security</li>
-    <li> Anonymity</li>
-    <li>Access Control</li>
-    <li>Policy, Legal, Legislation & Compliance</li>
-    <li> Authentication</li>
-    <li>User Privacy</li>
-    <li>Attacks and Counter-measures</li>
-    <li>Cryptography</li>
-    <li>Content Protection</li>
-    <li> Network Security</li>
-    <li>Watermarking</li>
-    <li>Emerging technologies such as: Blockchain, FinTech, etc.</li>
-    <li><h4>Track 3: Network and IoT</h4></li>
+    <h3>Track1: Data Science</h3>
+    <li><p>Big Data and Analytics</p></li>
+    <li><p>Bioinformatics</p></li>
+    <li><p>Distributed Systems</p></li>
+    <li><p>Artificial Intelligence</p></li>
+    <li><p>Data/Web Mining</p></li>
+    <li><p>Data visualization</p></li>
+    <li><p>Data classification and taxonomy</p></li>
+    <li><p> Data metrics and metrology</p></li>
+    <li><p> Machine learning and deep learning</p></li>
+    <li><p> Data analytics</p></li>
+    <li><p>Data provenance</p></li>
+    <li><p>Big Data, cloud computing and data-intensive systems</p></li>
+    <li><p>Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.</p></li><br />
+    <h3>Track 2: CyberSecurity</h3>
+    <li><p>Application Security</p></li>
+    <li> <p>Anonymity</p></li>
+    <li><p>Access Control</p></li>
+    <li><p>Policy, Legal, Legislation & Compliance</p></li>
+    <li> <p>Authentication</p></li>
+    <li><p>User Privacy</p></li>
+    <li><p>Attacks and Counter-measures</p></li>
+    <li><p>Cryptography</p></li>
+    <li><p>Content Protection</p></li>
+    <li><p> Network Security</p></li>
+    <li><p>Watermarking</p></li>
+    <li><p>Emerging technologies such as: Blockchain, FinTech, etc.</li><br />
+    <h3>Track 3: Network and IoT</h3>
     <li>
-      Internet of Things networks</li>
+      <p>Internet of Things networks</p></li>
     <li>
-      Network Infrastructure</li>
+      <p>Network Infrastructure</p></li>
     <li>
-      Energy-efficient computing in networked systems</li>
+      <p>Energy-efficient computing in networked systems</p></li>
     <li>
-      Cloud/multi-tenant systems</li>
+      <p>Cloud/multi-tenant systems</p></li>
     <li>
-      Mobile and embedded/sensor applications and systems</li>
+      <p>Mobile and embedded/sensor applications and systems</p></li>
     <li>
-      Wireless networked systems</li>
+      <p>Wireless networked systems</p></li>
     <li>
-      Ubiquitous Computing</li>
+    <p>  Ubiquitous Computing</p></li>
     <li>
-      Next Generation Infrastructure for IOT</li>
+      <p>Next Generation Infrastructure for IOT</p></li>
     <li>
-      IOT-based Smart City Solutions</li>
+      <p>IOT-based Smart City Solutions</p></li>
     <li>
-      IOT-based Smart Home</li>
+      <p>IOT-based Smart Home</p></li>
     <li>
-      IOT Standards and Application Scenarios</li>
+      <p>IOT Standards and Application Scenarios</p></li>
     <li>
-      Virtualization and resource management for networked systems</li>
+      <p>Virtualization and resource management for networked systems</p></li>
     <li>
-      Systems aspects of networking hardware</li>
+      <p>Systems aspects of networking hardware</p></li>
     <li>
-      Robotics and Automation</li>
+      <p>Robotics and Automation</p></li>
     <li>
-      Any innovative solution for a significant problem involving networked systems</li>
+    <p>  Any innovative solution for a significant problem involving networked systems</p></li><br />
+
+        <h3>Track 4: Information Technology and Applications</h3>
+
       <li>
-        <h4>Track 4: Information Technology and Applications</h4>
-      </li>
+        <p>Virtual Reality/Augmented Reality</p></li>
       <li>
-        Virtual Reality/Augmented Reality</li>
+        <p>Computer-aided Design/Manufacturing</p></li>
       <li>
-        Computer-aided Design/Manufacturing</li>
+        <p>Computing Ethics</p></li>
       <li>
-        Computing Ethics</li>
+        <p>Data Compression and Database Systems</p></li>
       <li>
-        Data Compression and Database Systems</li>
+        <p>E-commerce and E-governance</p></li>
       <li>
-        E-commerce and E-governance</li>
+        <p>Human-Computer Interaction</p></li>
       <li>
-        Human-Computer Interaction</li>
+        <p>Information Systems</p></li>
       <li>
-        Information Systems</li>
+        <p>Software Engineering</p></li>
       <li>
-        Software Engineering</li>
+        <p>Emerging Technologies in Education</p></li>
       <li>
-        Emerging Technologies in Education</li>
+        <p>E-Science and E-Services</p></li>
       <li>
-        E-Science and E-Services</li>
+      <p>  Intelligent Tutoring Systems (ITS)</p></li>
       <li>
-        Intelligent Tutoring Systems (ITS)</li>
-      <li>
-        System Design and Architecture​</li>
+      <p>  System Design and Architecture</p>​</li>
 
   </ul>
 

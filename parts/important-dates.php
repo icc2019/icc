@@ -1,19 +1,21 @@
 <div class="Organizing-Committee">
-  <h3>  Important Dates</h3>
+  <h1>  Important Dates</h1>
 
 <table>
   <tr>
-    <th>Submission Deadline</th>
-    <th>​March 30th, 2019 </th>
+    <td><p>Submission Deadline</p></td>
+    <td><p>​March 30th, 2019 </p></td>
   </tr>
   <tr>
-    <td>Notification Deadline</td>
-    <td>
-May 30th, 2019</td>
+    <td><p>Notification Deadline</p></td>
+    <td><p>May 30th, 2019  </p></td>
+
+
+
   </tr>
   <tr>
-    <td>Camera Ready Deadline</td>
-    <td>	​June 30th, 2019​</td>
+    <td><p>Camera Ready Deadline</p></td>
+    <td><p>	​June 30th, 2019​</p></td>
   </tr>
 </table>
 </div>

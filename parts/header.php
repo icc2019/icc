@@ -1,9 +1,9 @@
 <header role="banner" id="header">
-  <div class="top-block">
+  <!-- <div class="top-block">
                  <div class="top-holder">
 
 
-                 	  <!-- ***************** - Top Toolbar Left Side - ***************** -->
+                 	  
                     <div class="toolbar-left">
                        <ul class="sf-menu sf-js-enabled sf-arrows">
                           <li><a href="index.php">Home</a></li>
@@ -23,12 +23,12 @@
 
                           </li>
                        </ul>
-                    </div><!-- END toolbar-left -->
+                    </div>
 
 
 
 
-                    <!-- ***************** - Top Toolbar Right Side - ***************** -->
+                    
                     <div class="toolbar-right">
                        <ul class="social_icons tt_vector_social_icons tt_no_social_title tt_image_social_icons">
                           <li><a href="#" class="rss" title="RSS Feed">RSS</a></li>
@@ -40,9 +40,9 @@
                           <li><a href="#" class="dribbble" title="Dribbble">Dribbble</a></li>
                           <li><a href="#" class="skype" title="Skype">Skype</a></li>
                        </ul>
-                    </div><!-- END toolbar-right -->
-                 </div><!-- END top-holder -->
-              </div>
+                    </div>
+                 </div>
+              </div> -->
    <!-- END top-block -->
 
 
@@ -50,9 +50,10 @@
    <div class="header-holder tt-logo-center">
       <div class="header-overlay">
          <div class="header-area">
-            <a href="" class="logo">
-              <!-- <img src="assests/images/logo/logo.png" alt="   " class="tt-retina-logo" width="50" height="50" /> -->
-              ICC</a>
+            <a href="index.php" class="logo" >
+              <img src="assests/images/logo/logo1.png" alt="" class="tt-retina-logo" width="84" height="50" />
+
+              </a>
 
 
 
@@ -124,7 +125,7 @@
                      </ul>
                   </li>
                   <li>
-                     <a href="#" class="nav-link" ><span><strong> Program</strong></span></a>
+                     <a href="program.php" class="nav-link" ><span><strong> Program</strong></span></a>
                      <ul class="sub-menu">
 
 
@@ -133,7 +134,7 @@
 
                      </ul>
                   </li>
-                  <li>
+                  <!-- <li>
                      <a href="#" class="nav-link"><span><strong>   Media Center</strong></span></a>
                      <ul class="sub-menu">
 
@@ -147,7 +148,7 @@
 
                         </li>
                      </ul>
-                  </li>
+                  </li> -->
 
                   <li>
                      <a href="#"><span><strong>    Contact Us</strong></span></a>

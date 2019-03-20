@@ -7237,6 +7237,7 @@ div.pp_default .pp_top,div.pp_default .pp_top .pp_middle,div.pp_default .pp_top 
 
 .content-style-default p strong {
 	color: #000;
+	    float: right;
 }
 
 
@@ -7827,7 +7828,7 @@ padding-bottom: 15px;
 p {
 	line-height: 2;
 	margin-bottom: 20px;
-	font-size: 13px;
+	font-size: 18px;
 }
 
 #content ol li,

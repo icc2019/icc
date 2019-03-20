@@ -2,18 +2,12 @@
 
 
 <div class="sidebar-widget">
-  <h3> General Chairs</h3>
+  <h1> General Chairs</h1>
     <div class=" tt-column">
 
   <ul class="">
-  <ol>
-    <p>
-      General Chairs<br /><span>TBD</span>
-    </p>
-  </ol>
-  <ol>
-    <strong>General Executive Chairs</strong>
-  </ol>
+ 
+ 
 <ol>- Dr. Auhood Abd. Al Faries (chair)</ol>
 <ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
 <ol>- Dr. Heba A. Kurdi (King Saud University)</ol>
@@ -29,9 +23,9 @@
 <ol>- Dr. Manel AYADI (Princess Nourah University)</ol>
 
 <br />
-<ol><h4> Technical Program Chairs<br /></h4><span>TBD</span></ol>
+<ol><h1> Technical Program Chairs<br /></h1><span>TBD</span></ol>
   <ol>
-    <h3>Workshop committee members:</h3>
+    <h1>Workshop committee members:</h1>
   </ol>
 
 <ol>  - Dr. Norah Alghamdi (Chair)</ol>
@@ -40,13 +34,13 @@
 <ol>  - Dr. Hanen Karamti</ol>
 <ol>  - Dr. Myriam Hadjouni</ol>
 <ol>  - Mrs. Mada Alaskar </ol>
-<ol><h3>  Demo/Poster Chairs</h3></ol>
+<ol><h1>  Demo/Poster Chairs</h1></ol>
 <ol>
   - Dr. Samia Chlouk
 </ol>
 
 <ol>
-  TBD
+Publication Chair
 </ol>
   </ul>
 
@@ -62,10 +56,7 @@
 
 
 <table>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
+
   <tr>
     <td>
 Professor Hend S. Al-Khalifa</td>

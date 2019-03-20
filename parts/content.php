@@ -1,4 +1,4 @@
-<div class="content" style="padding: 0 20px 0px 20px;">
+<div class="content" >
   <h1><strong>Inter​national Conference on Computing​</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
 </span></h1>
   <p>

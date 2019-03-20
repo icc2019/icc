@@ -8,7 +8,7 @@
          <!-- END slider-content-main -->
 
          <div class="slider-content-sub">
-            <img src="assests/images/slider/01.png" alt="" />
+            <img src="assests/images/slider/s1.jpg" alt="" /><br><br><br>
          </div><!-- END slider-content-sub -->
 
       </li>

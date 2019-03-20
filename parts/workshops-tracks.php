@@ -8,7 +8,7 @@
 <strong>The topics for the workshops are under for trends as follows:</strong>
 </p>
 <ul>
-<h4>  DATA SCIENCE</h4>
+<h1>  DATA SCIENCE</h1>
 <li>Deep Learning</li>
 <li>Machine Learning</li>
 <li>Predictive Analytics</li>
@@ -27,14 +27,14 @@
 <li>Image Classification</li>
 <li>Machine translation</li>
 
-<h4>CYBER SECURITY</h4>
+<h1>CYBER SECURITY</h1>
 <li> Authentication and Authorization</li>
 <li> Communication and Network Security</li>
 <li> Security Testing and Verification</li>
 <li> Socio-technical Security</li>
 <li> Reverse Engineering</li>
 
-<h4>NETWORK</h4>
+<h1>NETWORK</h1>
 <li> Software defined networks.</li>
 <li> Network virtualization.</li>
 <li> Vehicular and 5G networks.</li>
@@ -47,7 +47,7 @@
 <li> Optical networks.</li>
 <li> Multimedia networks.</li>
 
-<h4>INTERNET OF THINGS (IOT)</h4>
+<h1>INTERNET OF THINGS (IOT)</h1>
 <li> Internet of Things Architecture</li>
 <li> Big data and IoT Data Analytics </li>
 <li> IoT and Artificial Intelligence techniques</li>
