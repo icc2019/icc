@@ -1,11 +1,12 @@
 <div class="Organizing-Committee">
-  <h3>  Workshop Proposal</h3>
+  <h1>  Workshop Proposal</h1>
 <p>
   The International Conference in Computing (ICC) will host a number of workshops. Each workshop will be led by one presenter/group of presenters for the duration of the session time, which may be half or full day. The aim of the conference workshops is to provide training session for emerging topics not specifically covered in the main conference. Workshops should highlight trend topics related to Data Science, IoT, Cyper Security, and Networks. An invitation is open to submit workshop proposals.
 </p>
 <h1>WORKSHOP TOPICS</h1>
+<br/><br/><br/><br/>
 <p>
-<strong>The topics for the workshops are under for trends as follows:</strong>
+<b>The topics for the workshops are under for trends as follows:</b>
 </p>
 <ul>
 <h1>  DATA SCIENCE</h1>
@@ -26,14 +27,14 @@
 <li>Unsupervised Learning</li>
 <li>Image Classification</li>
 <li>Machine translation</li>
-
+<br/><br/><br/><br/>
 <h1>CYBER SECURITY</h1>
 <li> Authentication and Authorization</li>
 <li> Communication and Network Security</li>
 <li> Security Testing and Verification</li>
 <li> Socio-technical Security</li>
 <li> Reverse Engineering</li>
-
+<br/><br/><br/><br/>
 <h1>NETWORK</h1>
 <li> Software defined networks.</li>
 <li> Network virtualization.</li>
@@ -46,7 +47,7 @@
 <li> Satellite networks.</li>
 <li> Optical networks.</li>
 <li> Multimedia networks.</li>
-
+<br/><br/><br/><br/>
 <h1>INTERNET OF THINGS (IOT)</h1>
 <li> Internet of Things Architecture</li>
 <li> Big data and IoT Data Analytics </li>
@@ -57,18 +58,19 @@
 <li> Real World Applications of IoT technology</li>
 <li> Green IoT</li>
 <li> The Internet of People</li>
+<br/><br/><br/><br/>
 
-<li>
   <h1>WORKSHOP PROPOSAL FORMAT</h1>
   <p>
     Each workshop proposal (maximum 3 pages) must include the following ordered information:
   </p>
-</li>
+
 
   <li> Workshop Title</li>
 <li> Workshop Organizers (names, affiliation and contact information)</li>
 <li> Workshop Scope and Topics (max 250 words)</li>
-<li><h3>Rationale (max 1 page):</h3></li>
+<br/><br/><br/><br/>
+<h1>Rationale (max 1 page):</h1>
 <li>  a.  Why the workshop topic is important and current?</li>
 <li>  b.	Why the workshop may attract a large number of researchers and audiences?</li>
 <li>  c.	Why the workshop differs from other similar conference topics and workshops?</li>
@@ -86,6 +88,7 @@
 <li>A previous workshop description (recently organized similar workshop), including the submitted paper/ presentation, number of attendees, etc.</li>
 </ul>
 <div>
+<br/><br/><br/><br/>
   <h1>WORKSHOP PROPOSAL SUBMISSION</h1>
   <p>
     You can submit a workshop proposal as a single PDF file online via the following email: <strong>ccis-cs-workshop@pnu.edu.sa​</strong>
