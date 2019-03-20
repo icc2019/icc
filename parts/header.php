@@ -101,11 +101,11 @@
                      <ul class="sub-menu">
 
                         <li>
-                           <a href="workshop-proposal.php"><span>  Workshops Tracks </span></a>
+                           <a href=" workshops-tracks.php"><span>  Workshops Tracks </span></a>
 
                         </li>
                         <li>
-                           <a href="workshops-tracks.php"><span>  Workshop Proposal </span></a>
+                           <a href="workshop-proposal.php"><span>  Workshop Proposal </span></a>
 
                         </li>
                      </ul>
