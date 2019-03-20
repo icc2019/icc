@@ -167,7 +167,11 @@ ul.twitterList li:before,
 #footer div.karma_notify p {
 	color: #444;
 }
-
+ol ,td{
+	line-height: 2;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
 /* clearfix */
 .top-block .top-holder:after,
 #header .header-area:after,
