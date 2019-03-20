@@ -10,7 +10,8 @@
    <!-- Map Section -->
    <section class="map-section">
         <!--Map Canvas-->
-  <div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Faculty%20of%20Social%20Work%20University%20of%20Princess%20Nora%20Bint%20Abdulrahman%2C%20Prince%20Muhammad%20Ibn%20Abdul%20Aziz%20Al%20Saud%2C%20Ar%20Rabwah%2C%20Riyadh%2012834+(Faculty%20of%20Social%20Work%20University%20of%20Princess%20Nora%20Bint%20Abdulrahman%2C%20Prince%20Muhammad%20Ibn%20Abdul%20Aziz%20Al%20Saud%2C%20Ar%20Rabwah%2C%20Riyadh%2012834)&amp;ie=UTF8&amp;t=&amp;z=11&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/map-my-route/">Map a route</a></iframe></div><br />
+  <div style="width: 100%">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14482.380970081042!2d46.7194638!3d24.8435119!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efb8bbb535085%3A0x1670bc0af61f7278!2s3.4.0+-+Conference+and+Convention+Center!5e0!3m2!1sen!2ssa!4v1553074032605" width="1600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </section>
     <!--End Map Section -->
 
