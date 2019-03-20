@@ -17,7 +17,7 @@
     list-style: none;">
 
          <div class="slider-content-sub">
-            <img src="assests/images/sponsers/2.jpg" alt=""width="400px" height="200px" />
+            <img src="assests/images/sponsers/2.png" alt=""width="400px" height="200px" />
          </div>
 
       </li>
