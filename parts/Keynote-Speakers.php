@@ -1,6 +1,6 @@
 
 
-<div class="testimonials flexslider" style="height: 128px;">
+<div class="testimonials flexslider" style="height: 128px;text-align: -webkit-center;">
 					  <ul class="slides">
 						 <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
                    <div class="slider-content-sub">
