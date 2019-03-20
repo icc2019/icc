@@ -1,5 +1,5 @@
 <div class="container ">
-<div class="row" >
+<div class="row"  style="text-align: -webkit-center;">
 <ul class="" tyle="margin: 0 auto;
     display: grid;
     list-style: none;">
