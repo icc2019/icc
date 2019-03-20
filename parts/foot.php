@@ -5,7 +5,7 @@
 <script type="text/javascript" src="assests/js/superfish.js"></script>
 <script type="text/javascript" src="assests/js/jquery.flexslider.js"></script>
 <script type="text/javascript" src="assests/js/jquery.fitvids.js"></script>
-<script type="text/javascript" src="assests/js/scrollWatch.js"></script>
+<!-- <script type="text/javascript" src="assests/js/scrollWatch.js"></script> -->
 <script type="text/javascript" src="assests/js/jquery.isotope.js"></script>
 <script type="text/javascript" src="assests/js/jquery.ui.core.min.js"></script>
 <script type="text/javascript" src="assests/js/jquery.ui.widget.min.js"></script>
