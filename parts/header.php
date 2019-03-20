@@ -3,7 +3,7 @@
                  <div class="top-holder">
 
 
-                 	  
+
                     <div class="toolbar-left">
                        <ul class="sf-menu sf-js-enabled sf-arrows">
                           <li><a href="index.php">Home</a></li>
@@ -28,7 +28,7 @@
 
 
 
-                    
+
                     <div class="toolbar-right">
                        <ul class="social_icons tt_vector_social_icons tt_no_social_title tt_image_social_icons">
                           <li><a href="#" class="rss" title="RSS Feed">RSS</a></li>
@@ -50,12 +50,11 @@
    <div class="header-holder tt-logo-center">
       <div class="header-overlay">
          <div class="header-area">
-            <a href="index.php" class="logo" style="    position: absolute;
-    left: 205px;">
+            <a href="index.php" class="logo" >
               <img src="assests/images/logo/logo1.png" alt="" class="tt-retina-logo" width="81" height="50" />
 
               </a>
-           
+
 
 
             <!-- ***************** - Main Menu - ***************** -->
