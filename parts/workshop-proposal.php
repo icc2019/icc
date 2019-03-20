@@ -8,11 +8,11 @@ The International Conference on Computing (ICC) will host a number of workshops.
 </p><br />
    <h1 class="text-center">WORKSHOP TOPICS</h1>
    <p>
-     <strong>The topics for the workshops are under four trends as follows:</strong>
+     <b>The topics for the workshops are under four trends as follows:</b>
    </p>
-   <h3>Data Science</h3>
+   <h1>Data Science</h1>
 <ul>
-
+<br/>
 
 <li> <p>Deep Learning</p></li>
 <li> <p>Machine Learning</p></li>
@@ -32,19 +32,16 @@ The International Conference on Computing (ICC) will host a number of workshops.
 <li> <p>Image Classification</p></li>
 <li> <p>Machine translation</p></li>
 </ul>
-
-<h3>Cyber Security</h3>
+<br/>
+<h1>Cyber Security</h1>
 <ul>
   <li> <p>Authentication and Authorization</p></li>
   <li> <p>Communication and Network Security</p></li>
   <li> <p>Security Testing and Verification</p></li>
   <li> <p>Socio-technical Security</p></li>
   <li> <p>Reverse Engineering</p></li>
-</ul>
-
-<h3></h3>
-<ul>
-  <h3>Network</h3>
+  <br/>
+  <h1>Network</h1>
 <li> <p>Software-defined networks.</p></li>
 <li> <p>Network virtualization.</p></li>
 <li> <p>Vehicular and 5G networks.</p></li>
@@ -56,8 +53,8 @@ The International Conference on Computing (ICC) will host a number of workshops.
 <li> <p>Satellite networks.</p></li>
 <li> <p>Optical networks.</p></li>
 <li> <p>Multimedia networks.</p></li>
-
-<h3>Internet of Things (IoT)</h3>
+<br/>
+<h1>Internet of Things (IoT)</h1>
 <li> <p>Internet of Things Architecture</p></li>
 <li> <p>Big data and IoT Data Analytics </p></li>
 <li> <p>IoT and Artificial Intelligence techniques</p></li>
@@ -69,11 +66,11 @@ The International Conference on Computing (ICC) will host a number of workshops.
 <li> <p>The Internet of People</p></li>
 </ul>
 
-<h3>Please address all questions to the ICC Workshops Chairs:</p></h3>
+<h1>Please address all questions to the ICC Workshops Chairs:</p></h1>
 <ul>
-  <ol>Name of chair: Dr. Norah Alghamdi</ol>
-<ol>Name of deputy chair: Dr. Dua Nassar​</ol>
-<ol>The workshop committee email: <strong>ccis-cs-workshop@pnu.edu.sa</strong></ol>
+  <ol><p>Name of chair: Dr. Norah Alghamdi</p></ol>
+<ol><p>Name of deputy chair: Dr. Dua Nassar​</p></ol>
+<ol><p>The workshop committee email: <strong>ccis-cs-workshop@pnu.edu.sa</strong></p></ol>
 </ul>
 
   </div>

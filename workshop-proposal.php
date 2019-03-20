@@ -5,14 +5,14 @@
         <!-- ******************header****************** -->
      <?php include('parts/header.php');?>
 
-   
+ 
 
          <!-- ***************** - Main Content Area - ***************** -->
          <div id="main" class="tt-slider-karma-custom-jquery-1">
             <div class="main-area">
 
             <!-- END jquery1-slider-wrap -->
-        <?php include('parts/workshop-proposal.php');?>
+        <?php include('parts/workshops-tracks.php');?>
                <main role="main" id="content" class="">
 
               </main><!-- END main #content -->

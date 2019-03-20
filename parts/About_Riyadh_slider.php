@@ -2,7 +2,7 @@
 
 <!--  --------------------------------------------------------->
 
-<div class="testimonials flexslider" style="height: 128px;">
+<div class="testimonials flexslider" style="height: 600px;    text-align: -webkit-center;">
 					  <ul class="slides">
 						 <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
                    <div class="slider-content-sub">
@@ -14,8 +14,9 @@
             Kingdom Center Tower is located at 2239 Al Urubah Rd, Al Olaya, Riyadh 12214-9597, Saudi Arabia.
 Kingdom Tower is one of the best Saudi Shopping Malls. Within the tower there are not only numerous stores but also the Four Season Hotel, apartments, offices, the Sky Bridge and Spazio Restaurant. Kingdom Centre Tower is among the most visited areas by tourists.
  <strong><a href="
-http://kingdomcentre.com.sa/?page_id=1452">More Information</a></strong>
+http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
           </p>
+          
 							</blockquote>
 						 </li>
 						 <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" class="">
@@ -27,7 +28,7 @@ http://kingdomcentre.com.sa/?page_id=1452">More Information</a></strong>
             <p>
               Al Masmak Fortress is a well known historic landmark here in Saudi Arabia. On June 11, 1995, His Royal Highness Prince Salman bin Abdul Aziz opened the Al Masmak Historical Museum, which tells the story of the Kingdom’s unification and establishment by King Abdul Aziz.  Full of rich history, Al Masmak Museum is commonly visited by tourists and history enthusiasts. This renovated 19th-century mud fortress looks like a giant sandcastle, and contains costumes, handicrafts, a sitting room, a courtyard and a well.
    <strong><a href="
-  http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx">More Information</a></strong>
+  http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue">More Information</a></strong>
             </p>
 							</blockquote>
 						 </li>
@@ -80,7 +81,7 @@ Location: : Al Ameen Abdullah Al Ali Al Naeem Street, Riyadh 12836</strong>
 </h2>
             <p>
             The National Museum of Riyadh is the most famous museum in the Kingdom of Saudi Arabia. Located in the middle part of King Abdul-Aziz Historical Center, which was established to be a cultural and civilization center highlighting the prominent history of the Arabian Peninsula. It is a museum that aims to introduce the KSA history with its role and fundamentals. The museum consists of 10 galleries, courtyards and a section that houses fancy cars and other belongings of the founding king of Saudi Arabia.
-   <strong><a href="http://www.nationalmuseum.org.sa/introduction.aspx">More Information</a></strong>
+   <strong><a href="http://www.nationalmuseum.org.sa/introduction.aspx"class="ka_button small_button small_politicalblue" >More Information</a></strong>
             </p>
                                </blockquote>
                              </li>
