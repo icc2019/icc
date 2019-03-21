@@ -2,12 +2,14 @@
 
 
 <div class="sidebar-widget">
-  <h1> General Chairs</h1>
+
     <div class=" tt-column">
 
   <ul class="">
- 
- 
+<ol>
+    <h1> General Chairs</h1>
+</ol>
+
 <ol>- Dr. Auhood Abd. Al Faries (chair)</ol>
 <ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
 <ol>- Dr. Heba A. Kurdi (King Saud University)</ol>
@@ -40,7 +42,7 @@
 </ol>
 
 <ol>
-Publication Chair
+<h1>Publication Chair</h1>
 </ol>
   </ul>
 

@@ -170,7 +170,10 @@ ul.twitterList li:before,
 ol ,td{
 	line-height: 2;
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 24px;
+}
+sup{
+	    vertical-align: super;
 }
 /* clearfix */
 .top-block .top-holder:after,
@@ -555,7 +558,7 @@ div.comment-content,
 }
 
 #header .header-area {
-	padding: 35px 0;
+	padding: 0px 0;
 }
 
 #header .logo {
@@ -589,7 +592,7 @@ div.comment-content,
 
 #header .header-holder.tt-logo-center .logo,
 #header .header-holder.tt-logo-center .custom-logo {
-	float: none;
+	/* float: none; */
     margin: 0 0 10px;
 }
 
@@ -605,7 +608,7 @@ div.comment-content,
 }
 
 #header .header-holder.tt-logo-center nav {
-	padding-top:15px;
+	padding-top:30px;
 }
 
 #header .header-holder.tt-logo-center #menu-main-nav,
@@ -7827,12 +7830,14 @@ h1, h2, h3, h4, h5, h6 {
 color: #155e81;
 border-bottom: 1px solid;
 padding-bottom: 15px;
+font-size: 26px;
+font-weight: bold;
 }
 
 p {
 	line-height: 2;
 	margin-bottom: 20px;
-	font-size: 18px;
+	font-size: 24px;
 }
 
 #content ol li,

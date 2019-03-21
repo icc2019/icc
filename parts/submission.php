@@ -6,14 +6,12 @@
   International Conference on Computing (ICC) invites authors to submit original contributions in the event research area. ICC covers four main themes: Data Science, Cyber Security, Networks and IoT and Information System and Applications.
 </p>
 <p>
-  Papers accepted and presented at ICC will be published as an open access on the conference website, and will be submitted for possible inclusion in Procedia Computer Science from Science Direct.
+  Papers accepted and presented at ICC , and will be submitted for possible inclusion in Procedia Computer Science from Science Direct.
 </p>
 <p>
   Authors of selected papers accepted for publication in ICC proceedings will be invited to submit an extended version of their papers to the conference related journals.
 </p>
-<p>
-Authors are invited to submit their original research work that has not previously been submitted or published in any other venue.
-</p>
+
 <h1>Submission Information</h1>
 <p>
   <p>
@@ -40,7 +38,7 @@ Authors are invited to submit their original research work that has not previous
 </p>
 <h1>Proceedings</h1>
 <p>
-  Accepted papers will be published in Procedia Computer Science by ELSEVIER. Every peer-reviewed research article appearing in Procedia Computer Science will be published as an open access on ScienceDirect and will have a DOI assigned. Procedia Computer Science of this series is indexed in Scopus and ISI, the largest abstract and citation database of peer-reviewed literature
+  Accepted papers possibly published in Procedia Computer Science by ELSEVIER. Every peer-reviewed research article appearing in Procedia Computer Science will be published as an open access on ScienceDirect and will have a DOI assigned. Procedia Computer Science of this series is indexed in Scopus and ISI, the largest abstract and citation database of peer-reviewed literature
 </p>
 <h1>Post-Conference Journal Publication</h1>
 <p>

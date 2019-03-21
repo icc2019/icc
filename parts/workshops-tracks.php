@@ -95,7 +95,7 @@
   </p>
 </div>
 <table>
- 
+
   <tr>
     <td><p>​The deadline for workshop abstract submission </p></td>
     <td><p>April 10th , 2019</p></td>
@@ -113,6 +113,6 @@
 <ol><p><b>Please address all questions to the ICC Workshops Chairs:</b></p></ol>
 <ol><p>Name of chair: Dr. Norah Alghamdi</p></ol>
 <ol><p>Name of deputy chair: Dr. Dua Nassar​</p></ol>
-<ol><p>The workshop committee email: <b>ccis-cs-workshop@pnu.edu.sa</p></b></ol>
+<ol><p>The workshop committee email: <strong>ccis-cs-workshop@pnu.edu.sa</strong></p></ol>
 </ul>
 </div>
