@@ -20,7 +20,7 @@
 
 
 <!-- Favicon -->
-<!-- <link rel="shortcut icon" href="images/favicon.ico"/> -->
+<link rel="shortcut icon" href="assests/images/logo/favicon.ico"/>
 
 
 <!-- Google Font -->
