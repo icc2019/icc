@@ -165,7 +165,7 @@ ul.twitterList li:before,
 .ui-state-active a,
 .contact-form label,
 #footer div.karma_notify p {
-	color: #444;
+	color: #000;
 }
 ol ,td{
 	line-height: 2;
@@ -667,7 +667,7 @@ div.comment-content,
 /*----------------------------*/
 #main {
 	width: 100%;
-	background: url(images/_global/bg-div-main.png) 0 0 repeat-x;
+	/* background: url(images/_global/bg-div-main.png) 0 0 repeat-x; */
 }
 
 #main.tt-splash-page {
@@ -3000,7 +3000,9 @@ p.top-block-title {
 	font-size: 1.1em;
 	color: #CCC;
 }
-
+p::selection {
+		 background: #176285;
+	 }
 #sidebar h2 {
 	padding-bottom: 5px;
 	font-size: 10px;
