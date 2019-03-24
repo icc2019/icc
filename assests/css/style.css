@@ -3000,9 +3000,14 @@ p.top-block-title {
 	font-size: 1.1em;
 	color: #CCC;
 }
-p::selection {
-		 background: #176285;
+
+
+	 ::selection{
+		 background: #166083;
+		 color: #FFF;
 	 }
+	 ::-moz-selection{background: #166083;color: #FFF;}
+		 ::-webkit-selection{background: #166083;color: #FFF;}
 #sidebar h2 {
 	padding-bottom: 5px;
 	font-size: 10px;
