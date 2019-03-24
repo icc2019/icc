@@ -105,7 +105,7 @@ The International Conference on Computing (ICC) will host a number of workshops.
 <ul>
   <ol><p>Name of chair: Dr. Norah Alghamdi</p></ol>
 <ol><p>Name of deputy chair: Dr. Dua Nassar​</p></ol>
-<ol><p>The workshop committee email: <strong>ccis-cs-workshop@pnu.edu.sa</strong></p></ol>
+<ol><p>The workshop committee email: <a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a></p></ol>
 </ul>
 
   </div>
