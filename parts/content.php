@@ -1,5 +1,5 @@
 <div class="content" >
-  <h1><strong>Inter​national Conference on Computing​</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
+  <h1><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
 </span></h1>
   <p>
     In light of the KSA vision 2030, PNU will hold ICC, in October 22-24 2019.  ICC brings executives, professionals, educators, researchers, and practitioners to one hub that will foresee tomorrow's challenges today, suggesting solutions, trading ideas, and analyzing and discussing current developments in information technology within: Data Science, Cyber Security, Network & IOT, and Information Systems.

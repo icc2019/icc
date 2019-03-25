@@ -1,50 +1,15 @@
 <header role="banner" id="header">
-  <!-- <div class="top-block">
-                 <div class="top-holder">
+<div>
+  <img src="assests/images/slider/s1.jpg" />
+  <div class="content" style="    position: absolute;
+    top: 402px;
+    left: 684px;" >
+    <h1 style="color:#FFF;border-bottom:0px"><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
+  </span></h1>
 
+  </div>
 
-
-                    <div class="toolbar-left">
-                       <ul class="sf-menu sf-js-enabled sf-arrows">
-                          <li><a href="index.php">Home</a></li>
-
-                            <ul class="sub-menu" style="display: none;">
-                              <li><a href="content-features.html">Features Overview</a></li>
-                              <li><a href="content-design.html">Design Options</a></li>
-
-                           </ul>
-                          </li>
-                          <li class="">
-                             <a href="Keynote-Speakers.php" >speakers</a>
-
-                          </li>
-                          <li class="">
-                             <a href="Sponsors-and-Partners.php" >Sponsors</a>
-
-                          </li>
-                       </ul>
-                    </div>
-
-
-
-
-
-                    <div class="toolbar-right">
-                       <ul class="social_icons tt_vector_social_icons tt_no_social_title tt_image_social_icons">
-                          <li><a href="#" class="rss" title="RSS Feed">RSS</a></li>
-                          <li><a href="#" class="twitter" title="Twitter">Twitter</a></li>
-                          <li><a href="#" class="facebook" title="Facebook">Facebook</a></li>
-                          <li><a href="#" class="email" title="Email">Email</a></li>
-                          <li><a href="#" class="linkedin" title="LinkedIn">LinkedIn</a></li>
-                          <li><a href="#" class="google +" title="Google +">Google+</a></li>
-                          <li><a href="#" class="dribbble" title="Dribbble">Dribbble</a></li>
-                          <li><a href="#" class="skype" title="Skype">Skype</a></li>
-                       </ul>
-                    </div>
-                 </div>
-              </div> -->
-   <!-- END top-block -->
-
+</div>
 
 
    <div class="header-holder tt-logo-center">
@@ -60,8 +25,11 @@
             <!-- ***************** - Main Menu - ***************** -->
             <nav role="navigation">
                <ul id="menu-main-nav">
+                 <li>
+                    <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
+                 </li>
                   <li>
-                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
+                     <a href="index.php" class="nav-link"><span><strong>Committees</strong></span></a>
                      <ul class="sub-menu">
 
 
@@ -71,14 +39,7 @@
                         </li>
                         <li>
                            <a href="Organizing-Committee.php"><span>Organizing Committee </span></a>
-
                         </li>
-                        <li>
-                           <a href="Sponsors-and-Partners.php"><span>Sponsors and Partners </span></a>
-
-                        </li>
-
-
                      </ul>
                   </li>
 
@@ -112,27 +73,23 @@
                   </li>
 
                   <li>
-                     <a href="#" class="nav-link"><span><strong>Attending</strong></span></a>
+                     <a href="#" class="nav-link"><span><strong>Practical Information</strong></span></a>
                      <ul class="sub-menu">
                         <li><a href="Registration.php"><span>  Registration</span></a></li>
 
                         <li><a href="Venue.php"><span> Venue</span></a></li>
                         <li><a href="About-Riyadh.php"><span>   About Riyadh</span></a></li>
-
-
-
-
+                            <li><a href="visa_support.php"><span>   Visa Support</span></a></li>
                      </ul>
                   </li>
                   <li>
-                     <a href="#" class="nav-link" ><span><strong> Program</strong></span></a>
-                     <ul class="sub-menu">
+                     <a href="Program.php" class="nav-link" ><span><strong> Program</strong></span></a>
+                  </li>
 
 
-                       <li> <a href="Keynote-Speakers.php"><span>   Keynote Speakers  </span></a>  </li>
-                          <li> <a href="Program.php"><span>  Program   </span></a>  </li>
+                  <li>
+                     <a href="Keynote-Speakers.php" class="nav-link" ><span><strong> Keynote Speakers</strong></span></a>
 
-                     </ul>
                   </li>
                   <!-- <li>
                      <a href="#" class="nav-link"><span><strong>   Media Center</strong></span></a>
@@ -149,17 +106,13 @@
                         </li>
                      </ul>
                   </li> -->
-
                   <li>
-                     <a href="#"><span><strong>    Contact Us</strong></span></a>
-                     <ul class="sub-menu">
+                     <a href="Sponsors-and-Partners.php"><span> <strong>Sponsors and Partners</strong> </span></a>
 
-                        <li>
-                           <a href="contactUs.php"><span>    Contact Us </span></a>
+                  </li>
+                  <li>
+                     <a href="contactUs.php"><span><strong>    Contact Us</strong></span></a>
 
-                        </li>
-
-                     </ul>
                   </li>
 
 
