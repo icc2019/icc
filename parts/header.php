@@ -1,10 +1,8 @@
 <header role="banner" id="header">
 <div>
   <img src="assests/images/slider/s1.jpg" />
-  <div class="content" style="    position: absolute;
-    top: 402px;
-    left: 684px;" >
-    <h1 style="color:#FFF;border-bottom:0px"><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
+  <div class="headercontent" >
+    <h1 ><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
   </span></h1>
 
   </div>
