@@ -31,7 +31,7 @@
 <link rel="stylesheet" href="assests/css/style.css" type="text/css" media="all" />
 <!-- <link rel="stylesheet" href="assests/css/rtl-style.css"  media="all"/> -->
 <link rel="stylesheet" href="assests/css/_mobile.css" type="text/css" media="all" />
-
+<link rel="stylesheet" href="assests/css/bootstrap.css"  />
 
 <!-- Color Scheme CSS -->
 <link rel="stylesheet" href="assests/css/karma-political-blue.css" type="text/css" media="all" />
