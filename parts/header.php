@@ -1,6 +1,6 @@
-<header role="banner" id="header">
+
 <div>
-  <img src="assests/images/slider/s1.jpg" />
+  <img src="assests/images/slider/s1.jpg" style="height: -webkit-fill-available" />
   <div class="headercontent" >
     <h1 ><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
   </span></h1>
@@ -8,6 +8,8 @@
   </div>
 
 </div>
+<header role="banner" id="header">
+
 
 
    <div class="header-holder tt-logo-center">

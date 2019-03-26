@@ -1,32 +1,27 @@
 <?php include('parts/head.php');?>
 
-
-        <!-- ******************header****************** -->
-   <?php include('parts/header.php');?>
-
-
-
    <div id="tt-wide-layout" class="content-style-default">
       <div id="wrapper">
+        <!-- ******************header****************** -->
+     <?php include('parts/header.php');?>
+
+
 
          <!-- ***************** - Main Content Area - ***************** -->
          <div id="main" class="tt-slider-karma-custom-jquery-1">
-           <div class="container-fluid">
-      <div class="row">
+            <div class="main-area">
 
-        <div class="main-area">
+            <!-- END jquery1-slider-wrap -->
+        <?php include('parts/visa_support_content.php');?>
+               <main role="main" id="content" class="">
 
+              </main><!-- END main #content -->
 
-           <?php //include('parts/slider.php');?>
+            </div><!-- END main-area -->
 
-            <?php include('parts/content.php');?>
+         <div id="footer-top">&nbsp;</div>
+      </div><!-- END main -->
 
-     <div id="footer-top">&nbsp;</div>
-
-      </div>
-
-      </div>
-</div>
 
 
 
@@ -36,7 +31,6 @@
 
 </div><!-- END wrapper -->
 </div><!-- END tt-layout -->
-</div>
 
 
 <!-- *************foot**************** -->

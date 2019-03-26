@@ -64,7 +64,11 @@ ol ,p {
   }
 
   .headercontent h1 {
-display: none;
+    top: 330px;
+    position: absolute;
+    color: #FFF;
+    border-bottom: none;
+    text-align: center;
   } }
 
 /* // Small devices (landscape phones, 576px and up) */
@@ -85,7 +89,7 @@ display: none;
 
   .headercontent h1 {
     left: 92px;
-top: 206px;
+top: 500px;
         color: #FFF;
             position: absolute;
             border-bottom: none;
@@ -104,6 +108,7 @@ top: 206px;
           color: #FFF;
               position: absolute;
               border-bottom: none;
+                  text-align: -webkit-center;
   }}
 
 /* // Extra large devices (large desktops, 1200px and up) */
@@ -118,5 +123,5 @@ top: 206px;
         top: 340px;
         border-bottom: none;
         /* float: left; */
-        left: 565px;
+        left: 435px;
   } }
