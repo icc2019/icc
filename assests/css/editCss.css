@@ -89,7 +89,7 @@ ol ,p {
 
   .headercontent h1 {
     left: 92px;
-top: 500px;
+top: 52px;
         color: #FFF;
             position: absolute;
             border-bottom: none;
@@ -104,7 +104,7 @@ top: 500px;
 
   .headercontent h1 {
       left: 219px;
-          top: 248px;
+          top: 48px;
           color: #FFF;
               position: absolute;
               border-bottom: none;
@@ -120,8 +120,12 @@ top: 500px;
   .headercontent h1 {
     color: #FFF;
         position: absolute;
-        top: 340px;
+        top: 78px;
         border-bottom: none;
         /* float: left; */
         left: 435px;
   } }
+
+  .member-bio{
+    width: auto;
+  }

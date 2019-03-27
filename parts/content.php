@@ -1,44 +1,4 @@
-<!-- <div class="col-lg-3">
-  <h1> Sponsors</h1>
-  <ul class="" tyle="margin: 0 auto;
-      display: grid;
-      list-style: none;">
-        <li style="margin: 0 auto;
-      display: grid;
-      list-style: none;">
-
-           <div class="slider-content-sub">
-              <img src="assests/images/sponsers/0.png" alt="" width="400px" height="200px"/>
-           </div>
-
-        </li>
-        <li class="jqslider karma-slider-normal-image" style="margin: 0 auto;
-      display: grid;
-      list-style: none;">
-
-           <div class="slider-content-sub">
-              <img src="assests/images/sponsers/2.png" alt=""width="400px" height="200px" />
-           </div>
-
-        </li>
-        <li class="jqslider karma-slider-normal-image" style="margin: 0 auto;
-      display: grid;
-      list-style: none;">
-
-           <div class="slider-content-sub">
-              <img src="assests/images/sponsers/1.png" alt=""width="400px" height="200px" />
-           </div>
-           <div class="slider-content-sub">
-              <img src="assests/images/sponsers/4.png" alt=""width="400px" height="200px" />
-           </div>
-           <div class="slider-content-sub">
-              <img src="assests/images/sponsers/Orange_logo.svg" alt=""width="400px" height="200px" />
-           </div>
-
-        </li>
-
-     </ul>
-</div> -->
+<?php include('right-panel.php');?>
 <div class="col-lg-6">
   <div class="content" >
     <h1><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
@@ -51,12 +11,5 @@
     </p>
   </div>
 
-
 </div>
-<!-- <div class="col-lg-3">
-<h1>Important Dates</h1>
-<p>
-
-</p>
-<h1>Updates</h1> -->
-</div>
+<?php include('left-panel.php');?>

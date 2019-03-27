@@ -1,6 +1,6 @@
+<?php include('right-panel.php'); ?>
+<div class="col-lg-6">
 <div class="links">
-
-
 <div class="sidebar-widget">
 
     <div class=" tt-column">
@@ -148,3 +148,6 @@ George Washington University, USA</td>
 
 </div>
 </div>
+</div>
+
+<?php include('left-panel.php'); ?>

@@ -1,6 +1,8 @@
 
 <div>
-  <img src="assests/images/slider/s1.jpg" style="height: -webkit-fill-available" />
+  <img src="assests/images/slider/s1.jpg" style="max-height: 240px;
+    width: 100%;
+    object-fit: initial;" />
   <div class="headercontent" >
     <h1 ><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
   </span></h1>
