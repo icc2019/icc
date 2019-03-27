@@ -1,4 +1,4 @@
-<div class="col-lg-3">
+<div class="col-lg-3 ">
 <h1>Important Dates</h1>
 
 <div>

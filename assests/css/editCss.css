@@ -19,7 +19,9 @@ ol ,p {
 
 }
 
-
+.member-wrap .member-bio h4{
+  padding-top: 20px
+}
 
 @media only screen and (max-width: 479px){
 .jquery1-slider-wrap {
@@ -64,11 +66,7 @@ ol ,p {
   }
 
   .headercontent h1 {
-    top: 330px;
-    position: absolute;
-    color: #FFF;
-    border-bottom: none;
-    text-align: center;
+  display: none;
   } }
 
 /* // Small devices (landscape phones, 576px and up) */

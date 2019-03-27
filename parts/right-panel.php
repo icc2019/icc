@@ -1,4 +1,4 @@
-<div class="col-lg-3">
+<div class="col-lg-3 col-sm-3">
   <h1> Sponsors</h1>
   <ul class="" tyle="margin: 0 auto;
       display: grid;
@@ -39,3 +39,4 @@
 
      </ul>
 </div>
+<br />
