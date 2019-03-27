@@ -1,5 +1,5 @@
 <?php include('right-panel.php');?>
-<div class="col-lg-6">
+<div class="col-lg-6 col-sm-6">
   <div class="Organizing-Committee">
     <h1> Organizer Committee</h1>
     <div class="text-center">

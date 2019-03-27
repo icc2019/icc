@@ -1,5 +1,5 @@
 <?php include('right-panel.php');?>
-<div class="col-lg-6">
+<div class="col-lg-6 col-sm-6">
   <div class="content" >
     <h1><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
   </span></h1>

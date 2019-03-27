@@ -2,7 +2,7 @@
 
 <?php include('right-panel.php');?>
 
-<div class="col-lg-6">
+<div class="col-lg-6 col-sm-6">
   <!-- ============================================================================= -->
   <div class="member-wrap">
                            <div class="member-photo">
