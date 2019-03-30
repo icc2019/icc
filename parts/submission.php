@@ -1,5 +1,5 @@
 
-<?php include('tracks.php');?>
+
 <div class="col">
   <div class="Organizing-Committee">
     <h1>  Submission</h1>
