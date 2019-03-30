@@ -1,11 +1,9 @@
 <div class="container ">
 <div class="row"  style="text-align: -webkit-center;">
-<ul class="" tyle="margin: 0 auto;
+<ul class="" style="margin: 0 auto;
     display: grid;
     list-style: none;">
-      <li style="margin: 0 auto;
-    display: grid;
-    list-style: none;">
+      <li >
 
          <div class="slider-content-sub">
            <a href="https://consumer.huawei.com/sa-en/
@@ -15,9 +13,7 @@
          </div>
 
       </li>
-      <li class="jqslider karma-slider-normal-image" style="margin: 0 auto;
-    display: grid;
-    list-style: none;">
+      <li class="jqslider karma-slider-normal-image ">
 
          <div class="slider-content-sub">
            <a href="https://www.dellemc.com/ar-sa/index.htm
@@ -28,13 +24,11 @@
          </div>
 
       </li>
-      <li class="jqslider karma-slider-normal-image" style="margin: 0 auto;
-    display: grid;
-    list-style: none;">
+      <li class="jqslider karma-slider-normal-image" >
 
          <div class="slider-content-sub">
            <a href="http://www.aecl.com/en/Home
-" target="_blank"
+" target="_blank">
             <img src="assests/images/sponsers/1.png" alt=""width="400px" height="200px" />
           <h3>AEC</h3></a>
          </div>

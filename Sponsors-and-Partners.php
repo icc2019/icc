@@ -9,9 +9,8 @@
 
          <!-- ***************** - Main Content Area - ***************** -->
          <div id="main" class="tt-slider-karma-custom-jquery-1">
-            <div class="main-area">
-                <?php //include('parts/aside.php');?>
-                 <?php //include('parts/article.php');?>
+
+            <br />  <br />  <br />
               <?php include('parts/Sponsors-and-Partners.php');?>
             <!-- END jquery1-slider-wrap -->
 
@@ -19,7 +18,7 @@
 
               </main><!-- END main #content -->
 
-            </div><!-- END main-area -->
+
 
          <div id="footer-top">&nbsp;</div>
       </div><!-- END main -->
