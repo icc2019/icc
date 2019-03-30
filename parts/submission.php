@@ -43,23 +43,6 @@ International Conference on Computing (ICC) invites authors to submit original c
 
   </p>
 
-  <h1>Post-Conference Journal Publication</h1>
-  <p>
-    Distinguished papers, after further revisions, will be considered for publication in special issues of international journals, including:
-  </p>
-  <ul>
-    <li>
-    <p>
-         Journal of King Saud – Computer and Information Sciences (Scopus and ESCI ISI indexed) - ISSN: 1319-1578.
-    </p>
-    </li>
-    <li>
-      <p>
-        Journal of Universal Computer Science (Pending Approval) - ISI Indexed - ISSN 0948-695x.
-      </p>
-    </li>
-  </ul>
-  <h3>Please <a href="https://easychair.org/account/signin.cgi?key=86068444.Kdrs1GSQOSVAaP4u">(Click here)</a> to start your submission ​process</h3>
     </div>
   </div>
 
