@@ -2,7 +2,7 @@
 <div class="col">
   <div class="Organizing-Committee">
   <h1>Tracks</h1>
-  <h4>Topics</h4><br /><p>
+  <br /><p>
   We solicit papers on all areas of interest to the ICC community and aligned fields, including but not limited to:
   </p>
     <div class="one_half tt-column">
