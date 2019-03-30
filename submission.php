@@ -12,7 +12,8 @@
             <div class="main-area">
 
             <!-- END jquery1-slider-wrap -->
-        <?php include('parts/submission.php');?>
+            <?php include('parts/tracks.php');?>
+          <?php include('parts/submission.php');?>
                <main role="main" id="content" class="">
 
               </main><!-- END main #content -->
