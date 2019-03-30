@@ -5,7 +5,7 @@
      <p>  Hend Al-Khalifa<strong>King Saud University</strong></p>
       <p> Auhood Abd. Al Faries<strong>Princes Nourah bint Abdulrahman University, KSA</strong></p>
       <p> Ansar Yasar<strong>Hasselt University, Belgium</strong></p>
-      <p> Dr. Norah Alghamdi<strong>(Chair of Workshops Committee)</strong></p>
+    
     </div>
     <h1>Steering Committee</h1>
     <div class="text-center">

@@ -8,9 +8,10 @@
     list-style: none;">
 
          <div class="slider-content-sub">
+           <a href="https://consumer.huawei.com/sa-en/
+"  target="_blank">
             <img src="assests/images/sponsers/0.png" alt="" width="400px" height="200px"/>
-            <a href="https://consumer.huawei.com/sa-en/
-"><h3>HUAWEI</h3></a>
+            <h3>HUAWEI</h3></a>
          </div>
 
       </li>
@@ -19,9 +20,10 @@
     list-style: none;">
 
          <div class="slider-content-sub">
+           <a href="https://www.dellemc.com/ar-sa/index.htm
+" target="_blank">
             <img src="assests/images/sponsers/2.png" alt=""width="400px" height="200px" />
-            <a href="https://www.dellemc.com/ar-sa/index.htm
-"><h3>DEL EMC
+          <h3>DEL EMC
 </h3></a>
          </div>
 
@@ -31,19 +33,22 @@
     list-style: none;">
 
          <div class="slider-content-sub">
+           <a href="http://www.aecl.com/en/Home
+" target="_blank"
             <img src="assests/images/sponsers/1.png" alt=""width="400px" height="200px" />
-            <a href="https://www.cisco.com/c/en_sa/index.html
-"><h3>AEC</h3></a>
+          <h3>AEC</h3></a>
          </div>
          <div class="slider-content-sub">
+           <a href="https://www.cisco.com/c/en_sa/index.html
+"  target="_blank">
             <img src="assests/images/sponsers/4.png" alt=""width="400px" height="200px" />
-            <a href="https://www.cisco.com/c/en_sa/index.html
-"><h3>CISCO</h3></a>
+          <h3>CISCO</h3></a>
          </div>
          <div class="slider-content-sub">
+           <a href="https://www.orange-business.com/en
+       "  target="_blank">
             <img src="assests/images/sponsers/Orange_logo.svg" alt=""width="400px" height="200px" />
-            <a href="https://www.orange-business.com/en
-        "> <h3>Orange</h3> </a>
+           <h3>Orange</h3> </a>
          </div>
 
       </li>
