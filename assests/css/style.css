@@ -7836,16 +7836,18 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 12px;
 	margin-bottom: 14px;
 color: #155e81;
-border-bottom: 1px solid;
+/* border-bottom: 1px solid; */
 padding-bottom: 15px;
 font-size: 26px;
 font-weight: bold;
+font-size: 28px;
+padding-left: 13px;
 }
 
 p {
 	line-height: 2;
 	margin-bottom: 20px;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 #content ol li,

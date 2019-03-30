@@ -1,5 +1,5 @@
-<?php include('right-panel.php'); ?>
-<div class="col-lg-6 col-sm-6">
+<?php //include('right-panel.php'); ?>
+<div class="coم">
 <div class="links">
 <div class="sidebar-widget">
 
@@ -150,4 +150,5 @@ George Washington University, USA</td>
 </div>
 </div>
 
-<?php include('left-panel.php'); ?>
+<?php //include('left-panel.php'); ?>
+<?php include('bottom-panel.php');?>

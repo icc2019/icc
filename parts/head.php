@@ -13,7 +13,7 @@
 <meta charset="UTF-8">
 <script type="text/javascript" src="assests/js/jquery.js"></script>
 <title>ICC</title>
-
+<link rel="stylesheet" href="assests/css/bootstrap.css"  />
 
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title="#" href="#" />
@@ -31,7 +31,7 @@
 <link rel="stylesheet" href="assests/css/style.css" type="text/css" media="all" />
 <!-- <link rel="stylesheet" href="assests/css/rtl-style.css"  media="all"/> -->
 <link rel="stylesheet" href="assests/css/_mobile.css" type="text/css" media="all" />
-<link rel="stylesheet" href="assests/css/bootstrap.css"  />
+
 
 <!-- Color Scheme CSS -->
 <link rel="stylesheet" href="assests/css/karma-political-blue.css" type="text/css" media="all" />

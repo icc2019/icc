@@ -1,13 +1,13 @@
 
 <div>
-  <img src="assests/images/slider/s1.jpg" style="max-height: 240px;
+  <img src="assests/images/slider/banner.jpg" style="max-height: 240px;
     width: 100%;
     object-fit: initial;" />
-  <div class="headercontent" >
+  <!-- <div class="headercontent" >
     <h1 ><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
   </span></h1>
 
-  </div>
+  </div> -->
 
 </div>
 <header role="banner" id="header">
@@ -31,25 +31,15 @@
                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
                  </li>
                   <li>
-                     <a href="#" class="nav-link"><span><strong>Committees</strong></span></a>
-                     <ul class="sub-menu">
-
-
-                        <li>
-                           <a href="General-Chairs.php"><span>General Chairs</span></a>
-
-                        </li>
-                        <li>
-                           <a href="Organizing-Committee.php"><span>Organizing Committee </span></a>
-                        </li>
-                     </ul>
+                     <a href="Committees.php" class="nav-link"><span><strong>Committees</strong></span></a>
+                  
                   </li>
 
 
                   <li>
                      <a href="#" class="nav-link"><span><strong>Call For Papers </strong></span></a>
                      <ul class="sub-menu">
-                        <li><a href="tracks.php"><span> Tracks</span></a></li>
+
                         <li><a href="submission.php"><span> Submission</span></a></li>
                         <li><a href="Important-Dates.php"><span> Important Dates</span></a></li>
 
@@ -64,7 +54,7 @@
                      <ul class="sub-menu">
 
                         <li>
-                           <a href="   workshops-tracks.php"><span>  Workshops Tracks </span></a>
+                           <a href="   workshops-tracks.php"><span>  Workshops  </span></a>
 
                         </li>
                         <li>

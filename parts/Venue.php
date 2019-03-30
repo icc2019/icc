@@ -1,5 +1,5 @@
-<?php include('right-panel.php');?>
-<div class="col-lg-6 col-sm-6">
+<?php //include('right-panel.php');?>
+<div class="col">
   <div class="Organizing-Committee">
     <h1>  Location</h1>
     <br><br>
@@ -24,4 +24,5 @@
   </div>
   </div>
 
-<?php include('left-panel.php');?>
+<?php //include('left-panel.php');?>
+<?php include('bottom-panel.php');?>

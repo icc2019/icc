@@ -1,8 +1,8 @@
 
 
-<?php include('right-panel.php');?>
+<?php //include('right-panel.php');?>
 
-<div class="col-lg-6 col-sm-6">
+<div class="col">
   <!-- ============================================================================= -->
   <div class="member-wrap">
                            <div class="member-photo">
@@ -144,4 +144,5 @@
 
 </div>
 
-<?php include('left-panel.php');?>
+<?php //include('left-panel.php');?>
+<?php include('bottom-panel.php');?>
