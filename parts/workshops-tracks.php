@@ -13,11 +13,11 @@
   </p>
     <div class=" tt-column">
                        <div class="tabs-area ui-tabs ui-widget ui-widget-content ui-corner-all">
-                          <ul class="tabset ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
-                             <li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="-1" aria-controls="tab-3" aria-labelledby="ui-id-4" aria-selected="false"><a href="#tab-3" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4"><span>    DATA SCIENCE</span></a></li>
-                             <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab-4" aria-labelledby="ui-id-5" aria-selected="false"><a href="#tab-4" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5"><span> CYBER SECURITY</span></a></li>
-                             <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab-5" aria-labelledby="ui-id-6" aria-selected="false"><a href="#tab-5" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6"><span>  NETWORK</span></a></li>
-                             <li class="ui-state-default ui-corner-top " role="tab" tabindex="0" aria-controls="tab-6" aria-labelledby="ui-id-7" aria-selected="true"><a href="#tab-6" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7"><span>INTERNET OF THINGS (IOT)</span></a></li>
+                          <ul class="tabset ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all row" role="tablist">
+                             <li class="ui-state-default ui-corner-top  col-lg-2 col-xs-12 col-sm-12 " role="tab" tabindex="-1" aria-controls="tab-3" aria-labelledby="ui-id-4" aria-selected="false"><a href="#tab-3" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4"><span>    DATA SCIENCE</span></a></li>
+                             <li class="ui-state-default ui-corner-top  col-lg-2 col-xs-12 col-sm-12" role="tab" tabindex="-1" aria-controls="tab-4" aria-labelledby="ui-id-5" aria-selected="false"><a href="#tab-4" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5"><span> CYBER SECURITY</span></a></li>
+                             <li class="ui-state-default ui-corner-top  col-lg-2 col-xs-12 col-sm-12" role="tab" tabindex="-1" aria-controls="tab-5" aria-labelledby="ui-id-6" aria-selected="false"><a href="#tab-5" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6"><span>  NETWORK</span></a></li>
+                             <li class="ui-state-default ui-corner-top  col-lg-2 col-xs-12 col-sm-12 " role="tab" tabindex="-1" aria-controls="tab-6" aria-labelledby="ui-id-7" aria-selected="false"><a href="#tab-6" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7"><span>INTERNET OF THINGS (IOT)</span></a></li>
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
                              <p> <ul>
