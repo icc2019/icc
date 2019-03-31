@@ -8,7 +8,7 @@
          <div class="slider-content-sub">
            <a href="https://consumer.huawei.com/sa-en/
 "  target="_blank">
-            <img src="assests/images/sponsers/0.png" alt="" width="400px" height="200px"/>
+            <img src="assests/images/sponsers/huawei-icon.svg" alt="" width="400px" height="200px"/>
             <h3>HUAWEI</h3></a>
          </div>
 
