@@ -10,8 +10,12 @@
     <h1> General Chairs</h1>
 </ol>
 
-<ol>- Dr. Auhood Abd. Al Faries (chair)</ol>
-<ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
+<ol> Auhood Abd. Al Faries <strong>Princes Nourah bint Abdulrahman University, KSA</strong></ol>
+ <ol>Ansar Yasar <strong>Hasselt University, Belgium</strong></ol>
+<ol>Hend Al-Khalifa<strong> King Saud University</strong></ol>
+
+
+<!-- <ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
 <ol>- Dr. Heba A. Kurdi (King Saud University)</ol>
 <ol>- Prof. Elhadi Shakshuki (Acadia University, Canada)</ol>
 <ol>- Dr. Hessah Aleisa (Princess Nourah University)</ol>
@@ -43,7 +47,7 @@
 
 <ol>
 <h1>Publication Chair</h1>
-</ol>
+</ol> -->
   </ul>
 
 
@@ -57,7 +61,7 @@
 <!-- ******************2***************8 -->
 
 
-<table>
+<!-- <table>
 
   <tr>
     <td>
@@ -142,7 +146,7 @@ Coventry University, UK</td>
     <td>
 George Washington University, USA</td>
   </tr>
-</table>
+</table> -->
 <!-- *********************3**************** -->
 
 

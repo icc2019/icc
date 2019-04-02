@@ -29,7 +29,7 @@
 																	</div><!-- END member-photo -->
 
 																	<div class="member-bio">
-																		 <h4 class="team-member-name">prof. Stephanie E. August</h4>
+																		 <h4 class="team-member-name">Prof. Stephanie E. August</h4>
 																		 <p class="team-member-title">Biography</p>
 																		 <p>
 																		 Stephanie E. August is a Professor of Computer Science in the Department of Electrical Engineering and Computer Science in the Frank R. Seaver College of Science and Engineering at Loyola Marymount University in Los Angeles. She is currently serving as a Program Director in the Directorate for Education and Human Resources Division of Undergraduate Education at the National Science Foundation in Arlington, Virginia, in the United States. At NSF she works on programs related to undergraduate education, data science, the future of work, and the future of STEM education. She received her B.A. in Slavic Languages and M.S. and Ph.D. in Computer Science, all from the University of California, Los Angeles. Prior to LMU she was a staff engineer at Hughes Aircraft Company and a copy cataloger at UCLA. Stephanie has served as department director of graduate studies and special assistant to the chief academic officer for graduate studies.  Her current research interests focus on online interactive digital learning environments and infusing other disciplines with computing concepts. She is also interested in computational models of reasoning by analogy and exploring the boundaries between people and machines. Her teaching repertoire includes courses in databases, artificial intelligence, new media (English+graphics+computing), programming 3D animation tools (animation+computing), and first year seminars (English composition+computing). Stephanie enjoys hiking, camping, gardening and baking, and looks forward to the day when a machine can read a novel and understand the symbolism in it.
@@ -47,7 +47,7 @@
 															 					</div><!-- END member-photo -->
 
 															 					<div class="member-bio">
-															 						 <h4 class="team-member-name">Dr Norma Alias</h4>
+															 						 <h4 class="team-member-name">Dr. Norma Alias</h4>
 															 						 <p class="team-member-title">Biography</p>
 																					 <p>
 																					 Dr Norma Alias is currently an Associate Professor, and Research Fellow and Head of Networking and Linkages Division of Center for Sustainable Nanomaterials, IbnuSina Institute for Scientific and Industrial Research (IIS), UniversitiTeknologi Malaysia (UTM). She was appointed as an Associate Professor and Research Fellow at King Saud University, Saudi Arabia. She is a member of the Malaysian Mathematical Sciences Society.

@@ -17,10 +17,10 @@
    <div class="header-holder tt-logo-center">
       <div class="header-overlay">
          <div class="header-area">
-            <a href="index.php" class="logo" >
+            <!-- <a href="index.php" class="logo" >
               <img src="assests/images/logo/logo1.png" alt="" class="tt-retina-logo" width="81" height="50" />
 
-              </a>
+              </a> -->
 
 
 
@@ -32,6 +32,15 @@
                  </li>
                   <li>
                      <a href="Committees.php" class="nav-link"><span><strong>Committees</strong></span></a>
+                     <ul class="sub-menu">
+
+                        <li><a href="General-Chairs.php"><span> General Chairs</span></a></li>
+                        <li><a href="Steering-Commitee.php"><span> Steering Commitee </span></a></li>
+                        <li><a href="local-Organizing-Commitee.php"><span> local Organizing Commitee </span></a></li>
+                        <li><a href="Workshop-Chair.php"><span> Workshop Chair </span></a></li>
+                        <li><a href="Program-Commitee.php"><span> Program Commitee </span></a></li>
+
+                     </ul>
                   
                   </li>
 
