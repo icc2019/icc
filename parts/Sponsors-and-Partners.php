@@ -18,7 +18,7 @@
          <div class="slider-content-sub">
            <a href="https://www.dellemc.com/ar-sa/index.htm
 " target="_blank">
-            <img src="assests/images/sponsers/2.png" alt=""width="400px" height="200px" />
+            <img src="assests/images/sponsers/dellemc.svg" alt=""width="400px" height="200px" />
           <h3>DEL EMC
 </h3></a>
          </div>
@@ -29,13 +29,13 @@
          <div class="slider-content-sub">
            <a href="http://www.aecl.com/en/Home
 " target="_blank">
-            <img src="assests/images/sponsers/1.png" alt=""width="400px" height="200px" />
+            <img src="assests/images/sponsers/aec.svg" alt=""width="400px" height="200px" />
           <h3>AEC</h3></a>
          </div>
          <div class="slider-content-sub">
            <a href="https://www.cisco.com/c/en_sa/index.html
 "  target="_blank">
-            <img src="assests/images/sponsers/4.png" alt=""width="400px" height="200px" />
+            <img src="assests/images/sponsers/cisco.svg" alt=""width="400px" height="200px" />
           <h3>CISCO</h3></a>
          </div>
          <div class="slider-content-sub">
