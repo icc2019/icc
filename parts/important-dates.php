@@ -7,18 +7,18 @@
   <table>
     <tr>
       <td><p>Submission Deadline</p></td>
-      <td><p>April 30 <sup>th</sup>, 2019 </p></td>
+      <td><p>June 6th<sup>th</sup>, 2019 </p></td>
     </tr>
     <tr>
       <td><p>Notification Deadline</p></td>
-      <td><p>May 30 <sup>th</sup>, 2019  </p></td>
+      <td><p>July 15th <sup>th</sup>, 2019  </p></td>
 
 
 
     </tr>
     <tr>
       <td><p>Camera Ready Deadline</p></td>
-      <td><p>	​June 15 <sup>th</sup>, 2019​</p></td>
+      <td><p>	​August 1st <sup>th</sup>, 2019​</p></td>
 
     </tr>
   </table>
