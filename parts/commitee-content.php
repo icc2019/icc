@@ -2,14 +2,14 @@
   <div class="Organizing-Committee">
     <h1>General Chairs</h1>
     <div class="text-center">
-     <p>  Hend Al-Khalifa<strong>King Saud University</strong></p>
+     <p>  Hend Al-Khalifa<strong>King Saud University, KSA</strong></p>
       <p> Auhood Abd. Al Faries<strong>Princes Nourah bint Abdulrahman University, KSA</strong></p>
       <p> Ansar Yasar<strong>Hasselt University, Belgium</strong></p>
     
     </div>
     <h1>Steering Committee</h1>
     <div class="text-center">
-     <p> Heba A. Kurdi<strong>King Saud University</strong></p>
+     <p> Heba A. Kurdi<strong>King Saud University, KSA</strong></p>
       <p> Atta Badii<strong>University of Reading, UK</strong></p>
       <p> Danny Hughes<strong>K. U. Leuven, Belgium</strong></p>
       <p> David Taniar<strong>Monash University, Australia</strong></p>
