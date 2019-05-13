@@ -9,7 +9,8 @@
     <h1> Workshop Chair</h1>
 </ol>
 
-<ol>  Norah Alghamdi</ol>
+      <ol> Norah Alghamdi, <strong>Princes Nourah bint Abdulrahman University, KSA</strong></ol>
+
 
 </ul>
 </div>
