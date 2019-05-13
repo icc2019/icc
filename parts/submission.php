@@ -19,6 +19,7 @@ Communications in Computer and Information Science (CCIS) series is indexed by t
   <h1>Instructions to Authors</h1>
   
       <p>
+        
 Submitted papers should be within the scope of the ICC 2019 conference. All contributions must be of high quality, original, should not have been published elsewhere and should not be submitted for publication elsewhere during the review period or time of the conference.
 The conference proceedings will be published by Springer-Verlag in Springer's CCIS (Communications in Computer and Information Science) Book Series. When formatting papers, please refer to the Springer-Verlag web site, and strictly follow the Instructions to Authors.
 
@@ -27,8 +28,25 @@ Papers are required in PDF format for review purposes, but authors are required 
 
 <br> <br>
         <b> ICC 2019 invites two types of submissions which should be structured as technical papers: </b>
+        
+ <ul>
+    <li>
+    <p>
+      Long papers: Must be 12-15 pages including figures, tables and references.
+    </p>
+    </li>
+    <li>
+    <p>
+        Short papers: Must be 6 to 8 pages including figures, tables and reference.
+    </p>
+    </li>
+  </ul>
+       
+        
+        
       </p>
 
+      
 
 
     </div>
