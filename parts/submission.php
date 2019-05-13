@@ -28,26 +28,7 @@ Papers are required in PDF format for review purposes, but authors are required 
       
  <p> <strong> ICC 2019 invites two types of submissions which should be structured as technical papers: </strong> </p>
       
-      <p>
- 
-  </p>
-  <ul>
-    <li>
-    <p>
-      Long papers: Must be 12-15 pages including figures, tables and references.
-    </p>
-    </li>
-    <li>
-    <p>
-        Short papers: Must be 6 to 8 pages including figures, tables and reference.
-    </p>
-    </li>
-  </ul>
-  
-  <p>
-    ICC uses a double-blind review process. Each submission will be reviewed by at least three program committee members. Every peer-reviewed research article will have a DOI assigned, and indexed in the Conference Proceedings Citation Index (CPCI).
 
-  </p>
 
     </div>
   </div>
