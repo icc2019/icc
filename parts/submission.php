@@ -16,7 +16,7 @@ Communications in Computer and Information Science (CCIS) series is indexed by t
   </p>
 
 
-  <h1>Instructions to Authors</h1>
+  <b>Instructions to Authors</b>
   
       <p>
         
