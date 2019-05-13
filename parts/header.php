@@ -31,7 +31,7 @@
                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
                  </li>
                   <li>
-                     <a href="Committees.php" class="nav-link"><span><strong>Committees</strong></span></a>
+                     <a href="" class="nav-link"><span><strong>Committees</strong></span></a>
                      <ul class="sub-menu">
 
                         <li><a href="General-Chairs.php"><span> General Chairs</span></a></li>
