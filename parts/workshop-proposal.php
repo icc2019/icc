@@ -106,9 +106,9 @@
 
   <h1>Please address all questions to the ICC Workshops Chairs:</p></h1>
   <ul>
-    <ol><p>Name of chair: Dr. Norah Alghamdi</p></ol>
-  <ol><p>Name of deputy chair: Dr. Dua Nassar​</p></ol>
-  <ol><p>The workshop committee email: <a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a></p></ol>
+    <ol><p> Chair Dr. Norah Alghamdi</p></ol>
+  <ol><p>Deputy Chair: Dr. Dua Nassar​</p></ol>
+  <ol><p>Contact: <a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a></p></ol>
   </ul>
 
     </div>
