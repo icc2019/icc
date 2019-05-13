@@ -29,9 +29,7 @@ Papers are required in PDF format for review purposes, but authors are required 
  <p> <strong> ICC 2019 invites two types of submissions which should be structured as technical papers: </strong> </p>
       
       <p>
-    <p>
-      ICC invites two types of submissions which should be structured as technical papers:
-    </p>
+ 
   </p>
   <ul>
     <li>
