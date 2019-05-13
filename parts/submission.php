@@ -41,6 +41,19 @@ Papers are required in PDF format for review purposes, but authors are required 
     </p>
     </li>
   </ul>
+      
+    <br> <br>
+      <b>Publication process</b>
+      
+      <br> <br>
+      <b>Abstracting/Indexing</b>
+      
+      <br> <br>
+      <b>Paper submission</b>
+      
+      <br> <br>
+      <b>Copyright form (after your paper has been accepted)</b>
+      
        
         
         
