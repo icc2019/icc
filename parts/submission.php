@@ -26,6 +26,8 @@ The conference proceedings will be published by Springer-Verlag in Springer's CC
 Papers are required in PDF format for review purposes, but authors are required to upload editable word-processor files (LaTeX or MS Word) at the end of the review process. Please find the correct template options below.
  </p>
       
+      <h3> ICC 2019 invites two types of submissions which should be structured as technical papers: </h3>
+      
       <p>
     <p>
       ICC invites two types of submissions which should be structured as technical papers:
