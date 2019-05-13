@@ -34,12 +34,12 @@ Papers are required in PDF format for review purposes, but authors are required 
  <ul>
     <li>
     <p>
-      Long papers: Must be 12-15 pages including figures, tables and references.
+      <i> Long papers: </i> Must be 12-15 pages including figures, tables and references.
     </p>
     </li>
     <li>
     <p>
-        Short papers: Must be 6 to 8 pages including figures, tables and reference.
+      <i> Short papers: </i> Must be 6 to 8 pages including figures, tables and reference.
     </p>
     </li>
   </ul>
