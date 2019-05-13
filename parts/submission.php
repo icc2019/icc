@@ -46,7 +46,6 @@ Papers are required in PDF format for review purposes, but authors are required 
      
       
     <p>  
-    <br>
       <b>Publication process</b>
       <p> The language of publication is exclusively English. Authors publishing in CCIS have to sign the Springer CCIS copyrighttransfer form, however, they are free to use their material published in CCIS for substantially changed, more elaborate subsequent publications elsewhere. For the preparation of the camera-ready papers/files, authors have to strictly adhere to the Springer CCIS Authors' Instructions and are strongly encouraged to use the CCIS LaTeX style files or templates, as described here. </p>
       </p>
@@ -58,7 +57,7 @@ Papers are required in PDF format for review purposes, but authors are required 
     </p>
         
      <p>
-     <br>
+     
       <b>Paper submission</b>
   <p> Submit Here </p>
   </p>
