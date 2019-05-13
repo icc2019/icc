@@ -49,19 +49,22 @@ Papers are required in PDF format for review purposes, but authors are required 
       <b>Publication process</b>
       <p> The language of publication is exclusively English. Authors publishing in CCIS have to sign the Springer CCIS copyrighttransfer form, however, they are free to use their material published in CCIS for substantially changed, more elaborate subsequent publications elsewhere. For the preparation of the camera-ready papers/files, authors have to strictly adhere to the Springer CCIS Authors' Instructions and are strongly encouraged to use the CCIS LaTeX style files or templates, as described here. </p>
       </p>
+    <br>
     
     <p>
     
       <b>Abstracting/Indexing</b>
     <p> CCIS is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, Scopus. CCIS volumes are also submitted for the inclusion in ISI Proceedings.  </p>
     </p>
+  <br>
         
      <p>
      
       <b>Paper submission</b>
   <p> Submit Here </p>
   </p>
-      
+      <br>
+
       <p>
         <br>
       <b>Copyright form (after your paper has been accepted)</b>
