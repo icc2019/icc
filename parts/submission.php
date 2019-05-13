@@ -43,7 +43,7 @@ Papers are required in PDF format for review purposes, but authors are required 
   </ul>
      
       <p>
-    <br> <br>
+    <br> 
       <b>Publication process</b>
       
       <br> <br>
