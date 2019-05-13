@@ -61,7 +61,7 @@ Papers are required in PDF format for review purposes, but authors are required 
      <p>
      
       <b>Paper submission</b>
-  <p> Submit Here </p>
+  <p> <a href="https://easychair.org/account/signin"> Submit Here </a> </p>
   </p>
       <br>
 
