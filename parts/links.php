@@ -10,9 +10,9 @@
     <h1> General Chairs</h1>
 </ol>
 
-<ol> Auhood Abd. Al Faries <strong>Princes Nourah bint Abdulrahman University, KSA</strong></ol>
- <ol>Ansar Yasar <strong>Hasselt University, Belgium</strong></ol>
-<ol>Hend Al-Khalifa<strong> King Saud University</strong></ol>
+<ol> Auhood Abd. Al Faries, <strong>Princes Nourah bint Abdulrahman University, KSA</strong></ol>
+ <ol>Ansar Yasar, <strong>Hasselt University, Belgium</strong></ol>
+<ol>Hend Al-Khalifa, <strong> King Saud University, KSA</strong></ol>
 
 
 <!-- <ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
