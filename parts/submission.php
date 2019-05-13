@@ -67,7 +67,7 @@ Papers are required in PDF format for review purposes, but authors are required 
 
       <p>
       <b>Copyright form (after your paper has been accepted)</b>
-<p>  Each contribution must be accompanied by a Springer copyright form, a so-called 'Consent to Publish' form.Download the copyright form. </p>
+<p>  Each contribution must be accompanied by a Springer copyright form, a so-called 'Consent to Publish' form. <a href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:beaacc7c-c2b4-4a58-97c0-d88fe899920b" target="_blank">Download the copyright form. </a> </p>
 
 <p> Modified forms are not acceptable. Authors will be asked to transfer the copyright of the paper to the Springer. This will ensure the widest possible protection and dissemination of information under copyright laws. One author may sign on behalf of all of the authors of a particular paper. In this case, the author signs for and accepts responsibility for releasing the material on behalf of all co-authors. </p> 
 </p>
