@@ -41,7 +41,8 @@ Papers are required in PDF format for review purposes, but authors are required 
     </p>
     </li>
   </ul>
-      
+     
+      <p>
     <br> <br>
       <b>Publication process</b>
       
@@ -53,7 +54,7 @@ Papers are required in PDF format for review purposes, but authors are required 
       
       <br> <br>
       <b>Copyright form (after your paper has been accepted)</b>
-      
+      </p>
        
         
         
