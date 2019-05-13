@@ -133,22 +133,22 @@
 
     <tr>
       <td><p>​The deadline for workshop abstract submission </p></td>
-      <td><p>April 10th , 2019</p></td>
+      <td><p>June 6th , 2019</p></td>
     </tr>
     <tr>
       <td><p>Announcement of acceptance/rejection </p></td>
-      <td><p>April 30th, 2019</p></td>
+      <td><p>July 15th, 2019</p></td>
     </tr>
     <tr>
       <td><p>Deadline for final presentation submission</p></td>
-      <td><p>May 30th, 2019</p></td>
+      <td><p>August 1st, 2019</p></td>
     </tr>
   </table>
   <ul>
   <ol><p><b>Please address all questions to the ICC Workshops Chairs:</b></p></ol>
-  <ol><p>Name of chair: Dr. Norah Alghamdi</p></ol>
-  <ol><p>Name of deputy chair: Dr. Dua Nassar​</p></ol>
-  <ol><p>The workshop committee email: <a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a></p></ol>
+  <ol><p>Chair Dr. Norah Alghamdi</p></ol>
+  <ol><p>Deputy Chair Dr. Dua Nassar​</p></ol>
+  <ol><p>Contact <a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a></p></ol>
   </ul>
   </div>
 </div>
