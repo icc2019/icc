@@ -21,9 +21,7 @@
 <ol>Hanen Karamti<strong>Princess Nourah University </strong></ol>
 <ol>Heba A. Kurdi<strong>King Saud University </strong></ol><ol><strong> </strong></ol>
 <ol>Hessah Aleisa<strong> Princess Nourah University</strong></ol>
-<ol>Maali Alabdulhafith<strong>Princess Nourah University </strong></ol>
 <ol>Mada Alaskar<strong> Princess Nourah University </strong></ol>
-<ol>Mai Abd. Alduailij<strong>Princess Nourah University </strong></ol>
 <ol>Manel AYADI<strong>Princess Nourah University </strong></ol>
 <ol>Myriam Hadjouni<strong>Princess Nourah University </strong></ol>
 <ol>Samiah Chelloug<strong>Princess Nourah University </strong></ol>
