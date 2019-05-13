@@ -36,7 +36,7 @@
 
                         <li><a href="General-Chairs.php"><span> General Chairs</span></a></li>
                         <li><a href="Steering-Commitee.php"><span> Steering Commitee </span></a></li>
-                        <li><a href="Local-Organizing-Commitee.php"><span> local Organizing Commitee </span></a></li>
+                        <li><a href="local-Organizing-Commitee.php"><span> Local Organizing Commitee </span></a></li>
                         <li><a href="Workshop-Chair.php"><span> Workshop Chair </span></a></li>
                         <li><a href="Program-Commitee.php"><span> Program Commitee </span></a></li>
 
