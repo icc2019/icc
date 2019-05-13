@@ -15,9 +15,10 @@ Communications in Computer and Information Science (CCIS) series is indexed by t
 
   </p>
 
-
+<p>
   <b>Instructions to Authors</b>
-  
+      </p>
+      
       <p>
         
 Submitted papers should be within the scope of the ICC 2019 conference. All contributions must be of high quality, original, should not have been published elsewhere and should not be submitted for publication elsewhere during the review period or time of the conference.
