@@ -6,13 +6,11 @@
     <div class=" tt-column">
 
   <ul class="">
-<ol>
-    <h1> General Chairs</h1>
-</ol>
 
-<ol> Auhood Abd. Al Faries, <strong>Princes Nourah bint Abdulrahman University, KSA</strong></ol>
- <ol>Ansar Yasar, <strong>Hasselt University, Belgium</strong></ol>
-<ol>Hend Al-Khalifa, <strong> King Saud University, KSA</strong></ol>
+    <h1> General Chairs</h1>
+    <p> Auhood Abd. Al Faries, <strong>Princes Nourah bint Abdulrahman University, KSA</strong></p>
+    <p>Ansar Yasar, <strong>Hasselt University, Belgium</strong></p>
+    <p>Hend Al-Khalifa, <strong> King Saud University, KSA</strong></p>
 
 
 <!-- <ol>- Prof. Hend Al-Khalifa (King Saud University)</ol>
