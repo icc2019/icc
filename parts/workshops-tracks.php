@@ -117,8 +117,8 @@
   <li>
     <p>Planned format of the workshop, including: </p>
   </li>
-  <li><p>o	Duration of the workshop: Half day workshop (3-Hour), Full day (6-Hour)​. </p></li>
-  <li><p>o	Creative workshop formats. (strongly encouraged)</p></li>
+  <li><p>Duration of the workshop: Half day workshop (3-Hour), Full day (6-Hour)​. </p></li>
+  <li><p>Creative workshop formats. (strongly encouraged)</p></li>
   <li><p>Presentation Draft Call</p> </li>
   <li><p>A previous workshop description (recently organized similar workshop), including the submitted paper/ presentation, number of attendees, etc.</p></li>
   </ul>
