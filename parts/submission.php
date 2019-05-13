@@ -19,8 +19,10 @@ Communications in Computer and Information Science (CCIS) series is indexed by t
   <h1>Instructions to Authors</h1>
   
       <p>
-    The submission processes will be managed by easychair.org. If you have used this system before, you can use the same username and password. If this is your first time using EasyChair, you will need to register for an account by clicking “I have no EasyChair account” button. Upon completion of registration, you will get a notification email from the system and you are ready for submitting your paper. Further instructions about the submission guidelines and templates will be provided soon.
+Submitted papers should be within the scope of the ICC 2019 conference. All contributions must be of high quality, original, should not have been published elsewhere and should not be submitted for publication elsewhere during the review period or time of the conference.
+The conference proceedings will be published by Springer-Verlag in Springer's CCIS (Communications in Computer and Information Science) Book Series. When formatting papers, please refer to the Springer-Verlag web site, and strictly follow the Instructions to Authors.
 
+Papers are required in PDF format for review purposes, but authors are required to upload editable word-processor files (LaTeX or MS Word) at the end of the review process. Please find the correct template options below.
   </p>
       <p>
     <p>
