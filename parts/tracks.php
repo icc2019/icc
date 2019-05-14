@@ -90,7 +90,29 @@
     
     
                           <div id="tab-5" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-6" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                             <p> <ul>
+                             
+                                 <p>
+                            &#9679; Internet of Things networks <br>
+                            &#9679; Network Infrastructure <br>
+                            &#9679; Energy-efficient computing in networked systems <br>
+                            &#9679; Cloud/multi-tenant systems <br>
+                            &#9679; Mobile and embedded/sensor applications and systems <br>
+                            &#9679; Wireless networked systems <br>
+                            &#9679; Ubiquitous Computing <br>
+                            &#9679; Next Generation Infrastructure for IOT <br>
+                            &#9679; IOT-based Smart City Solutions <br>
+                            &#9679; IOT-based Smart Home <br>
+                            &#9679; IOT Standards and Application Scenarios <br>
+                            &#9679; Virtualization and resource management for networked systems <br>
+                            &#9679; Systems aspects of networking hardware <br>
+                            &#9679; Robotics and Automation <br>
+                            &#9679; Any innovative solution for a significant problem involving networked systems <br>
+                            </div>
+                            
+                            
+                            <!--
+
+                            <p> <ul>
                                <li>
                                  <p>Internet of Things networks</p></li>
                                <li>
@@ -124,6 +146,10 @@
 
                              </ul></p>
                           </div>
+                               -->
+      
+      
+      
                           <div id="tab-6" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-7" role="tabpanel" aria-expanded="true" aria-hidden="false" style="display: block;">
                              <p><ul>
                                <li>
