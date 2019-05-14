@@ -54,9 +54,7 @@
                          
                        
                           <div id="tab-4" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                             <p> <ul>
-                            
-                            
+                             
                                <p>
                             &#9679; Application Security <br>
                             &#9679; Anonymity <br>
