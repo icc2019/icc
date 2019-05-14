@@ -16,7 +16,7 @@
  <br>Heba A. Kurdi, <b> King Saud University </b>
  <br>Rahim Rahmani,  <b>Stockholm University, Sweden</b>
  <br>Shiroq Al-Megren, <b> Massachusetts Institute of Technology (MIT), USA</b>
- <br>Stephane Galland, <b>   UTBM, France</strong></ol>
+ <br>Stephane Galland, <b>   UTBM, France</b>
  <br> Maali Alabdulhafith, <b>Princess Norah University, KSA</b>
  <br>  Vincenzo Loia, <b>University of Salerno, Italy</b>
  <br> Zakaria Maamar, <b>Zayed University, UAE</b>
