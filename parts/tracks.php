@@ -15,19 +15,19 @@
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
                              <p> <ul>
-                           <p> Big Data and Analytics</p>
-                            <li>Bioinformatics</li>
-                              <li> Distributed Systems</li>
-                               <li>Artificial Intelligence</li>
-                               <li>Data/Web Mining</li>
-                               <li>Data visualization</li>
-                               <li>Data classification and taxonomy</li>
-                               <li>Data metrics and metrology</li>
-                               <li>Machine learning and deep learning</li>
-                               <li>Data analytics</li>
-                               <li>Data provenance</li>
-                               <li>Big Data, cloud computing and data-intensive systems</li>
-                               <li>Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.</li><br />
+                            <li> <p> Big Data and Analytics</p> </li>
+                            <li> <p> Bioinformatics </p> </li>
+                            <li> <p> Distributed Systems </p> </li>
+                            <li> <p> Artificial Intelligence </p> </li>
+                            <li> <p> Data/Web Mining </p> </li>
+                            <li> <p> Data visualization </p> </li>
+                            <li> <p> Data classification and taxonomy </p> </li>
+                            <li> <p> Data metrics and metrology </p> </li>
+                            <li> <p> Machine learning and deep learning </p> </li>
+                            <li> <p> Data analytics </p> </li>
+                            <li> <p> Data provenance </p> </li>
+                            <li> <p> Big Data, cloud computing and data-intensive systems </p> </li>
+                               <li> <p> Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc. </p> </li><br />
                              </ul></p>
                           </div>
                           <div id="tab-4" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
