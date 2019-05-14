@@ -14,7 +14,16 @@
                              <li class="ui-state-default ui-corner-top " role="tab" tabindex="0" aria-controls="tab-6" aria-labelledby="ui-id-7" aria-selected="true"><a href="#tab-6" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7"><span>Track 4: Information Technology and Applications</span></a></li>
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                             <p> <ul>
+                         
+                            <p>
+                            &#9679; Big Data and Analytics <br>
+                            &#9679; Bioinformatics <br>
+                            &#9679; Distributed Systems
+                              
+                              
+                            
+                            <!-- 
+                            <p> <ul>
                             <li> <p> Big Data and Analytics</p> </li>
                             <li> <p> Bioinformatics </p> </li>
                             <li> <p> Distributed Systems </p> </li>
@@ -30,6 +39,8 @@
                                <li> <p> Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc. </p> </li><br />
                              </ul></p>
                           </div>
+
+-->
                           <div id="tab-4" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
                              <p> <ul>
                                <li><p>Application Security</p></li>
