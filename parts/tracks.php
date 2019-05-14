@@ -18,7 +18,17 @@
                             <p>
                             &#9679; Big Data and Analytics <br>
                             &#9679; Bioinformatics <br>
-                            &#9679; Distributed Systems
+                            &#9679; Distributed Systems <br>
+                            &#9679; Artificial Intelligence <br>
+                            &#9679; Data/Web Mining <br>
+                            &#9679; Data visualization <br>
+                            &#9679; Data classification and taxonomy <br>
+                            &#9679; Data metrics and metrology <br>
+                            &#9679; Machine learning and deep learning <br>
+                            &#9679; Data analytics <br>
+                            &#9679; Data provenance <br>
+                            &#9679; Big Data, cloud computing and data-intensive systems <br>
+                            &#9679; Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.
                               
                               
                             
