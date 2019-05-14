@@ -106,7 +106,7 @@
                             &#9679; Virtualization and resource management for networked systems <br>
                             &#9679; Systems aspects of networking hardware <br>
                             &#9679; Robotics and Automation <br>
-                            &#9679; Any innovative solution for a significant problem involving networked systems <br>
+                            &#9679; Any innovative solution for a significant problem involving networked systems 
                             </div>
                             
                             
@@ -151,7 +151,25 @@
       
       
                           <div id="tab-6" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-7" role="tabpanel" aria-expanded="true" aria-hidden="false" style="display: block;">
-                             <p><ul>
+                             
+                                 <p>
+                            &#9679; Virtual Reality/Augmented Reality <br>
+                            &#9679; Computer-aided Design/Manufacturing <br>
+                            &#9679; Computing Ethics <br>
+                            &#9679; Data Compression and Database Systems <br>
+                            &#9679; E-commerce and E-governance <br>
+                            &#9679; Human-Computer Interaction <br>
+                            &#9679; Information Systems <br>
+                            &#9679; Software Engineering <br>
+                            &#9679; Emerging Technologies in Education <br>
+                            &#9679; E-Science and E-Services <br>
+                            &#9679; Intelligent Tutoring Systems <br>
+                            &#9679; System Design and Architecture 
+                 
+                            </div>
+                            
+                            <!--
+                            <p><ul>
                                <li>
                                  <p>Virtual Reality/Augmented Reality</p></li>
                                <li>
@@ -178,6 +196,9 @@
                                <p>  System Design and Architecture</p>​</li>
                              </ul></p>
                           </div>
+                             -->
+
+
                        </div>
                     </div>
 
