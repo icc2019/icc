@@ -17,17 +17,17 @@
                              <p> <ul>
                             <li>Big Data and Analytics</li>
                             <li>Bioinformatics</li>
-                               Distributed Systems
-                               <br>Artificial Intelligence
-                               <br>Data/Web Mining
-                               <br>Data visualization
-                               <br>Data classification and taxonomy
-                               <br>Data metrics and metrology
-                               <br>Machine learning and deep learning
-                               <br>Data analytics
-                               <br>Data provenance
-                               <br>Big Data, cloud computing and data-intensive systems
-                               <br>Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.<br />
+                              <li> Distributed Systems</li>
+                               <li>Artificial Intelligence</li>
+                               <li>Data/Web Mining</li>
+                               <li>Data visualization</li>
+                               <li>Data classification and taxonomy</li>
+                               <li>Data metrics and metrology</li>
+                               <li>Machine learning and deep learning</li>
+                               <li>Data analytics</li>
+                               <li>Data provenance</li>
+                               <li>Big Data, cloud computing and data-intensive systems</li>
+                               <li>Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.</li><br />
                              </ul></p>
                           </div>
                           <div id="tab-4" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
