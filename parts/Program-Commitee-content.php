@@ -10,7 +10,7 @@
 </ol>
 
       <p>
-Abdulhadi Alqarni, <b>College of Computer Science and Engineering at Jubail University College, KSA</b>
+Abdulhadi Alqarni, <b>Jubail University College, KSA</b>
           <br>Eiman Kanjo, <b>Nottingham Trent University, UK</b>
 <br>Faouzi Zarai, <b>School of Electronics and Telecommunications of Sfax, Tunisia</b>
 <br>Hala Mokhtar, <b>Saud University, KSA</b>
@@ -23,6 +23,7 @@ Abdulhadi Alqarni, <b>College of Computer Science and Engineering at Jubail Univ
 <br>Mohamed Buhari, <b>King Abdulaziz University, KSA</b>
 <br>Monia Hamdi, <b>Gabès University, Tunisia</b>
 <br>Mznah Al-Rofdhaan, <b>King Saud University, KSA</b>
+<br>Norah Alghamdi, <b>Princess Norah University, KSA</b>
 <br>Ridwan Qureshi, <b>King Abdulaziz University, KSA</b>
 <br>Shaimaa Elsaid, <b>Zagazig University, Egypt</b>
 <br>Sherif Kamel Hussein, <b>Arab East Colleges for high studies, KSA</b>
