@@ -10,21 +10,22 @@
 
   <ul class="">
 <ol>
-    <h1>Local Organizing Committee </h1>
+    <h1>Local Organizers </h1>
 </ol>
+<p>
+      Dua Nassar <b>Princess Nourah University</b>
+    <br>Evon Abu-Taieh<b>Jordan University</b>
+    <br>Ghadah Aldehim<b> Princess Nourah University </b>
+    <br>Hadil Ahmed Shaiba<b>Princess Nourah University </b>
+    <br>Hanan Aljuaid<b> Princess Nourah University</b>
+    <br>Hanen Karamti<b>Princess Nourah University </b>
+    <br>Heba A. Kurdi<b>King Saud University </b>
+    <br>Hessah Aleisa<b> Princess Nourah University</b>
+    <br>Mada Alaskar<b> Princess Nourah University </b>
+    <br>Manel AYADI<b>Princess Nourah University </b>
+    <br>Myriam Hadjouni<b>Princess Nourah University </b>
+    <br>Samiah Chelloug<b>Princess Nourah University </b>
 
-<ol> Dua Nassar <strong>Princess Nourah University</strong></ol>
- <ol> Evon Abu-Taieh<strong>Jordan University</strong></ol>
-<ol>Ghadah Aldehim<strong> Princess Nourah University </strong></ol>
-<ol>Hadil Ahmed Shaiba<strong>Princess Nourah University </strong></ol>
-<ol>Hanan Aljuaid<strong> Princess Nourah University</strong></ol>
-<ol>Hanen Karamti<strong>Princess Nourah University </strong></ol>
-<ol>Heba A. Kurdi<strong>King Saud University </strong></ol><ol><strong> </strong></ol>
-<ol>Hessah Aleisa<strong> Princess Nourah University</strong></ol>
-<ol>Mada Alaskar<strong> Princess Nourah University </strong></ol>
-<ol>Manel AYADI<strong>Princess Nourah University </strong></ol>
-<ol>Myriam Hadjouni<strong>Princess Nourah University </strong></ol>
-<ol>Samiah Chelloug<strong>Princess Nourah University </strong></ol>
 </ul>
 </div>
 </div>
