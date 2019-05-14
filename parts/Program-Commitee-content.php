@@ -9,7 +9,6 @@
     <h1>Program Committee </h1>
 </ol>
 
-<ol> TBD</ol>
       <p>
 Abdulhadi Alqarni, <b>College of Computer Science and Engineering at Jubail University College, KSA</b>
           <br>Eiman Kanjo, <b>Nottingham Trent University, UK</b>
