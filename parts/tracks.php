@@ -15,9 +15,9 @@
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
                              <p> <ul>
-                               <p>Big Data and Analytics
-                               <<p>>Bioinformatics
-                               <<p>>Distributed Systems
+                               Big Data and Analytics
+                               Bioinformatics
+                               Distributed Systems
                                <br>Artificial Intelligence
                                <br>Data/Web Mining
                                <br>Data visualization
