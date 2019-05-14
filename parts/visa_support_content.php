@@ -6,7 +6,7 @@
     <h1> Visa Support </h1>
 <p>
  
-  <b> How to Apply for a Saudi Visa </b> <br>
+  <b> How to Apply for a Saudi Visa </b> <br> <br>
 
 The Saudi Arabia visa application form will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
 
