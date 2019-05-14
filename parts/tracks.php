@@ -15,7 +15,7 @@
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
                              <p> <ul>
-                            <li>Big Data and Analytics</li>
+                           <p> <li>Big Data and Analytics</li>
                             <li>Bioinformatics</li>
                               <li> Distributed Systems</li>
                                <li>Artificial Intelligence</li>
