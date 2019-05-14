@@ -7,7 +7,7 @@
     
 <p> <b> How to Apply for a Saudi Visa </b> </p>
 
-<p> The Saudi Arabia visa application <a href="<a href="https://easychair.org/account/signin" target="_blank">" target="_blank"> form </a> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
+<p> The Saudi Arabia visa application <a href="https://easychair.org/account/signin" target="_blank"> form </a> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
 
 You are only required to fill in the information stated in English. The information stated in Arabic are to be filled by the Princess Nourah University only. 
 
