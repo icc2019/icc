@@ -29,7 +29,7 @@
                             &#9679; Data provenance <br>
                             &#9679; Big Data, cloud computing and data-intensive systems <br>
                             &#9679; Innovative data-intensive applications such as health, energy, transport, food, soil and water, etc.
-                              
+                         </div>
                               
                             
                             <!-- 
