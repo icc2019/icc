@@ -342,6 +342,103 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+  
+  
+  <!-- ========================================================================== -->
+  
+  <!-- ================================================================== -->
+
+
+<!-- almasmak -->
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="https://sauditourism.sa/ar/aboutKSA/CultureAndHistory/Museums/PublishingImages/Riyadh/MusmakInternal3.jpg" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/01/KC-NEW-6.jpg" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/02/KC-Mall-Inside-2.jpg" style="width:100%">
+  
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+
+ <br>
+  <br>
+  
+    <div class="member-bio">
+                              <h4 class="team-member-name">Kingdom Centre Tower (Al-Mamlaka Tower)</h4>
+                              <p class="team-member-title"> </p>
+
+  								 <p>
+  									 Kingdom Center Tower is located at 2239 Al Urubah Rd, Al Olaya, Riyadh 12214-9597, Saudi Arabia.
+  			 Kingdom Tower is one of the best Saudi Shopping Malls. Within the tower there are not only numerous stores but also the Four Season Hotel, apartments, offices, the Sky Bridge and Spazio Restaurant. Kingdom Centre Tower is among the most visited areas by tourists.
+  				
+                     <br>
+                     <br>
+                     
+                     <strong><a href="
+  			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
+  								 </p>
+
+                           </div><!-- END member-bio -->
+                           
+                           <!-- end almmlkah -->
+                           
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+
+<!-- end almamlkah -->
+
 
 </body>
 </html> 
