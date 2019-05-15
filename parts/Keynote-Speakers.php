@@ -10,7 +10,7 @@
 					 </div><!-- END member-photo -->
 
 					 <div class="member-bio">
-							<h4 class="team-member-name">Prof. Muhammad KhurKamal Youcef-Toumi</h4>
+							<h4 class="team-member-name">Prof. Muhammad Kamal Youcef-Toumi</h4>
 
 							<p >Biography:</p>
 							<p>
