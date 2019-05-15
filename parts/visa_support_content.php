@@ -7,7 +7,7 @@
     
 <p> <b> How to Apply for a Saudi Visa </b> </p>
 
-<p> The Saudi Arabia visa application <a href="https://www.dropbox.com/s/hw3kjf96d3xo8u7/Visa_Application_PRC-2.docx?dl=0" target="_blank"> form </a> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
+<p> The Saudi Arabia visa application <a href="assests/Visa_Application_PRC-2.docx" target="_blank" download> form </a> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
 
 You are only required to fill in the information stated in English. The information stated in Arabic are to be filled by Princess Nourah University only. 
 
