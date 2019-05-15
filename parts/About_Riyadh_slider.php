@@ -151,8 +151,7 @@
 
   
   
-  
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -203,6 +202,7 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
+  
   width: 100%;
   text-align: center;
 }
@@ -258,23 +258,47 @@ img {vertical-align: middle;}
 </head>
 <body>
 
+
+
+<!-- almmlkah -->
+
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 6</div>
   <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/01/KC-1.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/01/KC-NEW-6.jpg" style="width:100%">
+  <div class="numbertext">2 / 6</div>
+  <img src="https://sauditourism.sa/ar/aboutKSA/CultureAndHistory/Museums/PublishingImages/Riyadh/Almasmuk9.jpg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/02/KC-Mall-Inside-2.jpg" style="width:100%">
+  <div class="numbertext">3 / 6</div>
+  <img src="https://sauditourism.sa/ja/ExploreKSA/AttractionSites/Diriyah/PublishingImages/Albojairi.jpg" style="width:100%">
+  
+</div>
+
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 6</div>
+  <img src="https://i2.wp.com/www.sauditravel.com/wp-content/uploads/king-abdullah-park.jpg?w=580" style="width:100%">
+  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+  <img src="https://sauditourism.sa/ar/ExploreKSA/AttractionSites/NationalMuseum/PublishingImages/ManAndUniverse.jpg" style="width:100%">
+  
+</div>
+
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 6</div>
+  <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" style="width:100%">
   
 </div>
 
@@ -288,101 +312,12 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
 </div>
 
-   
-    
-  <br>
-  <br>
-  
-    <div class="member-bio">
-                              <h4 class="team-member-name">Kingdom Centre Tower (Al-Mamlaka Tower)</h4>
-                              <p class="team-member-title"> </p>
-
-  								 <p>
-  									 Kingdom Center Tower is located at 2239 Al Urubah Rd, Al Olaya, Riyadh 12214-9597, Saudi Arabia.
-  			 Kingdom Tower is one of the best Saudi Shopping Malls. Within the tower there are not only numerous stores but also the Four Season Hotel, apartments, offices, the Sky Bridge and Spazio Restaurant. Kingdom Centre Tower is among the most visited areas by tourists.
-  				
-                     <br>
-                     <br>
-                     
-                     <strong><a href="
-  			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
-  								 </p>
-
-                           </div><!-- END member-bio -->
-    
-   
-      
-<script>
-var slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-}
-</script>
-  
-  
-  <!-- ========================================================================== -->
-  
-  <!-- ================================================================== -->
-
-
-<!-- almasmak -->
-
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="https://sauditourism.sa/ar/aboutKSA/CultureAndHistory/Museums/PublishingImages/Riyadh/MusmakInternal3.jpg" style="width:100%">
-  
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/01/KC-NEW-6.jpg" style="width:100%">
-  
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/02/KC-Mall-Inside-2.jpg" style="width:100%">
-  
-</div>
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-
+<!-- almamlakah -->
 
  <br>
   <br>
@@ -405,6 +340,40 @@ function showSlides(n) {
                            </div><!-- END member-bio -->
                            
                            <!-- end almmlkah -->
+                           
+                 <!-- ===================================== -->
+                           
+                           
+          <!--almasmak -->                 
+                           
+ <br>
+  <br>
+  
+  <div class="member-bio">
+                              <h4 class="team-member-name">Al Masmak Museum</h4>
+
+
+  														<p>
+  															Al Masmak Fortress is a well known historic landmark here in Saudi Arabia. On June 11, 1995, His Royal Highness Prince Salman bin Abdul Aziz opened the Al Masmak Historical Museum, which tells the story of the Kingdom’s unification and establishment by King Abdul Aziz.  Full of rich history, Al Masmak Museum is commonly visited by tourists and history enthusiasts. This renovated 19th-century mud fortress looks like a giant sandcastle, and contains costumes, handicrafts, a sitting room, a courtyard and a well.
+  														<strong><a href="
+  														http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue">More Information</a></strong>
+  														</p>
+
+                           </div>
+  				
+                     <br>
+                     <br>
+                     
+                     <strong><a href="
+  			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
+  								 </p>
+
+                           </div><!-- END member-bio -->
+                           
+                            <!--almasmak -->
+                            
+                   <!-- ======================================= --> 
+                           
                            
 
 <script>
@@ -438,6 +407,15 @@ function showSlides(n) {
 
 
 <!-- end almamlkah -->
+
+
+
+
+
+
+
+
+
 
 
 </body>
