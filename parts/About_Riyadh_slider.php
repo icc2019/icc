@@ -7,7 +7,7 @@
   <div class="member-wrap">
                            <div class="member-photo">
                               <div class="shadow_img_frame shadow_square">
-                                 <div class="img-preload"><img src="assests/images/Abour_Riyad/1.png" alt="" class="attachment-fadeIn" style="display: inline;"></div>
+                                 <div class="img-preload"><img src="assests/images/Abour_Riyad/1.png" alt="" align="middle" class="attachment-fadeIn" style="display: inline;"></div>
                               </div>
                            </div><!-- END member-photo -->
 
