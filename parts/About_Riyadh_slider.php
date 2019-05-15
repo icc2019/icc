@@ -2,7 +2,7 @@
 
 <?php //include('right-panel.php');?>
 
-<div class="col" align="center">
+<div class="col" >
   <!-- ============================================================================= -->
   <div class="member-wrap" >
                            <div class="member-photo" >
