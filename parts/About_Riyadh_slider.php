@@ -267,6 +267,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
   <img src="http://kingdomcentre.com.sa/wp-content/uploads/2015/01/KC-1.jpg" style="width:100%">
+  <div class="text">Kingdom Centre Tower (Al-Mamlaka Tower)</div>
   
 </div>
 
