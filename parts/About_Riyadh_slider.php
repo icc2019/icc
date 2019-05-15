@@ -290,6 +290,9 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 
+  <br>
+  <br>
+  
     <div class="member-bio">
                               <h4 class="team-member-name">Kingdom Centre Tower (Al-Mamlaka Tower)</h4>
                               <p class="team-member-title"> </p>
