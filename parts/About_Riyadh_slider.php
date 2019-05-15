@@ -2,10 +2,10 @@
 
 <?php //include('right-panel.php');?>
 
-<div class="col">
+<div class="col" align="center">
   <!-- ============================================================================= -->
-  <div class="member-wrap" align="middle">
-                           <div class="member-photo" align="middle">
+  <div class="member-wrap" >
+                           <div class="member-photo" >
                               <div class="shadow_img_frame shadow_square">
                                  <div class="img-preload"><img src="assests/images/Abour_Riyad/1.png" alt=""  class="attachment-fadeIn" style="display: inline;"></div>
                               </div>
