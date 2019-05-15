@@ -312,7 +312,7 @@ img {vertical-align: middle;}
 
                            </div><!-- END member-bio -->
     
-    <--! end of new desc-->
+   
       
 <script>
 var slideIndex = 1;
