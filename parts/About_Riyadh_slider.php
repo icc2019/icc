@@ -348,6 +348,10 @@ img {vertical-align: middle;}
                            
  <br>
   <br>
+  <br>
+  <br>
+  <br>
+  <br>
   
   <div class="member-bio">
                               <h4 class="team-member-name">Al Masmak Museum</h4>
