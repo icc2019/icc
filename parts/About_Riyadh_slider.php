@@ -370,11 +370,17 @@ img {vertical-align: middle;}
                                 <strong><a href="
   														http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue">More Information</a></strong>
   														</p>
+    
+     <br>
+      
+      <br>
+      
+      <br>
 
                            </div>
   				
                            
-                            <!--almasmak -->
+                            <!--end almasmak -->
                             
                    <!-- ======================================= --> 
   
@@ -395,6 +401,14 @@ img {vertical-align: middle;}
   													  <p><b>Visiting hours and location:</b></p>
   														<p><b>Hours: open 24 hours a day</b></p>
   														<p><b>Location: 3134 Wadi Hanifah, Al Bujairi, Riyadh 13711</b></p>
+
+                             
+                             
+     <br>
+      
+      <br>
+      
+      <br>
 
 
                            </div>
