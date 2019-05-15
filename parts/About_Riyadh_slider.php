@@ -195,7 +195,7 @@ img {vertical-align: middle;}
                      <br>
                      
                      <strong><a href="
-  			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
+  			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue" target="_blank">More Information</a></strong>
   								 </p>
       
       <br>
@@ -229,7 +229,7 @@ img {vertical-align: middle;}
                            
                                 
                                 <strong><a href="
-  														http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue">More Information</a></strong>
+  														http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue" target="_blank">More Information</a></strong>
   														</p>
     
      <br>
