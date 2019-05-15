@@ -417,6 +417,51 @@ img {vertical-align: middle;}
                             <!--end albujairi -->
                             
                    <!-- ======================================= --> 
+  
+  
+              <!--albujairi -->                 
+                           
+ <br>
+  <br>
+ 
+  
+  </div><!-- END member-photo -->
+
+                         
+
+                           <div class="member-bio">
+                              <h4 class="team-member-name">
+  King Abdullah Park</h4>
+
+
+
+  															<p>
+
+  														The King Abdullah park is one of the most popular areas to visit here in Riyadh. It is a large park with a lot of greenery and places to sit down and relax.  There is also an activity area for young children and a skating area for teenagers. However, the star attraction of the park is its musical fountain. King Abdullah Park is the perfect place to relax at and enjoy nature.
+  														 </p>
+  													  <p><b>Visiting hours and location:</b></p>
+  														<p><b>Hours: 1pm-12am everyday of the week</b></p>
+  														<p><b>Location: : Al Ameen Abdullah Al Ali Al Naeem Street, Riyadh 12836</b></p>
+
+
+
+                           </div><!-- END member-bio -->
+
+                             
+                             
+     <br>
+      
+      <br>
+      
+      <br>
+
+
+                           </div>
+  				
+                           
+                            <!--end albujairi -->
+                            
+                   <!-- ======================================= --> 
                            
                            
 
