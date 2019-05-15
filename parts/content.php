@@ -5,7 +5,7 @@
   </span></h1>
   <h3>Welcome to ICC 2019
 </h3>
-    <p>
+    <p align="justify">
       In light of the KSA vision 2030, Princess Nourah University will hold the International Conference on Computing, in October 22-24 2019, Riyadh, KSA. ICC 2019, which is endorsed by The International Association for Sharing Knowledge and Sustainability (IASKS). ICC2019 brings  executives, professionals, educators, researchers, and practitioners from across the world to one hub that will foresee tomorrow's challenges today, suggesting solutions, trading ideas, and analyzing and discussing current developments in information technology within: Data Science, Cyber Security, Network & IOT, and Information Technology and Applications.
 
     <p>
