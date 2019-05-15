@@ -5,7 +5,7 @@
 <div class="col">
   <!-- ============================================================================= -->
   <div class="member-wrap" align="middle">
-                           <div class="member-photo">
+                           <div class="member-photo" align="middle">
                               <div class="shadow_img_frame shadow_square">
                                  <div class="img-preload"><img src="assests/images/Abour_Riyad/1.png" alt=""  class="attachment-fadeIn" style="display: inline;"></div>
                               </div>
@@ -18,7 +18,7 @@
   								 <p>
   									 Kingdom Center Tower is located at 2239 Al Urubah Rd, Al Olaya, Riyadh 12214-9597, Saudi Arabia.
   			 Kingdom Tower is one of the best Saudi Shopping Malls. Within the tower there are not only numerous stores but also the Four Season Hotel, apartments, offices, the Sky Bridge and Spazio Restaurant. Kingdom Centre Tower is among the most visited areas by tourists.
-  				<p>
+  				
                      <strong><a href="
   			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
   								 </p>
