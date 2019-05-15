@@ -51,6 +51,37 @@
 	                         </div><!-- END member-bio -->
 	                      </div>
 	<!-- =========================================================== -->
+	
+	
+	
+		 <div class="member-wrap">
+							<div class="member-photo">
+								 <div class="shadow_img_frame shadow_square">
+										<div class="img-preload"><img src="assests/images/speackers/Muhammad Khurram Khan.jpg" alt="" class="attachment-fadeIn" style="display: inline;"></div>
+								 </div>
+							</div><!-- END member-photo -->
+
+							<div class="member-bio">
+								 <h4 class="team-member-name">Prof. Muhammad Khurram Khan</h4>
+								 <p>Biography:</p>
+								 <p>
+								Prof. Muhammad Khurram Khan is currently working at the Center of Excellence in Information Assurance (CoEIA), King Saud University, Kingdom of Saudi Arabia. He is the founder and CEO of the ‘Global Foundation for Cyber Studies and Research’ (http://www.gfcyber.org), which is an independent, non-profit, and non-partisan cybersecurity think tank based in Washington D.C.
+							He is the Editor-in-Chief of a well-reputed International journal ‘Telecommunication Systems’ published by Springer with its recent impact factor of 1.542 (JCR 2017). Furthermore, he is the editor of several international journals, including, IEEE Communications Surveys & Tutorials, IEEE Communications Magazine, IEEE Internet of Things Journal, IEEE Transactions on Consumer Electronics, IEEE Access, IEEE Consumer Electronics Magazine, Journal of Network & Computer Applications, PLOS ONE, Electronic Commerce Research, and IET Wireless Sensor Systems.
+							Prof. Khurram is the recipient of King Saud University Award for Scientific Excellence (Research Productivity) in May 2015. He is also a recipient of King Saud University Award for Scientific Excellence (Inventions, Innovations, and Technology Licensing) in May 2016.
+							He has published more than 350 papers in the journals and conferences of international repute. In addition, he is an inventor of 10 US/PCT patents. His research areas of interest are Cybersecurity, digital authentication, biometrics, IoT security, and technological innovation management.
+							He is a fellow of the IET (UK), fellow of the BCS (UK), fellow of the FTRA (Korea), senior member of the IEEE (USA), member of the IEEE Consumer Electronics Society, member of the IEEE Communications Society, member of the IEEE Technical Committee on Security & Privacy, member of the IEEE IoT Community, and member of the IEEE Cybersecurity Community. He is also the Vice Chair of IEEE Communications Society Saudi Chapter. He is a distinguished Lecturer of the IEEE. His detailed profile can be visited at http://www.professorkhurram.com
+
+								</p>
+
+							</div><!-- END member-bio -->
+					 </div>
+
+
+
+
+
+
+<!-- =========================================================== -->
 												<div class="member-wrap">
 																	<div class="member-photo">
 																		 <div class="shadow_img_frame shadow_square">
@@ -93,34 +124,6 @@
 		 <!-- =========================================================== -->
 
 
-		 <div class="member-wrap">
-							<div class="member-photo">
-								 <div class="shadow_img_frame shadow_square">
-										<div class="img-preload"><img src="assests/images/speackers/Muhammad Khurram Khan.jpg" alt="" class="attachment-fadeIn" style="display: inline;"></div>
-								 </div>
-							</div><!-- END member-photo -->
-
-							<div class="member-bio">
-								 <h4 class="team-member-name">Prof. Muhammad Khurram Khan</h4>
-								 <p>Biography:</p>
-								 <p>
-								Prof. Muhammad Khurram Khan is currently working at the Center of Excellence in Information Assurance (CoEIA), King Saud University, Kingdom of Saudi Arabia. He is the founder and CEO of the ‘Global Foundation for Cyber Studies and Research’ (http://www.gfcyber.org), which is an independent, non-profit, and non-partisan cybersecurity think tank based in Washington D.C.
-							He is the Editor-in-Chief of a well-reputed International journal ‘Telecommunication Systems’ published by Springer with its recent impact factor of 1.542 (JCR 2017). Furthermore, he is the editor of several international journals, including, IEEE Communications Surveys & Tutorials, IEEE Communications Magazine, IEEE Internet of Things Journal, IEEE Transactions on Consumer Electronics, IEEE Access, IEEE Consumer Electronics Magazine, Journal of Network & Computer Applications, PLOS ONE, Electronic Commerce Research, and IET Wireless Sensor Systems.
-							Prof. Khurram is the recipient of King Saud University Award for Scientific Excellence (Research Productivity) in May 2015. He is also a recipient of King Saud University Award for Scientific Excellence (Inventions, Innovations, and Technology Licensing) in May 2016.
-							He has published more than 350 papers in the journals and conferences of international repute. In addition, he is an inventor of 10 US/PCT patents. His research areas of interest are Cybersecurity, digital authentication, biometrics, IoT security, and technological innovation management.
-							He is a fellow of the IET (UK), fellow of the BCS (UK), fellow of the FTRA (Korea), senior member of the IEEE (USA), member of the IEEE Consumer Electronics Society, member of the IEEE Communications Society, member of the IEEE Technical Committee on Security & Privacy, member of the IEEE IoT Community, and member of the IEEE Cybersecurity Community. He is also the Vice Chair of IEEE Communications Society Saudi Chapter. He is a distinguished Lecturer of the IEEE. His detailed profile can be visited at http://www.professorkhurram.com
-
-								</p>
-
-							</div><!-- END member-bio -->
-					 </div>
-
-
-
-
-
-
-<!-- =========================================================== -->
 
 </div>
 
