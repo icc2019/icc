@@ -418,17 +418,12 @@ img {vertical-align: middle;}
                             
                    <!-- ======================================= --> 
   
-  
-              <!--albujairi -->                 
+          <!--KAP -->                 
                            
  <br>
   <br>
  
   
-  </div><!-- END member-photo -->
-
-                         
-
                            <div class="member-bio">
                               <h4 class="team-member-name">
   King Abdullah Park</h4>
@@ -443,25 +438,23 @@ img {vertical-align: middle;}
   														<p><b>Hours: 1pm-12am everyday of the week</b></p>
   														<p><b>Location: : Al Ameen Abdullah Al Ali Al Naeem Street, Riyadh 12836</b></p>
 
-
+<br>
+      
+      <br>
+      
+      <br>
 
                            </div><!-- END member-bio -->
-
                              
-                             
-     <br>
-      
-      <br>
-      
-      <br>
+     
 
 
-                           </div>
   				
                            
-                            <!--end albujairi -->
+                            <!--end KAP -->
                             
                    <!-- ======================================= --> 
+  
                            
                            
 
