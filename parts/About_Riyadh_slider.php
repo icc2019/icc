@@ -290,7 +290,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 
-  <--! new desc-->
+   
     
   <br>
   <br>
