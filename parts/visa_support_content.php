@@ -9,7 +9,7 @@
 
 <p> The Saudi Arabia visa application <a href="https://www.dropbox.com/s/hw3kjf96d3xo8u7/Visa_Application_PRC-2.docx?dl=0" target="_blank"> form </a> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
 
-You are only required to fill in the information stated in English. The information stated in Arabic are to be filled by the Princess Nourah University only. 
+You are only required to fill in the information stated in English. The information stated in Arabic are to be filled by Princess Nourah University only. 
 
 Once you have your form ready, please send it to the following email <a href="mailto:ccis-nw-Inquiry@pnu.edu.sa" target="_top"> ccis-nw-Inquiry@pnu.edu.sa </a>. We will complete your form and submit your application. 
 
