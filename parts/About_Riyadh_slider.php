@@ -117,7 +117,7 @@ img {vertical-align: middle;}
 <body>
 
 
-
+<div class="text">About Riyadh</div>
 <br>
   <br>
   <br>
