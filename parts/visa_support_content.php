@@ -13,7 +13,7 @@ You are only required to fill in the information stated in English. The informat
 
 Once you have your form ready, please send it to the following email <a href="mailto:ccis-nw-Inquiry@pnu.edu.sa" target="_top"> ccis-nw-Inquiry@pnu.edu.sa </a>. We will complete your form and submit your application. 
 
-Once the Saudi application form has been submitted and processed, the approved Visa application will be sent to you by email. To obtain your visa, you have to show up in person in the Saudi Embassy in your country with a copy of your approved application and the with the corresponding passport. 
+Once the Saudi application form has been submitted and processed, the approved Visa application will be sent to you by email. To obtain your visa, you have to show up in person in the Saudi Embassy in your country with a copy of your approved application and passport. 
 
   </p>
     
