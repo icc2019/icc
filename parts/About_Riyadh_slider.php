@@ -409,6 +409,8 @@ img {vertical-align: middle;}
       <br>
       
       <br>
+                             
+                             <br>
 
 
                            </div>
@@ -443,6 +445,8 @@ img {vertical-align: middle;}
       <br>
       
       <br>
+                             
+                             <br>
 
                            </div><!-- END member-bio -->
                              
@@ -452,6 +456,41 @@ img {vertical-align: middle;}
   				
                            
                             <!--end KAP -->
+                            
+                   <!-- ======================================= --> 
+  
+  
+  
+          <!--NMS -->                 
+                           
+ <br>
+  <br>
+ 
+  
+                  
+                           <div class="member-bio">
+                              <h4 class="team-member-name">
+  National Museum of Saudi Arabia </h4>
+
+  <p>
+  	The National Museum of Riyadh is the most famous museum in the Kingdom of Saudi Arabia. Located in the middle part of King Abdul-Aziz Historical Center, which was established to be a cultural and civilization center highlighting the prominent history of the Arabian Peninsula. It is a museum that aims to introduce the KSA history with its role and fundamentals. The museum consists of 10 galleries, courtyards and a section that houses fancy cars and other belongings of the founding king of Saudi Arabia.
+  </p>
+  													  <p><b>For information regarding visiting hours and location visit: </b></p>
+  														<p><b>http://www.nationalmuseum.org.sa/introduction.aspx</b></p>
+
+<br>
+      
+      <br>
+      
+      <br>
+                             
+                             <br>
+
+
+                           </div><!-- END member-bio -->
+
+                           
+                            <!--end NMS -->
                             
                    <!-- ======================================= --> 
   
