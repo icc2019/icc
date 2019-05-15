@@ -61,13 +61,13 @@ Papers are required in PDF format for review purposes, but authors are required 
      <p>
      
       <b>Paper submission</b>
-  <p> <a href="https://easychair.org/account/signin" target="_blank"> Submit Here </a> </p>
+  <p> <b> <a href="https://easychair.org/account/signin" target="_blank"> Submit Here </a> </b> </p>
   </p>
       <br>
 
       <p>
       <b>Copyright form (after your paper has been accepted)</b>
-<p>  Each contribution must be accompanied by a Springer copyright form, a so-called 'Consent to Publish' form. <a href="assests/Contract_Book_Contributor_Consent_to_Publish_CCIS_SIP.pdf" target="_blank" download>Download the copyright form. </a> </p>
+<p>  Each contribution must be accompanied by a Springer copyright form, a so-called 'Consent to Publish' form. <b> <a href="assests/Contract_Book_Contributor_Consent_to_Publish_CCIS_SIP.pdf" target="_blank" download>Download the copyright form </a> </b>. </p>
 
 <p> Modified forms are not acceptable. Authors will be asked to transfer the copyright of the paper to the Springer. This will ensure the widest possible protection and dissemination of information under copyright laws. One author may sign on behalf of all of the authors of a particular paper. In this case, the author signs for and accepts responsibility for releasing the material on behalf of all co-authors. </p> 
 </p>
