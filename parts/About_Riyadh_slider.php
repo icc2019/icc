@@ -229,7 +229,7 @@ img {vertical-align: middle;}
                            
                                 
                                 <strong><a href="
-  														http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue" target="_blank">More Information</a></strong>
+  														https://sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmuk.aspx" class="ka_button small_button small_politicalblue" target="_blank">More Information</a></strong>
   														</p>
     
      <br>
