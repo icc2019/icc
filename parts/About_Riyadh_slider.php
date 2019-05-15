@@ -336,6 +336,12 @@ img {vertical-align: middle;}
                      <strong><a href="
   			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
   								 </p>
+      
+      <br>
+      
+      <br>
+      
+      <br>
 
                            </div><!-- END member-bio -->
                            
@@ -348,10 +354,7 @@ img {vertical-align: middle;}
                            
  <br>
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
+ 
   
   <div class="member-bio">
                               <h4 class="team-member-name">Al Masmak Museum</h4>
@@ -359,20 +362,16 @@ img {vertical-align: middle;}
 
   														<p>
   															Al Masmak Fortress is a well known historic landmark here in Saudi Arabia. On June 11, 1995, His Royal Highness Prince Salman bin Abdul Aziz opened the Al Masmak Historical Museum, which tells the story of the Kingdom’s unification and establishment by King Abdul Aziz.  Full of rich history, Al Masmak Museum is commonly visited by tourists and history enthusiasts. This renovated 19th-century mud fortress looks like a giant sandcastle, and contains costumes, handicrafts, a sitting room, a courtyard and a well.
-  														<strong><a href="
+  														
+                                <br>
+                                <br>
+                                
+                                <strong><a href="
   														http://www.sauditourism.sa/en/aboutKSA/CultureAndHistory/Museums/Pages/AlMasmakHistorical-.aspx" class="ka_button small_button small_politicalblue">More Information</a></strong>
   														</p>
 
                            </div>
   				
-                     <br>
-                     <br>
-                     
-                     <strong><a href="
-  			 http://kingdomcentre.com.sa/?page_id=1452" class="ka_button small_button small_politicalblue">More Information</a></strong>
-  								 </p>
-
-                           </div><!-- END member-bio -->
                            
                             <!--almasmak -->
                             
