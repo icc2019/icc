@@ -364,6 +364,7 @@ img {vertical-align: middle;}
   															Al Masmak Fortress is a well known historic landmark here in Saudi Arabia. On June 11, 1995, His Royal Highness Prince Salman bin Abdul Aziz opened the Al Masmak Historical Museum, which tells the story of the Kingdom’s unification and establishment by King Abdul Aziz.  Full of rich history, Al Masmak Museum is commonly visited by tourists and history enthusiasts. This renovated 19th-century mud fortress looks like a giant sandcastle, and contains costumes, handicrafts, a sitting room, a courtyard and a well.
   														
                                 <br>
+                                <br>
                            
                                 
                                 <strong><a href="
@@ -374,6 +375,32 @@ img {vertical-align: middle;}
   				
                            
                             <!--almasmak -->
+                            
+                   <!-- ======================================= --> 
+  
+            <!--albujairi -->                 
+                           
+ <br>
+  <br>
+ 
+  
+  </div><!-- END member-photo -->
+
+                           <div class="member-bio">
+                              <h4 class="team-member-name">Al Bujairi Heritage Park</h4>
+
+
+  														<p>
+  															Al Bujairi Heritage Park is a huge historical theme park. It contains various restaurants and cafes. Many people visit Al Bujairi Park to have picnics, chat with friends and relax under the trees. If you are looking for a nice place to go for a walk or read a book in a relaxing and fun place in Riyadh, this would be it. The best part is it’s open 24 hours a day! You can visit Al Bujairi Heritage Park whenever you would like, although it is particularly lively during the weekends.
+  													  <p><b>Visiting hours and location:</b></p>
+  														<p><b>Hours: open 24 hours a day</b></p>
+  														<p><b>Location: 3134 Wadi Hanifah, Al Bujairi, Riyadh 13711</b></p>
+
+
+                           </div>
+  				
+                           
+                            <!--end albujairi -->
                             
                    <!-- ======================================= --> 
                            
