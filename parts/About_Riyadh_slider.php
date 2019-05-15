@@ -274,33 +274,33 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
   <img src="https://sauditourism.sa/ar/aboutKSA/CultureAndHistory/Museums/PublishingImages/Riyadh/Almasmuk9.jpg" style="width:100%">
-  
+  <div class="text">Al Masmak Museum </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
   <img src="https://sauditourism.sa/ja/ExploreKSA/AttractionSites/Diriyah/PublishingImages/Albojairi.jpg" style="width:100%">
-  
+  <div class="text">Al Bujairi Heritage Park </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
   <img src="https://i2.wp.com/www.sauditravel.com/wp-content/uploads/king-abdullah-park.jpg?w=580" style="width:100%">
-  
+  <div class="text">King Abdullah Park</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
   <img src="https://sauditourism.sa/ar/ExploreKSA/AttractionSites/NationalMuseum/PublishingImages/ManAndUniverse.jpg" style="width:100%">
-  
+  <div class="text">National Museum of Saudi Arabia </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
   <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" style="width:100%">
-  
+  <div class="text">Tuwaiq Mountains (The Edge of The World)</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
