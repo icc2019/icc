@@ -61,7 +61,7 @@ Authors are required to submit their papers in PDF format only. Authors are also
      <p>
      
       <b>Paper submission</b>
-  <p> <b> <a href="https://easychair.org/my/conference?conf=pnuicc2019" target="_blank"> Submit Here </a>. </b> </p>
+  <p> <b> <a href="https://easychair.org/my/conference?conf=pnuicc2019" target="_blank"> Submit Here</a>. </b> </p>
   </p>
       <br>
 
