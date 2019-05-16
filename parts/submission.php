@@ -30,19 +30,9 @@ Authors are required to submit their papers in PDF format only. Authors are also
 
 <br> <br>
         <b> ICC 2019 invites two types of submissions:  </b>
-        
- <ol>
-    <li>
-    <p>
-     &nbsp; <i> Long papers: </i> Must be 12-15 pages including figures, tables and references.
-    </p>
-    </li>
-    <li>
-    <p>
-     &nbsp; <i> Short papers: </i> Must be 6 to 8 pages including figures, tables and references.
-    </p>
-    </li>
-  </ol>
+        <p> 1. Long papers: </i> Must be 12-15 pages including figures, tables and references. </p>
+    <p> 2. Short papers: </i> Must be 6 to 8 pages including figures, tables and references.</p>
+   
      <br>
       
     <p>  
