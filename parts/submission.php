@@ -39,7 +39,7 @@ Authors are required to submit their papers in PDF format only. Authors are also
     </li>
     <li>
     <p>
-      <i> Short papers: </i> Must be 6 to 8 pages including figures, tables and reference.
+      <i> Short papers: </i> Must be 6 to 8 pages including figures, tables and references.
     </p>
     </li>
   </ol>
