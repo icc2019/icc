@@ -34,12 +34,12 @@ Authors are required to submit their papers in PDF format only. Authors are also
  <ol>
     <li>
     <p>
-      <i> Long papers: </i> Must be 12-15 pages including figures, tables and references.
+     &nbsp; <i> Long papers: </i> Must be 12-15 pages including figures, tables and references.
     </p>
     </li>
     <li>
     <p>
-      <i> Short papers: </i> Must be 6 to 8 pages including figures, tables and references.
+     &nbsp; <i> Short papers: </i> Must be 6 to 8 pages including figures, tables and references.
     </p>
     </li>
   </ol>
