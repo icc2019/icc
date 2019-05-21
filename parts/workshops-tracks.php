@@ -95,35 +95,6 @@
 
 
 
-    <h1>WORKSHOP PROPOSAL FORMAT</h1>
-    <p align="justify">
-      Each workshop proposal (maximum 3 pages) must include the following ordered information:
-    </p>
-
-
-    <li> <p> Workshop Title </p></li>
-  <li>  <p>Workshop Organizers (names, affiliation and contact information) </p></li>
-  <li>  <p>Workshop Scope and Topics (max 250 words) </p></li>
-  <br/><br/><br/><br/>
-  <h1>Rationale (max 1 page):</h1>
-  <li>  <p> a.  Why the workshop topic is important and current? </p></li>
-  <li>  <p> b.	Why the workshop may attract a large number of researchers and audiences? </p></li>
-  <li>  <p> c.	Why the workshop differs from other similar conference topics and workshops? </p></li>
-
-  <p>A short biography of the organizers (up to 200 words) </p>
-
-
-  <p> <b>Names of potential speakers</b></b>
-  <li>
-    <p>Planned format of the workshop, including: </p>
-  </li>
-  <li><p>Duration of the workshop: Half day workshop (3-Hour), Full day (6-Hour)​. </p></li>
-  <li><p>Creative workshop formats. (strongly encouraged)</p></li>
-  <li><p>Presentation Draft Call</p> </li>
-  <li><p>A previous workshop description (recently organized similar workshop), including the submitted paper/ presentation, number of attendees, etc.</p></li>
-  </ul>
-  <div>
-  <br/>
     <h1>WORKSHOP PROPOSAL SUBMISSION</h1>
     <p>
       You can submit a workshop proposal as a single PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a>
