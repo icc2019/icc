@@ -91,7 +91,7 @@
 
 
   <br/>
-
+    <p><a href="C:\Users\LENOVO\Downloads\Abstract.docx‎">Download Word Documen</a></p>
 
 
 
@@ -115,7 +115,7 @@
       <td><p>August 1st, 2019</p></td>
     </tr>
   </table>
-    <p><a href="C:\Users\LENOVO\Downloads\Abstract.docx‎">Download Word Documen</a></p>
+
   <ul>
   <ol><p><b>Please address all questions to the ICC Workshops Chairs:</b></p></ol>
   <ol><p>Chair Dr. Norah Alghamdi</p></ol>
