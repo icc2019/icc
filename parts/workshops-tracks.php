@@ -2,7 +2,7 @@
 
 <div class="col">
   <div class="Organizing-Committee">
-    <h1>  Workshop Proposal</h1>
+    <h1>  Workshop </h1>
   <p align="justify">
     The International Conference in Computing (ICC) will host a number of workshops. Each workshop will be led by one presenter/group of presenters for the duration of the session time, which may be half or full day. The aim of the conference workshops is to provide training session for emerging topics not specifically covered in the main conference. Workshops should highlight trend topics related to Data Science, IoT, Cyper Security, and Networks. An invitation is open to submit workshop proposals.
   </p>
