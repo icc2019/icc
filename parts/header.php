@@ -58,7 +58,7 @@
 
 
                   <li>
-                     <a href="workshop-proposal.php"><span>><strong>  Workshops </strong> </span></a>
+                     <a href="workshop-proposal.php"><span><strong>  Workshops </strong> </span></a>
                    
                    
                   </li>
