@@ -103,10 +103,15 @@
     </p>
   </div>
   <table>
-
+     
+    <tr> 
+      <td> <p>​  Download the workshop proposal format </p> </td>
+      <td> <p> <b> <a href="assests/Abstract2214.docx" target="_blank"download> here </a> </b> </p> </td>
+    </tr>
+  
+  
     <tr>
-      <td>  Download the workshop proposal format <b> <a href="assests/Abstract2214.docx" target="_blank"download> here </a> </b> </td>
-      <td><p>​The deadline for workshop abstract submission </p></td>
+     <td><p>​The deadline for workshop abstract submission </p></td>
       <td><p>June 6th , 2019</p></td>
     </tr>
     <tr>
