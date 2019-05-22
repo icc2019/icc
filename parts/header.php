@@ -58,7 +58,7 @@
 
 
                   <li>
-                     <a href="#" class="nav-link"><span><strong>Workshops </strong></span></a>
+                     <a href="workshop-proposal.php"><span>><strong>  Workshopsss </strong> </span></a>
                      <ul class="sub-menu">
 
                         <li>
@@ -66,7 +66,7 @@
 
                         </li>
                         <li>
-                           <a href="workshop-proposal.php"><span>  Workshop Proposal </span></a>
+                           <a href="workshop-proposal.php"><span>  Workshops </span></a>
 
                         </li>
                      </ul>
