@@ -95,11 +95,11 @@
 
     <h1>WORKSHOP PROPOSAL SUBMISSION</h1>
     
-    
-  <br/>
-   <p> <b> <a href="assests/Abstract2214.docx" target="_blank" download> Download Word Document  </a> </b> </p>
-    
+   
     <p>
+      <b> <a href="assests/Abstract2214.docx" target="_blank" download> Download Word Document  </a> </b>
+      <br>
+      
       You can submit a workshop proposal as a single  PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a>
    
     
