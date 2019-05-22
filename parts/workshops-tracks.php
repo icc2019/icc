@@ -99,14 +99,13 @@
     <p>
 
       <b> You can submit a  workshop proposal as a single  PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a> </b>
-   <br>
-      Download the workshop proposal format <b> <a href="assests/Abstract2214.docx" target="_blank"download> here </a> </b>  
     
     </p>
   </div>
   <table>
 
     <tr>
+      <td>  Download the workshop proposal format <b> <a href="assests/Abstract2214.docx" target="_blank"download> here </a> </b> </td>
       <td><p>​The deadline for workshop abstract submission </p></td>
       <td><p>June 6th , 2019</p></td>
     </tr>
