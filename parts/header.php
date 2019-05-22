@@ -59,17 +59,8 @@
 
                   <li>
                      <a href="workshop-proposal.php"><span>><strong>  Workshopsss </strong> </span></a>
-                     <ul class="sub-menu">
-
-                        <li>
-                           <a href="   workshops-tracks.php"><span>  Workshops  </span></a>
-
-                        </li>
-                        <li>
-                           <a href="workshop-proposal.php"><span>  Workshops </span></a>
-
-                        </li>
-                     </ul>
+                   
+                   
                   </li>
 
                   <li>
