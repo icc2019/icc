@@ -99,7 +99,7 @@
     <p>
 
       
-      You can submit a  <b> <a href="assests/Abstract2214.docx" target="_blank" download> workshop proposal </a> </b> as a single  PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a>
+      You can submit a   <a href="assests/Abstract2214.docx" target="_blank" download> workshop proposal </a>  as a single  PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a>
    
     
     </p>
