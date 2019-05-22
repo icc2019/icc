@@ -125,6 +125,8 @@
       <td><p>August 1st, 2019</p></td>
     </tr>
   </table>
+    
+    <bR>
 
   <ul>
   <ol><p><b>Please address all questions to the ICC Workshops Chairs:</b></p></ol>
