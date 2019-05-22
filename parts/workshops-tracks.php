@@ -97,7 +97,7 @@
 
     <h1>WORKSHOP PROPOSAL SUBMISSION</h1>
     <p>
-      You can submit a workshop proposal as a single PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a>
+      You can submit a workshop proposal as a single  PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a>
     </p>
   </div>
   <table>
