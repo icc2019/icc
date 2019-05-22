@@ -91,7 +91,7 @@
 
 
   <br/>
-    <p><a href="assests/Abstract[2214].docx" target="_blank download">Download Word Documen</a></p>
+    <p><a href="assests/Abstract[2214].docx" target="_blank" download">Download Word Documen</a></p>
 
 
     <h1>WORKSHOP PROPOSAL SUBMISSION</h1>
