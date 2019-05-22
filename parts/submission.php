@@ -26,7 +26,7 @@ Submitted papers should be within the scope of the ICC 2019 conference. All cont
 The conference proceedings will be published by Springer-Verlag in Springer's CCIS (Communications in Computer and Information Science) Book Series. When formatting papers, please refer to the Springer-Verlag web site, and strictly follow the Instructions to Authors.
 
 <br> <br>
-Authors are required to submit their papers in PDF format only. Authors are also required to use Springer templates ( <b> <a href="assests/Latex.zip" target="_blank" download>  LaTeX  </a> </b> or <b> <a href="assests/Word.zip" target="_blank" download> MS Word </a> </b> ).
+Authors are required to submit their papers in PDF format only. Authors are also required to use Springer templates ( <b> <a href="assests/Latex.zip" target="_blank" download>  LaTeX  </a> </b> or <b> <a href="assests/word.rar" target="_blank" download> MS Word </a> </b> ).
 
 <br> <br>
         <b> ICC 2019 invites two types of submissions:  </b>
