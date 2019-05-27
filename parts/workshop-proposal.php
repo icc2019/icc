@@ -147,7 +147,22 @@
                             
                             
                           <div id="tab-6" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-7" role="tabpanel" aria-expanded="true" aria-hidden="false" style="display: block;">
-                             <p> <ul>
+                            
+                             <p>
+                            &#9679; Internet of Things Architecture <br>
+                            &#9679; Big data and IoT Data Analytics <br>
+                            &#9679; IoT and Artificial Intelligence techniques <br>
+                            &#9679; Iot Best Practices, Standards, and Open-Source  <br>
+                            &#9679; Web Technologies for the IoT <br>
+                            &#9679; Description and Discovery of IoT devices, including mobile and moving devices <br>
+                            &#9679; Real World Applications of IoT technology <br>
+                            &#9679; Green IoT <br>
+                            &#9679; The Internet of People <br>
+                         
+                             </div> 
+                         
+                            <!--
+                            <p> <ul>
                                <li> <p>Internet of Things Architecture</p></li>
                                <li> <p>Big data and IoT Data Analytics </p></li>
                                <li> <p>IoT and Artificial Intelligence techniques</p></li>
@@ -159,6 +174,10 @@
                                <li> <p>The Internet of People</p></li>
                              </ul></p>
                           </div>
+
+-->
+                            
+                            
                        </div>
                     </div>
 
