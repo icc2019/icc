@@ -85,7 +85,18 @@
 
                           
                           <div id="tab-4" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                             <p><ul>
+                           
+                              <p>
+                            &#9679; Authentication and Authorization <br>
+                            &#9679; Communication and Network Security <br>
+                            &#9679; Security Testing and Verification <br>
+                            &#9679; Socio-technical Security <br>
+                            &#9679; Reverse Engineering <br>
+                          
+                             </div> 
+                            
+                            <!--
+                            <p><ul>
                                <li> <p>Authentication and Authorization</p></li>
                                <li> <p>Communication and Network Security</p></li>
                                <li> <p>Security Testing and Verification</p></li>
@@ -94,8 +105,29 @@
                                <br/>
                              </ul></p>
                           </div>
+
+-->
+                            
                           <div id="tab-5" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-6" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                             <p> <ul>
+                             
+                               <p>
+                            &#9679; Software-defined networks <br>
+                            &#9679; Network virtualization <br>
+                            &#9679; Vehicular and 5G networks <br>
+                            &#9679; Cloud networking <br>
+                            &#9679; Network data analytics <br>
+                            &#9679; Smart cities <br>
+                            &#9679; Wireless networks <br>
+                            &#9679; Mobile networks <br>
+                            &#9679; Satellite networks <br>
+                            &#9679; Optical networks <br>
+                            &#9679; Multimedia networks <br>
+                             
+                          
+                             </div> 
+                            
+                            <!--
+                            <p> <ul>
                                <li> <p>Software-defined networks.</p></li>
                                <li> <p>Network virtualization.</p></li>
                                <li> <p>Vehicular and 5G networks.</p></li>
@@ -110,6 +142,10 @@
                                <br/>
                              </ul></p>
                           </div>
+
+-->
+                            
+                            
                           <div id="tab-6" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-7" role="tabpanel" aria-expanded="true" aria-hidden="false" style="display: block;">
                              <p> <ul>
                                <li> <p>Internet of Things Architecture</p></li>
