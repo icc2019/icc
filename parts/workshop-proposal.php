@@ -22,7 +22,30 @@
                              <li class="ui-state-default ui-corner-top col-lg-2 col-xs-12 col-sm-12" role="tab" tabindex="0" aria-controls="tab-6" aria-labelledby="ui-id-7" aria-selected="true"><a href="#tab-6" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7"><span>Internet of Things (IoT)</span></a></li>
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                             <p> <ul>
+                           
+                             <p>
+                            &#9679; Deep Learning <br>
+                            &#9679; Machine Learning <br>
+                            &#9679; Predictive Analytics <br>
+                            &#9679; Natural Language Processing <br>
+                            &#9679; Data Visualization <br>
+                            &#9679; Data Wrangling <br>
+                            &#9679; AI Research <br>
+                            &#9679; Data Science at Scale <br>
+                            &#9679; Data Science Management <br>
+                            &#9679; Data Science Workflows <br>
+                            &#9679; Recommendation Systems <br>
+                            &#9679; Transfer Learning <br>
+                            &#9679; Conversational AI
+                            &#9679; Speech Recognition
+                            &#9679; Unsupervised Learning
+                            &#9679; Image Classification
+                            &#9679; Machine translation
+                           
+                             </div> 
+                           
+                         <!--
+                            <p> <ul>
                                <li> <p>Deep Learning</p></li>
                                <li> <p>Machine Learning</p></li>
                                <li> <p>Predictive Analytics</p></li>
@@ -34,7 +57,7 @@
                                <li> <p>Data Science Management</p></li>
                                <li> <p>Data Science Workflows</p></li>
                                <li> <p>Recommendation Systems</p></li>
-                               <li> <p>Transfer Learning</p></li>
+                             <li> <p>Transfer Learning</p></li>
                                <li> <p>Conversational AI</p></li>
                                <li> <p>Speech Recognition</p></li>
                                <li> <p>Unsupervised Learning</p></li>
@@ -58,7 +81,9 @@
                                <li> <p>Image Classification</p></li>
                                <li> <p>Machine translation</p></li>
                              </ul></p>
-                          </div>
+-->
+
+                          
                           <div id="tab-4" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-5" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
                              <p><ul>
                                <li> <p>Authentication and Authorization</p></li>
