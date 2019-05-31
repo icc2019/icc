@@ -26,13 +26,13 @@
 
             <!-- ***************** - Main Menu - ***************** -->
             <nav role="navigation">
-               <ul id="menu-main-nav">
+               <ul id="menu-main-nav" align="center">
                  <li>
                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
                  </li>
                   <li>
                      <span><strong>Committees</strong></span>
-                     <ul align="center" class="sub-menu">
+                     <ul class="sub-menu">
 
                         <li><a href="General-Chairs.php"><span> General Chairs</span></a></li>
                         <li><a href="Steering-Commitee.php"><span> Steering Commitee </span></a></li>
