@@ -30,7 +30,7 @@
                  <li>
                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
                  </li>
-                  <li>
+                  <li align="center">
                      <span><strong>Committees</strong></span>
                      <ul class="sub-menu">
 
