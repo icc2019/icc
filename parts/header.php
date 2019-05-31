@@ -1,6 +1,6 @@
 
 <div>
-  <img src="assests/images/slider/Banner.jpg" style="max-height: 1500px;
+  <img src="assests/images/slider/Banner.jpg" style=" height="240";
     width: 100%;
     object-fit: initial;" />
   <!-- <div class="headercontent" >
