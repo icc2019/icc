@@ -22,8 +22,7 @@
                              <li class="ui-state-default ui-corner-top col-lg-2 col-xs-12 col-sm-12" role="tab" tabindex="0" aria-controls="tab-6" aria-labelledby="ui-id-7" aria-selected="true"><a href="#tab-6" class="tab ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-7"><span>Internet of Things (IoT)</span></a></li>
                           </ul>
                           <div id="tab-3" class="tab-box ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-4" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-                           
-<p>klklkl</p>                             <p>
+                                   <p>
                             &#9679; Deep Learning <br>
                             &#9679; Machine Learning <br>
                             &#9679; Predictive Analytics <br>
