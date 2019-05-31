@@ -26,7 +26,7 @@
 
             <!-- ***************** - Main Menu - ***************** -->
             <nav role="navigation">
-               <ul id="menu-main-nav" align="center">
+               <ul id="menu-main-nav">
                  <li>
                     <a href="index.php" class="nav-link"><span><strong>Home</strong></span></a>
                  </li>
