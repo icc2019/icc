@@ -32,7 +32,7 @@
                  </li>
                   <li>
                      <span><strong>Committees</strong></span>
-                     <ul class="sub-menu">
+                     <ul class="sub-menu" align="center">
 
                         <li><a href="General-Chairs.php"><span> General Chairs</span></a></li>
                         <li><a href="Steering-Commitee.php"><span> Steering Commitee </span></a></li>
