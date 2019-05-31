@@ -12,7 +12,8 @@
             <div class="main-area">
 
             <!-- END jquery1-slider-wrap -->
-        <?php include('parts/workshops-tracks.php');?>
+      
+               <?php include('parts/workshop-proposal.php');?>
                <main role="main" id="content" class="">
 
               </main><!-- END main #content -->
