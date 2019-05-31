@@ -35,11 +35,11 @@
                             &#9679; Data Science Workflows <br>
                             &#9679; Recommendation Systems <br>
                             &#9679; Transfer Learning <br>
-                            &#9679; Conversational AI
-                            &#9679; Speech Recognition
-                            &#9679; Unsupervised Learning
-                            &#9679; Image Classification
-                            &#9679; Machine translation
+                            &#9679; Conversational AI <br>
+                            &#9679; Speech Recognition <br>
+                            &#9679; Unsupervised Learning <br>
+                            &#9679; Image Classification <br>
+                            &#9679; Machine translation <br>
                            
                              </div> 
                            
