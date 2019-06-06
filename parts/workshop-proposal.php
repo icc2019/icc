@@ -214,7 +214,7 @@
   
     <tr>
      <td><p>​The deadline for workshop abstract submission </p></td>
-      <td><p> <del> June 6th , 2019 </del> June 30th, 2019</p></td>
+      <td><p> <del> June 6th , 2019 </del> 	&nbsp; 	&nbsp; June 30th, 2019</p></td>
     </tr>
     <tr>
       <td><p>Announcement of acceptance/rejection </p></td>
