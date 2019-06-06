@@ -208,7 +208,7 @@
      
     <tr> 
       <td> <p>​  Download the workshop proposal format </p> </td>
-      <td> <p> <b> <a href="assests/Abstract_ [2702].docx" target="_blank"download> here </a> </b> </p> </td>
+      <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Abstract_ [2702].docx" target="_blank"download> here </a> </b> </p> </td>
     </tr>
   
   
