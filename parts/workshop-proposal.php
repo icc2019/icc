@@ -218,11 +218,11 @@
     </tr>
     <tr>
       <td><p>Announcement of acceptance/rejection </p></td>
-      <td><p>July 15th, 2019</p></td>
+      <td><p> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;   July 15th, 2019</p></td>
     </tr>
     <tr>
       <td><p>Deadline for final presentation submission</p></td>
-      <td><p>August 1st, 2019</p></td>
+      <td><p> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;   August 10th, 2019</p></td>
     </tr>
   </table>
     
