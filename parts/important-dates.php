@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td><p>Submission Deadline</p></td>
-      <td><p>June 15<sup>th</sup>, 2019 (Extended) </p></td>
+      <td><p>June 20<sup>th</sup>, 2019 (Final Extension) </p></td>
     </tr>
     <tr>
       <td><p>Notification Deadline</p></td>
