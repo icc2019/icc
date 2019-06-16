@@ -8,7 +8,7 @@
     
 <p> <b> How to Apply for a Saudi Visa </b> </p>
 
-<p align="justify"> The Saudi Arabia visa application <b> <a href="assests/نموذج طلب إصدار وتمديد تأشيرة زيارة حكومية بالترويسة الجديدة (1) (1).docx" target="_blank" download> form </a> </b> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
+<p align="justify"> The Saudi Arabia visa application <b> <a href="assests/نموذج طلب إصدار وتمديد تأشيرة زيارة حكومية بالترويسة الجديدة.docx" target="_blank" download> form </a> </b> will only take a few minutes to complete. To avoid delays and possible rejections, make sure that all the sections are answered fully and accurately.
 
 You are only required to fill in the information stated in English. The information stated in Arabic are to be filled by Princess Nourah University only. 
 
