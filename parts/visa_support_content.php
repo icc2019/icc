@@ -8,8 +8,7 @@
     
 <p> <h3><b> How to Apply for a Saudi Visa (Visitors)</b></h3> </p>
 
-  <p>
-    To apply for your visa, please go to the <a href="https://visa.mofa.gov.sa/" target="_top">link</a> </b> , or visit the Saudi
+  <p align="justify"> To apply for your visa, please go to the <a href="https://visa.mofa.gov.sa/" target="_top">link</a> </b> , or visit the Saudi
 Embassy or Consulate in your city, or the nearest Saudi
 representative office to find out more about Saudi visa issuance.
 If you are an author and you would like a letter indicating the
@@ -22,3 +21,6 @@ accepted paper ID.
 
 <?php //include('left-panel.php');?>
 <?php include('bottom-panel.php');?>
+
+
+
