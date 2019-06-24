@@ -18,11 +18,11 @@ Once the Saudi application form has been submitted and processed, the approved V
 
   </p>
   <p>
-    To apply for your visa, please go to  <a href="https://visa.mofa.gov.sa/" target="_top">the link</a> </b> , or visit the Saudi
+    To apply for your visa, please go to the <a href="https://visa.mofa.gov.sa/" target="_top">link</a> </b> , or visit the Saudi
 Embassy or Consulate in your city, or the nearest Saudi
 representative office to find out more about Saudi visa issuance.
 If you are an author and you would like a letter indicating the
-acceptance of your paper, please send an email to:<b> <a href="mailto:ccis-nw-Inquiry@pnu.edu.sa" target="_top"> ccis-nw-Inquiry@pnu.edu.sa </a> </b>with your name, passport information and your
+acceptance of your paper, please send an email to:<b> <a href="mailto:ccis-nw-Inquiry@pnu.edu.sa" target="_top">ccis@pnu.edu.sa </a> </b>with your name, passport information and your
 accepted paper ID.
     </p>
     
