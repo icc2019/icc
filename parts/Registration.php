@@ -6,7 +6,7 @@
    <br>
     <br>
 
-     <table style="width:70%">
+     <table style="width:70%" align="center">
   <tr>
     <th>  </th>
     <th>Early Registration <br> (August 22nd )</th>
