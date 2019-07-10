@@ -3,7 +3,7 @@
   <div class="Registration">
   <h1>
    Registration</h1>
-   <p>
+   <br>
 
      <table style="width:100%">
   <tr>
@@ -46,7 +46,7 @@
   
 </table>
    
-   </p>
+   
    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
 
