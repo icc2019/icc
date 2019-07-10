@@ -45,8 +45,7 @@
   </tr>
   
 </table>
-     
-  Registration site and fees will be available soon​
+   
    </p>
    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
