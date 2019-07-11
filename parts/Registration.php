@@ -10,7 +10,7 @@
   <tr>
     <th>  </th>
     <th>Early Registration <br> (August 22nd )</th>
-    <th>Late Registration <br> ((October 21st )</th> 
+    <th>Late Registration <br>  (October 21st )</th> 
     <th>Onsite Registration <br> (Begins October 22nd)</th>
   </tr>
   
