@@ -3,7 +3,15 @@
   <div class="Registration">
   <h1>
    Registration</h1>
-   <br>
+   
+    
+    <p>
+      
+      Registration site and fees will be availble soon​
+      
+      </p>
+    <!--
+    <br>
     <br>
 
      <table style="width:100%" align="center">
@@ -46,7 +54,7 @@
   </tr>
   
 </table>
-   
+   -->
    
    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
