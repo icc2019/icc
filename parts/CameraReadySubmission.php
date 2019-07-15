@@ -18,7 +18,7 @@
     
     <b> Note: </b> The following instructions are adapted from ICC2019 Steering Committee.
     <br>
-
+<br>
 The deadline is August 1st, 2019. Failure to submit your Camera-Ready files by this date will result in your paper being not included in the proceeding. You may submit the final version of your paper by navigating <b> <a href="https://easychair.org/account/signin" target="_blank"> HERE </a> </b> and following the instructions.
 <br> <br>
     
