@@ -39,13 +39,13 @@ Any changes you see fit to make to the final version of your paper as well as su
     <p> 3.	Completed copyright form. </p>
 	  
 	  <br>
-	  <br>
-	 
-<p align="justify"> By email to ICC_CR@pnu.edu.sa </p>
 	  
-<p align="justify"> The file name should be [FIRST AUTHOR LASTNAME - PAPER Number (FROM EASYCHAIR).zip] </p>
 	 
-<p align="justify"> Please, do not hesitate to contact ICC_CR@pnu.edu.sa for any questions you may have before sending the camera-ready copy. </p>
+<p align="justify"> By email to ICC_CR@pnu.edu.sa 
+	  
+<br> The file name should be [FIRST AUTHOR LASTNAME - PAPER Number (FROM EASYCHAIR).zip] 
+	 
+<br> Please, do not hesitate to contact ICC_CR@pnu.edu.sa for any questions you may have before sending the camera-ready copy. </p>
 
 
     </p>
