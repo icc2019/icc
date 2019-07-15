@@ -37,9 +37,13 @@ Any changes you see fit to make to the final version of your paper as well as su
     <p> 1. 	Camera-ready paper in a pdf format. </p>
     <p> 2.	Camera-ready paper source file (Ms_Word or Latex). </p> 
     <p> 3.	Completed copyright form. </p>
+	  
+	  <br>
 
 By email to ICC_CR@pnu.edu.sa
+	  <br>
 The file name should be [FIRST AUTHOR LASTNAME - PAPER Number (FROM EASYCHAIR).zip]
+	  <br>
 Please, do not hesitate to contact ICC_CR@pnu.edu.sa for any questions you may have before sending the camera-ready copy.
 
 
