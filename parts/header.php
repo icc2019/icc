@@ -71,7 +71,7 @@
                         <li><a href="Venue.php"><span> Venue</span></a></li>
                         <li><a href="About-Riyadh.php"><span>   About Riyadh</span></a></li>
                             <li><a href="visa_support.php"><span>   Visa Support</span></a></li>
-                      <li><a href="CameraReadySubmission.php"><span>  Camera Ready Submission </span></a></li>
+                      <li><a href="parts/CameraReadySubmission.php"><span>  Camera Ready Submission </span></a></li>
                      </ul>
                   </li>
                   <li>
