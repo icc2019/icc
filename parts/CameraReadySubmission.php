@@ -38,6 +38,8 @@ Any changes you see fit to make to the final version of your paper as well as su
     <p> 2.	Camera-ready paper source file (Ms_Word or Latex). </p> 
     <p> 3.	Completed copyright form. </p>
 	  
+	  <br>
+	  <br>
 	 
 <p align="justify"> By email to ICC_CR@pnu.edu.sa </p>
 	  
