@@ -41,7 +41,7 @@ Any changes you see fit to make to the final version of your paper as well as su
 	  <br>
 	  
 	 
-<p align="justify"> By uploading your zip to EasyChair at: <b> https://easychair.org/my/conference?conf=pnuicc2019 </b> .
+<p align="justify"> By uploading your zip to EasyChair at: <b> <a href="https://easychair.org/my/conference?conf=pnuicc2019" target="_blank"> https://easychair.org/my/conference?conf=pnuicc2019</a> </b> .
 	  
 <br> The file name should be [FIRST AUTHOR LASTNAME - PAPER Number (FROM EASYCHAIR).zip] 
 	 
