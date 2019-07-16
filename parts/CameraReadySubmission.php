@@ -38,7 +38,7 @@ Any changes you see fit to make to the final version of your paper as well as su
     <p> 2.	Camera-ready paper source file (Ms_Word or Latex). </p> 
     <p> 3.	Completed copyright form. </p>
 	  
-	  
+	  <br>
 	  
 	 
 <p align="justify"> By uploading your zip to EasyChair,  <b> <a href="https://easychair.org/account/signin" target="_blank"> Please click here </a> </b>
