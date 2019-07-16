@@ -19,7 +19,7 @@
     <b> Note: </b> The following instructions are adapted from ICC2019 Steering Committee.
     <br>
 <br>
-The deadline is August 1st, 2019. Failure to submit your Camera-Ready files by this date will result in your paper being not included in the proceeding. You may submit the final version of your paper by navigating <b> <a href="https://easychair.org/account/signin" target="_blank"> HERE </a> </b> and following the instructions.
+The deadline is August 1st, 2019. Failure to submit your Camera-Ready files by this date will result in your paper being not included in the proceeding. You may submit the final version of your paper by navigating <b> <u> <a href="https://easychair.org/account/signin" target="_blank"> HERE </a> </u> </b> and following the instructions.
 <br> <br>
     
 Any changes you see fit to make to the final version of your paper as well as suggestions made by the reviewers should be incorporated in the camera-ready version. In addition, please be sure to do all of the following:<br> <br>
@@ -41,7 +41,7 @@ Any changes you see fit to make to the final version of your paper as well as su
 	  <br>
 	  
 	 
-<p align="justify"> By uploading your zip to ( <b> <a href="https://easychair.org/account/signin" target="_blank"> EasyChair </a> </b> ). <!-- at : ( <b> <a href="https://easychair.org/account/signin" target="_blank"> Please click here </a> </b> ) -->
+<p align="justify"> By uploading your zip to EasyChair at : ( Please click <b> <u> <a href="https://easychair.org/account/signin" target="_blank"> HERE </a> </u> </b> ).
 	  
 <br> The file name should be [FIRST AUTHOR LASTNAME - PAPER Number (FROM EASYCHAIR).zip] 
 	 
