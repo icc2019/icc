@@ -41,7 +41,7 @@ Any changes you see fit to make to the final version of your paper as well as su
 	  <br>
 	  
 	 
-<p align="justify"> By email to ICC_CR@pnu.edu.sa 
+<p align="justify"> By uploading your zip to EasyChair,  <a href="https://easychair.org/account/signin" target="_blank"> Please click here </a> </b>
 	  
 <br> The file name should be [FIRST AUTHOR LASTNAME - PAPER Number (FROM EASYCHAIR).zip] 
 	 
