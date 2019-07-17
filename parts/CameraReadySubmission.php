@@ -36,7 +36,7 @@ Any changes you see fit to make to the final version of your paper as well as su
 &#9679; Authors are required to send a zipped file, containing the following:
     <p> 1. 	Camera-ready paper in a pdf format. </p>
     <p> 2.	Camera-ready paper source file (Ms_Word or Latex). </p> 
-    <p> 3.	Completed copyright form (<b> <u> <a href="www.icconf.org/assests/Contract_Book_Contributor_Consent_to_Publish_CCIS_SIP.pdf" target="_blank"> Download the copyright form </a> </u> </b>). </p>
+    <p> 3.	Completed copyright form (<b> <u> <a href="http://www.icconf.org/assests/Contract_Book_Contributor_Consent_to_Publish_CCIS_SIP.pdf" target="_blank"> Download the copyright form </a> </u> </b>). </p>
 	  
 	  <br>
 	  
