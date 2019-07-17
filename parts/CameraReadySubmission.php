@@ -23,7 +23,7 @@ The deadline is August 1st, 2019. Failure to submit your Camera-Ready files by t
 <br> <br>
     
 Any changes you see fit to make to the final version of your paper as well as suggestions made by the reviewers should be incorporated in the camera-ready version. In addition, please be sure to do all of the following:<br> <br>
-&#9679;	Ensure that your paper conforms to the required format <!--(see the Springer templates as described <b> <u> <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?countryChanged=true" target="_blank"> HERE </a> </u> </b>) --> ( <b> <u> <a href="assests/Latex.zip" target="_blank" download>  LaTeX  </a> </b> or <b> <a href="assests/word.rar" target="_blank" download> MS Word </a> </u> </b> ).<br>
+&#9679;	Ensure that your paper conforms to the required format <!--(see the Springer templates as described <b> <u> <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines?countryChanged=true" target="_blank"> HERE </a> </u> </b>) --> ( <b> <u> <a href="assests/Latex.zip" target="_blank" download>  LaTeX  </a> </u> </b> or <b> <u> <a href="assests/word.rar" target="_blank" download> MS Word </a> </u> </b> ).<br>
 &#9679; Include the authors' names and affiliations under the title. Note that the list of authors should be identical to the list specified when submitting the paper.<br>
 &#9679; Ensure that your paper conforms to the appropriate submission types, 12-15 pages for long papers and 6-8 pages for short papers, including all tables, figures, and references.<br>
 &#9679; Ensure that all tables and figures are at a high resolution. <br>
