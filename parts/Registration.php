@@ -29,7 +29,7 @@ th, td {
 
 
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th> </th>
     <td>Attendece Type</td>
