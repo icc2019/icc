@@ -7,9 +7,7 @@
     
     <p>
       
-      <img src="assests/images/info.png" alt="info" width="500" height="300>
-      
-    
+     
     <br>
     <br>
 <!--
@@ -28,7 +26,7 @@ th, td {
 </style>
 </head>
 <body>
-
+-->
 
 
 <table style="width:100%">
@@ -108,7 +106,7 @@ th, td {
   
 </table>
 
--->
+
 
 
     </p>
