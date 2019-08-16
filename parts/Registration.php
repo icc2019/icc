@@ -10,7 +10,7 @@
     
     <br>
     <br>
-
+<!--
 <html>
 <head>
 <style>
@@ -29,7 +29,7 @@ th, td {
 
 
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <th> </th>
     <td>Attendece Type</td>
@@ -105,6 +105,8 @@ th, td {
   </tr>
   
 </table>
+
+-->
 
 
     </p>
