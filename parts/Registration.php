@@ -6,8 +6,9 @@
    
     
     <p>
-      
+      <!--
     <img src="assests/images/info.png" alt="info" border="2">   
+-->
     <br>
     <br>
 <!--
