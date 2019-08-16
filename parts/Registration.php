@@ -7,10 +7,7 @@
     
     <p>
       
-      Registration site and fees will be available soon​
-      
-      </p>
-    <!--
+    
     <br>
     <br>
 
@@ -54,7 +51,7 @@
   </tr>
   
 </table>
-   -->
+    </p>
    
    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
