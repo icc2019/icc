@@ -7,7 +7,7 @@
     
     <p>
       
-      <img src="assests/images/info.png" alt="info">
+      <img src="assests/images/info.png" alt="info" width="500" height="300>
       
     
     <br>
