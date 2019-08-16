@@ -11,46 +11,102 @@
     <br>
     <br>
 
-     <table style="width:100%" align="center">
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: center;
+ 
+}
+</style>
+</head>
+<body>
+
+
+
+<table style="width:100%">
   <tr>
-    <th>  </th>
-    <th>Early Registration <br> (August 22nd )</th>
-    <th>Late Registration <br>  (October 21st )</th> 
-    <th>Onsite Registration <br> (Begins October 22nd)</th>
+    <th> </th>
+    <td>Attendece Type</td>
+    <td>Early Registration <br> (SAR)</td>
+    <td>Late Registration <br> (SAR)</td>
+    <td>Onsite Registration <br> (SAR)</td>
+    
+  </tr>
+  <tr bgcolor=#E9E9E9>
+    <th rowspan="3">Non-Author</th>
+    <td>Regular</td>
+    <td>1125</td>
+    <td>1320</td>
+    <td>1500</td>
   </tr>
   
   <tr>
-    <td>Non-Author</td>
-    <td><center>300 $</td>
-    <td><center>350 $</td>
-    <td><center>400 $</td>
-  </tr>
-  <tr>
-    <td>Author</td>
-    <td><center>250 $</td>
-    <td><center>300 $</td>
-    <td><center>350 $</td>
-  </tr>
-  <tr>
-    <td>Student</td>
-    <td><center>100 SR</td>
-    <td><center>150 SR</td>
-    <td><center>200 SR</td>
-  </tr>
-   <tr>
     <td>PNU Student</td>
-    <td><center>50 SR</td>
-    <td><center>100 SR</td>
-    <td><center>150 SR</td>
+    <td>850</td>
+    <td>1000</td>
+    <td>1125</td>
   </tr>
+  
+  <tr bgcolor=#E9E9E9>
+    <td>Other Student</td>
+    <td>900</td>
+    <td>1100</td>
+    <td>1200</td>
+  </tr>
+  
    <tr>
-    <td>Workshops Only</td>
-    <td><center>100 $</td>
-    <td><center>150 $</td>
-    <td><center>200 $</td>
+    <th rowspan="3">Author</th>
+    <td>Regular</td>
+    <td>950</td>
+    <td>1125</td>
+    <td>1320</td>
+  </tr>
+  
+  <tr bgcolor=#E9E9E9>
+    <td>PNU Student</td>
+    <td>700</td>
+    <td>850</td>
+    <td>1000</td>
+  </tr>
+  
+  <tr>
+    <td>Other Student</td>
+    <td>750</td>
+    <td>900</td>
+    <td>1100</td>
+  </tr>
+  
+  <tr bgcolor=#E9E9E9>
+    <th rowspan="3">Workshos Only</th>
+    <td>Regular</td>
+    <td>300</td>
+    <td>450</td>
+    <td>600</td>
+  </tr>
+  
+  <tr>
+    <td>PNU Student</td>
+    <td>150</td>
+    <td>300</td>
+    <td>400</td>
+  </tr>
+  
+  <tr bgcolor=#E9E9E9>
+    <td>Other Student</td>
+    <td>200</td>
+    <td>350</td>
+    <td>500</td>
   </tr>
   
 </table>
+
+
     </p>
    
    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
