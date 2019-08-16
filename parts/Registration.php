@@ -7,6 +7,8 @@
     
     <p>
       
+      <img src="assests/images/info.png" alt="info">
+      
     
     <br>
     <br>
