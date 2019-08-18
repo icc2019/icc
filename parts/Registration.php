@@ -38,22 +38,8 @@ tr:nth-child(even) {
 -->
     <br>
     <br>
-<!--
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-  text-align: center;
- 
-}
-</style>
-</head>
-<body>
+
+
 
 <table style="width:100%">
   <tr>
@@ -132,7 +118,6 @@ th, td {
   
 </table>
 
--->
 
 
     </p>
