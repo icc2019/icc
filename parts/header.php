@@ -66,7 +66,7 @@
                   <li>
                      <a href="#" class="nav-link"><span><strong>Practical Information</strong></span></a>
                      <ul class="sub-menu">
-                        <li><a href="Registration.php"><span>  Registration</span></a></li>
+                        <li><a href="https://app.pnu.edu.sa/ICC2019Registration/Main_Registration.aspx"  target="_top ><span>  Registration</span></a></li>
 
                         <li><a href="Venue.php"><span> Venue</span></a></li>
                         <li><a href="About-Riyadh.php"><span>   About Riyadh</span></a></li>
