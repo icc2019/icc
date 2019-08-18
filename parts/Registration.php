@@ -2,7 +2,7 @@
 <div class="col">
   <div class="Registration">
  
-    
+ <!--   
     <!DOCTYPE html>
 <html>
 <head>
@@ -25,7 +25,7 @@ tr:nth-child(even) {
 </style>
 </head>
     
-    
+    -->
     
     
     <h1>
@@ -40,7 +40,7 @@ tr:nth-child(even) {
     <br>
 
 
-
+<!--
 <table style="width:100%">
   <tr>
     <th> </th>
@@ -118,7 +118,7 @@ tr:nth-child(even) {
   
 </table>
 
-
+-->
 
     </p>
    
