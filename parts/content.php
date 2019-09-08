@@ -1,7 +1,7 @@
 <?php //include('right-panel.php');?>
 <div class="col">
   <div class="content" >
-    <h1><strong>Inter​national Conference on Computing​ <span></strong>(ICC 2019)<br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia
+    <h1><strong>Inter​national Conference on Computing​ <span></strong>(ICC 2019)<br /> <strike>October 22-24</strike> <span>Postpond to Decemeber 10-12, 2019- Riyadh, Saudi Arabia
   </span></h1>
   <h3>Welcome to ICC 2019
 </h3>
@@ -18,3 +18,5 @@
 </div>
 <?php //include('left-panel.php');?>
 <?php include('bottom-panel.php');?>
+
+  <strike>October 22-24</strike> <span>Postpond to Decemeber 10-12, 2019 - Riyadh, Saudi Arabia.
