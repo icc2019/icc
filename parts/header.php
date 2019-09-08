@@ -4,7 +4,7 @@
     width: 100%;
     object-fit: initial;" />
   <!-- <div class="headercontent" >
-    <h1 ><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><span>October 22-24, 2019 - Riyadh, Saudi Arabia.
+    <h1 ><strong>Inter​national Conference on Computing​ (ICC 2019 )</strong><br /><strike>October 22-24</strike> <span>Postpond to Decemeber 10-12, 2019 - Riyadh, Saudi Arabia.
   </span></h1>
 
   </div> -->
