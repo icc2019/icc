@@ -10,7 +10,7 @@
     <h1> General Chairs</h1>
     <p> 
         Auhood Abd. Al Faries, <b>Princess Nourah bint Abdulrahman University, KSA</b>
-    <br> Hanan Almengash, Princess Nourah bint Abdulrahman University, KSA </b>
+    <br> Hanan Almengash, <b>Princess Nourah bint Abdulrahman University, KSA </b>
         <br> Ansar Yasar, <b>Hasselt University, Belgium</b>
     <br>Hend Al-Khalifa, <b> King Saud University, KSA</b></p>
 
