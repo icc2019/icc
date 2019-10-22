@@ -15,6 +15,7 @@
  <br>Heba A. Kurdi, <b> King Saud University, KSA </b>
      <br>Mai Alduailij, <b>Princess Nourah University, KSA</b>
     <br> Maali Alabdulhafith, <b>Princess Nourah University, KSA</b>
+    <br>Hadil Ahmed Shaiba, <b> Princess Nourah University, KSA </b>
  <br>Rahim Rahmani,  <b>Stockholm University, Sweden</b>
  <br>Shiroq Al-Megren, <b> Massachusetts Institute of Technology (MIT), USA</b>
  <br>Stephane Galland, <b>   UTBM, France</b>
