@@ -16,7 +16,6 @@
       Dua Nassar, <b>Princess Nourah University, KSA</b>
     <br>Evon Abu-Taieh, <b> Jordan University, Jordan</b>
     <br>Ghadah Aldehim, <b> Princess Nourah University, KSA </b>
-    <br>Hadil Ahmed Shaiba, <b> Princess Nourah University, KSA </b>
     <br>Hanan Aljuaid, <b> Princess Nourah University, KSA</b>
     <br>Hanen Karamti, <b> Princess Nourah University, KSA </b>
     <br>Heba A. Kurdi, <b> King Saud University, KSA </b>
