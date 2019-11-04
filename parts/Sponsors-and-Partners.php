@@ -10,21 +10,21 @@
 
   <div align="center">
    <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
-    <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
+    <img src="assests/images/logo/Citrix.png" alt="" width="400px" height="200px">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
       
   <div align="center">
    <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-    <img src="assests/images/logo/HPE.png" alt="" style="width:100%">
+    <img src="assests/images/logo/HPE.png" alt="" width="400px" height="200px">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
       
   <div align="center">
    <a target="_blank" href="https://www.nutanix.com/en">
-    <img src="assests/images/logo/nutanix.png" alt="" style="width:100%">
+    <img src="assests/images/logo/nutanix.png" alt="" width="400px" height="200px">
 </div>
 
     
