@@ -13,6 +13,33 @@
         
         
  <h3>Silver Sponsors</h3>
+        
+           <div class="slider-content-sub">
+           <a href="https://www.citrix.com/
+"  target="_blank">
+            <img src="assests/images/logo/Citrix.png" alt="" width="400px" height="200px"/>
+            <h3>Citrix</h3></a>
+              &nbsp; &nbsp; &nbsp; 
+               
+               
+            <div class="slider-content-sub">
+           <a href="https://www.hpe.com/emea_europe/en/home.html
+"  target="_blank">
+            <img src="assests/images/logo/HPE.png" alt="" width="400px" height="200px"/>
+            <h3>HPE</h3></a>
+              &nbsp; &nbsp; &nbsp;
+                
+                
+            <div class="slider-content-sub">
+           <a href="https://www.nutanix.com/en
+"  target="_blank">
+            <img src="assests/images/logo/nutanix.png" alt="" width="400px" height="200px"/>
+            <h3>Nutanix</h3></a>
+              &nbsp; &nbsp; &nbsp;
+               
+         </div>
+        
+
         <p> Citrix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  HPE  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nutanix </p>
         
  
