@@ -8,57 +8,25 @@
 <h1> Our Sponsors </h1>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 20%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-
-<div class="row">
-  <div class="column" align="center">
+  <div align="center">
    <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
     <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
       
-  <div class="column" align="center">
+  <div align="center">
    <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
     <img src="assests/images/logo/HPE.png" alt="" style="width:100%">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
       
-  <div class="column" align="center">
+  <div align="center">
    <a target="_blank" href="https://www.nutanix.com/en">
     <img src="assests/images/logo/nutanix.png" alt="" style="width:100%">
-  </div>
 </div>
 
-</body>
-</html>
-
-
-    
     
     
     
