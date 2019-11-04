@@ -37,7 +37,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
-    <img src="assests/images/logo/Citrix.png" alt="" width="600" height="400">
+    <img src="assests/images/logo/Citrix.png" , img src="assests/images/logo/HPE.png" alt="" width="600" height="400">
   </a>
   <div class="desc">Citrix</div>
 </div>
