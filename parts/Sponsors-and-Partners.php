@@ -3,116 +3,8 @@
 <ul class="" style="margin: 0 auto;
     display: grid;
     list-style: none;">
-    
-    
-    
-    <!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+      <li >
 
-.row {
-  display: flex;
-}
-
-/* Create three equal columns that sits next to each other */
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-</head>
-<body>
-
-
-<div class="row">
-  <div class="column">
-    <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://www.hpe.com/emea_europe/en/home.html" alt="" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://www.nutanix.com/en" alt="" style="width:100%">
-  </div>
-</div>
-
-</body>
-</html>
-
-     
-    <!--
-<h1> Our Sponsors </h1>
-
-   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> 
-    <img src="assests/images/logo/Citrix.png" alt="" width="300px" height="100px" a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> </a>
-       &nbsp; &nbsp; &nbsp; 
-  
-      
-   <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-       <img src="assests/images/logo/HPE.png" alt="" width="300px" height="100px"> </a>
-       &nbsp; &nbsp; &nbsp; 
-      
-      
-
-   <a target="_blank" href="https://www.nutanix.com/en">
-       <img src="assests/images/logo/nutanix.png" alt="" width="300px" height="100px"> </a>
-    
-     
-    <li >
- <h3>Gold Sponsors</h3>
-        <p> Cisco </p>
-        
-        
- <h3>Silver Sponsors</h3>
--->
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
-        <!--
-           <div class="slider-content-sub">
-           <a href="https://www.citrix.com/
-"  target="_blank">
-            <img src="assests/images/logo/Citrix.png" alt="" width="400px" height="200px"/>
-            <h3>Citrix</h3></a>
-              &nbsp; &nbsp; &nbsp; 
-               
-               
-            <div class="slider-content-sub">
-           <a href="https://www.hpe.com/emea_europe/en/home.html
-"  target="_blank">
-            <img src="assests/images/logo/HPE.png" alt="" width="400px" height="200px"/>
-            <h3>HPE</h3></a>
-              &nbsp; &nbsp; &nbsp;
-                
-                
-            <div class="slider-content-sub">
-           <a href="https://www.nutanix.com/en
-"  target="_blank">
-            <img src="assests/images/logo/nutanix.png" alt="" width="400px" height="200px"/>
-            <h3>Nutanix</h3></a>
-              &nbsp; &nbsp; &nbsp;
-               
-         </div>
-        
-
-        <p> Citrix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  HPE  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nutanix </p>
-        
- 
- <h3>Other Sponsors</h3>
-        <p> Huawei&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dellemc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;AEC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Orange </p>
-        
          <div class="slider-content-sub">
            <a href="https://consumer.huawei.com/sa-en/
 "  target="_blank">
@@ -155,10 +47,7 @@
 
       </li>
 
--->
-
    </ul>
 </div>
 </div>
-
 
