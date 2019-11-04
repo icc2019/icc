@@ -7,6 +7,69 @@
     
 <h1> Our Sponsors </h1>
     
+    <!DOCTYPE html>
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
+    <img src="assests/images/logo/Citrix.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Citrix</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
+    <img src="assests/images/logo/HPE.png" alt="" width="600" height="400">
+  </a>
+  <div class="desc">HPE</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.nutanix.com/en">
+    <img src="assests/images/logo/nutanix.png" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Nutanix</div>
+</div>
+
+</body>
+</html>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <li >
  <h3>Gold Sponsors</h3>
         <p> Cisco </p>
