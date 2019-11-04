@@ -3,8 +3,22 @@
 <ul class="" style="margin: 0 auto;
     display: grid;
     list-style: none;">
-      <li >
-
+     
+    
+<h1> Our Sponsors </h1>
+    
+    <li >
+ <h3>Gold Sponsors</h3>
+        <p> Cisco </p>
+        
+        
+ <h3>Silver Sponsors</h3>
+        <p> Citrix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HPE  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nutanix </p>
+        
+ 
+ <h3>Other Sponsors</h3>
+        <p> </p>
+        
          <div class="slider-content-sub">
            <a href="https://consumer.huawei.com/sa-en/
 "  target="_blank">
