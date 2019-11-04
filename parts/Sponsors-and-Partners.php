@@ -33,22 +33,22 @@
 <body>
 
 
-<div class="row" align="center">
-  <div class="column">
+<div class="row">
+  <div class="column" align="center">
    <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
     <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
       
-  <div class="column">
+  <div class="column" align="center">
    <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
     <img src="assests/images/logo/HPE.png" alt="" style="width:100%">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
       
-  <div class="column">
+  <div class="column" align="center">
    <a target="_blank" href="https://www.nutanix.com/en">
     <img src="assests/images/logo/nutanix.png" alt="" style="width:100%">
   </div>
