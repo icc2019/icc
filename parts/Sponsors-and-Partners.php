@@ -33,20 +33,20 @@
 <body>
 
 
-<div class="row">
+<div class="row" align="center">
   <div class="column">
    <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
     <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
+       &nbsp; &nbsp; &nbsp; 
   </div>
       
-       &nbsp; &nbsp; &nbsp; 
       
   <div class="column">
    <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
     <img src="assests/images/logo/HPE.png" alt="" style="width:100%">
+       &nbsp; &nbsp; &nbsp; 
   </div>
       
-      &nbsp; &nbsp; &nbsp; 
       
   <div class="column">
    <a target="_blank" href="https://www.nutanix.com/en">
