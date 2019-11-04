@@ -13,11 +13,11 @@
         
         
  <h3>Silver Sponsors</h3>
-        <p> Citrix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HPE  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nutanix </p>
+        <p> Citrix &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  HPE  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nutanix </p>
         
  
  <h3>Other Sponsors</h3>
-        <p> </p>
+        <p> Huawei&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dellemc&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;AEC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Orange </p>
         
          <div class="slider-content-sub">
            <a href="https://consumer.huawei.com/sa-en/
