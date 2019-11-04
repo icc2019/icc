@@ -7,25 +7,19 @@
     
 <h1> Our Sponsors </h1>
 
-
- <!-- <div align="center">
-   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> -->
-    <img src="assests/images/logo/Citrix.png" alt="" width="300px" height="100px" a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
+   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> 
+    <img src="assests/images/logo/Citrix.png" alt="" width="300px" height="100px" a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> </a>
        &nbsp; &nbsp; &nbsp; 
-  </div>
+  
       
-      
-  <div align="center">
    <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-    <img src="assests/images/logo/HPE.png" alt="" width="300px" height="100px">
+       <img src="assests/images/logo/HPE.png" alt="" width="300px" height="100px"> </a>
        &nbsp; &nbsp; &nbsp; 
-  </div>
       
       
-  <div align="center">
+
    <a target="_blank" href="https://www.nutanix.com/en">
-    <img src="assests/images/logo/nutanix.png" alt="" width="300px" height="100px">
-</div>
+       <img src="assests/images/logo/nutanix.png" alt="" width="300px" height="100px"> </a>
 
     
     
