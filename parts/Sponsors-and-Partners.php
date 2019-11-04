@@ -3,6 +3,47 @@
 <ul class="" style="margin: 0 auto;
     display: grid;
     list-style: none;">
+    
+    
+    
+    <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="row">
+  <div class="column">
+    <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.hpe.com/emea_europe/en/home.html" alt="" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.nutanix.com/en" alt="" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
      
     <!--
 <h1> Our Sponsors </h1>
