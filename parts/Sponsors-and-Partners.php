@@ -8,9 +8,9 @@
 <h1> Our Sponsors </h1>
 
 
-  <div align="center">
-   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
-    <img src="assests/images/logo/Citrix.png" alt="" width="300px" height="100px">
+ <!-- <div align="center">
+   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> -->
+    <img src="assests/images/logo/Citrix.png" alt="" width="300px" height="100px" a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
        &nbsp; &nbsp; &nbsp; 
   </div>
       
