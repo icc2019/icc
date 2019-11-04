@@ -6,10 +6,8 @@
      
     
 <h1> Our Sponsors </h1>
+
     
-    <!DOCTYPE html>
-<html>
-<head>
 <style>
 div.gallery {
   margin: 5px;
@@ -55,9 +53,6 @@ div.desc {
   </a>
   <div class="desc">Nutanix</div>
 </div>
-
-</body>
-</html>
 
     
     
