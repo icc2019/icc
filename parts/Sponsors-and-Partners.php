@@ -7,52 +7,50 @@
     
 <h1> Our Sponsors </h1>
 
-    
+
+<!DOCTYPE html>
+<html>
+<head>
 <style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
+* {
+  box-sizing: border-box;
+}
+
+.column {
   float: left;
-  width: 180px;
+  width: 33.33%;
+  padding: 5px;
 }
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 </style>
 </head>
 <body>
 
-<div class="gallery">
-  <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
-    <img src="assests/images/logo/Citrix.png" alt="" width="800" height="400">
-  </a>
-  <div class="desc">Citrix</div>
+
+<div class="row">
+  <div class="column">
+   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
+    <img src="assests/images/logo/Citrix.png" alt="" style="width:100%">
+  </div>
+  <div class="column">
+   <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
+    <img src="assests/images/logo/HPE.png" alt="" style="width:100%">
+  </div>
+  <div class="column">
+   <a target="_blank" href="https://www.nutanix.com/en">
+    <img src="assests/images/logo/nutanix.png" alt="" style="width:100%">
+  </div>
 </div>
 
-<div class="gallery">
-  <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-    <img src="assests/images/logo/HPE.png" alt="" width="800" height="400">
-  </a>
-  <div class="desc">HPE</div>
-</div>
+</body>
+</html>
 
-<div class="gallery">
-  <a target="_blank" href="https://www.nutanix.com/en">
-    <img src="assests/images/logo/nutanix.png" alt="Northern Lights" width="800" height="400">
-  </a>
-  <div class="desc">Nutanix</div>
-</div>
 
     
     
