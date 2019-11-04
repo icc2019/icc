@@ -13,7 +13,7 @@
         
         
  <h3>Silver Sponsors</h3>
-        
+        <!--
            <div class="slider-content-sub">
            <a href="https://www.citrix.com/
 "  target="_blank">
@@ -91,3 +91,5 @@
    </ul>
 </div>
 </div>
+
+-->
