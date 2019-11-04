@@ -4,7 +4,7 @@
     display: grid;
     list-style: none;">
      
-    
+    <!--
 <h1> Our Sponsors </h1>
 
    <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm"> 
@@ -21,24 +21,24 @@
    <a target="_blank" href="https://www.nutanix.com/en">
        <img src="assests/images/logo/nutanix.png" alt="" width="300px" height="100px"> </a>
     
-   
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+     
     <li >
  <h3>Gold Sponsors</h3>
         <p> Cisco </p>
         
         
  <h3>Silver Sponsors</h3>
+-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
         <!--
            <div class="slider-content-sub">
            <a href="https://www.citrix.com/
