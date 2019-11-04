@@ -21,15 +21,7 @@
    <a target="_blank" href="https://www.nutanix.com/en">
        <img src="assests/images/logo/nutanix.png" alt="" width="300px" height="100px"> </a>
     
-    
-    
-<img src="smiley.gif" alt="Smiley face" width="42" height="42" border="3">
-
-
-<img src="smiley.gif" alt="Smiley face" width="42" height="42" border="3">
-
-
-<img src="smiley.gif" alt="Smiley face" width="42" height="42" border="3">
+   
 
     
     
