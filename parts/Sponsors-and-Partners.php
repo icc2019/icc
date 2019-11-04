@@ -37,21 +37,21 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
-    <img src="assests/images/logo/Citrix.png" , img src="assests/images/logo/HPE.png" alt="" width="600" height="400">
+    <img src="assests/images/logo/Citrix.png" alt="" width="800" height="400">
   </a>
   <div class="desc">Citrix</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-    <img src="assests/images/logo/HPE.png" alt="" width="600" height="400">
+    <img src="assests/images/logo/HPE.png" alt="" width="800" height="400">
   </a>
   <div class="desc">HPE</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://www.nutanix.com/en">
-    <img src="assests/images/logo/nutanix.png" alt="Northern Lights" width="600" height="400">
+    <img src="assests/images/logo/nutanix.png" alt="Northern Lights" width="800" height="400">
   </a>
   <div class="desc">Nutanix</div>
 </div>
