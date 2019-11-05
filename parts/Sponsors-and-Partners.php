@@ -35,8 +35,36 @@
  
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
 <img src="assests/images/sponsers/NUTANIX.png" alt="NUTANIX" height="50" width="200">
-       
         
+ <br>
+<br>
+<br>
+<br>
+        
+      
+<p> Other Sponsors </p>
+<br>
+<!--<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">-->
+<img src="assests/images/sponsers/HUAWEI.png" alt="HUAWEI" height="100" width="200"> 
+ &nbsp;
+ &nbsp;
+ &nbsp;
+        
+    
+<!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
+<img src="assests/images/sponsers/DELL EMC.png" alt="DELL EMC" height="100" width="200">
+&nbsp;
+&nbsp; 
+&nbsp;
+ 
+<!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
+<img src="assests/images/sponsers/AEC.png" alt="AEC" height="100" width="200">
+&nbsp;
+&nbsp; 
+&nbsp;     
+        
+<!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
+<img src="assests/images/sponsers/Orange_logo.svg" alt="AEC" height="200" width="200">
         
     <!--   
     <ul class="" style="margin: 0 auto;
