@@ -9,7 +9,7 @@
 <br>
 <br>
 
-        <p> <b> Gold Sponsors </b> </p>
+        <p> <b> Gold Sponsor </b> </p>
 <br>
 <br>
 <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
