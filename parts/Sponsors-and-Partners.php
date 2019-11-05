@@ -14,6 +14,7 @@
 <br>
 <!--<a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">-->
 <img src="assests/images/sponsers/CISCO.png" alt="CISCO" height="100" width="200">
+        <b> <a href="https://www.cisco.com/c/en_sa/index.html" target="_top">CISCO</a> </b>
 
 <br>
 <br>
