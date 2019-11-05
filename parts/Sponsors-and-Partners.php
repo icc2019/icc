@@ -1,51 +1,21 @@
     <div class="container ">
     <div class="row"  style="text-align: -webkit-center;">
   
+
+
+<!--<a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">-->
+<img src="assests/images/sponsers/CISCO.png" alt="CISCO" height="100" width="200">
+
+<br>
+<br>
         
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 20%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-
-<div class="row">
-<div class="column">
-<a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
-<img src="assests/images/sponsers/CISCO.png" alt="CISCO" style="width:100%">
-</div>
-
-
-<div class="column">
-<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">
-<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" height="200" width="400">   
-</div>
+<!--<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">-->
+<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" height="100" width="200">   
+        
     
-<div class="column">
-<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-<img src="assests/images/sponsers/HPE1 (1).png" alt="HPE" height="200" width="400">
-</div>
+<!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
+<img src="assests/images/sponsers/HPE1 (1).png" alt="HPE" height="100" width="200">
 
-</div>
-</body>
-    </html>
         
         
         
