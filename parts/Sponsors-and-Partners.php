@@ -28,14 +28,15 @@
 </head>
 
 <body>
-    
-<P> Gold Sponsors  </P>
+
+
 <div class="row">
 <div class="column">
-<img src="assests/images/sponsers/CISCO.png" alt="CISCO" style="width:100%">
+<a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
+ <img src="assests/images/sponsers/CISCO.png" alt="CISCO" style="width:100%">
 </div>
 
-<P> Silver Sponsors </P>
+
 <div class="column">
 <img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" style="width:100%">
 </div>
