@@ -58,7 +58,7 @@
 &nbsp;
  
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
-<img src="assests/images/sponsers/AEC.png" alt="AEC" height="180" width="180">
+<img src="assests/images/sponsers/AEC.png" alt="AEC" height="160" width="170">
 &nbsp;
 &nbsp; 
 &nbsp;     
