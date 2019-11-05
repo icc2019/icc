@@ -25,15 +25,17 @@
 <div class="row">
 <div class="column">
 <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
- <img src="assests/images/sponsers/CISCO.png" alt="CISCO" style="width:100%">
+<img src="assests/images/sponsers/CISCO.png" alt="CISCO" style="width:100%">
 </div>
 
 
 <div class="column">
-<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" style="width:100%">
+<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">
+<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" style="width:100%">   
 </div>
     
 <div class="column">
+<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
 <img src="assests/images/sponsers/HPE1 (1).png" alt="HPE" style="width:100%">
 </div>
 
