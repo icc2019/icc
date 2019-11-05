@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<h5> Gold Sponsors </h5>
+        <p> <b> Gold Sponsors </b> </p>
 <br>
 <!--<a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">-->
 <img src="assests/images/sponsers/CISCO.png" alt="CISCO" height="100" width="200">
@@ -18,7 +18,7 @@
 <br>
         
       
-<p> Silver Sponsors </p>
+<p> <b> Silver Sponsors </b> </p>
 <br>
 <!--<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">-->
 <img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" height="70" width="200"> 
@@ -42,7 +42,7 @@
 <br>
         
       
-<p> Other Sponsors </p>
+<p> <b> Other Sponsors </b> </p>
 <br>
 <!--<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">-->
 <img src="assests/images/sponsers/HUAWEI.png" alt="HUAWEI" height="150" width="150"> 
