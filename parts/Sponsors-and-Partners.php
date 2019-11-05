@@ -64,7 +64,7 @@
 &nbsp;     
         
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
-<img src="assests/images/sponsers/Orange_logo.svg" alt="AEC" height="100" width="100">
+<img src="assests/images/sponsers/Orange_logo.svg" alt="Orange" height="100" width="100">
         
     <!--   
     <ul class="" style="margin: 0 auto;
