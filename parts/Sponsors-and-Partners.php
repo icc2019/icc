@@ -22,7 +22,7 @@
          <div class="slider-content-sub">
          <a href="https://www.dellemc.com/ar-sa/index.htm" target="_blank">
          <img src="assests/images/sponsers/dellemc.svg" alt=""width="400px" height="200px" />
-         <h3>DEL EMC</h3></a>
+         <h3>DELL EMC</h3></a>
          </div>
          </li>
     
