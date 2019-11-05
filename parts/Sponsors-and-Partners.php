@@ -2,6 +2,8 @@
     <div class="row"  style="text-align: -webkit-center;">
    
         
+    
+    <!--   
     <ul class="" style="margin: 0 auto;
     display: grid;
     list-style: none;">
@@ -53,6 +55,9 @@
      
 
   </ul>
+  -->
+        
+        
   </div>
   </div>
 
