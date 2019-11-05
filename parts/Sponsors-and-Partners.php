@@ -2,11 +2,13 @@
     <div class="row"  style="text-align: -webkit-center;">
    
     <P> Our Sponsors </P>
+    <br>
         
     <P> Silver Sponsors </P>
-        
+    <br>
+            
     <P> Other Sponsors </P>
-    
+    <br>
         
 <style>
 * {
