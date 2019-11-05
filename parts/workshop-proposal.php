@@ -1,15 +1,12 @@
 <?php //include('right-panel.php');?>
 
 <div class="col">
-  <div class="Organizing-Committee">
-    <h1>  Submission</h1>
-    <div class="">
+
    
  
  
   
       
-    </div>
     </div>
     
     
