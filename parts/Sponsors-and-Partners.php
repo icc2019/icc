@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<h3> Gold Sponsors </h3>
+<h5> Gold Sponsors </h5>
 <br>
 <!--<a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">-->
 <img src="assests/images/sponsers/CISCO.png" alt="CISCO" height="100" width="200">
