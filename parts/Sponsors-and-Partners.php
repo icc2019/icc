@@ -21,7 +21,7 @@
 <p> Silver Sponsors </p>
 <br>
 <!--<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">-->
-<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" height="100" width="200"> 
+<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" height="50" width="200"> 
  &nbsp;
  &nbsp;
  &nbsp;
@@ -45,26 +45,26 @@
 <p> Other Sponsors </p>
 <br>
 <!--<a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">-->
-<img src="assests/images/sponsers/HUAWEI.png" alt="HUAWEI" height="150" width="100"> 
+<img src="assests/images/sponsers/HUAWEI.png" alt="HUAWEI" height="150" width="150"> 
  &nbsp;
  &nbsp;
  &nbsp;
         
     
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
-<img src="assests/images/sponsers/DELL EMC.png" alt="DELL EMC" height="30" width="100">
+<img src="assests/images/sponsers/DELL EMC.png" alt="DELL EMC" height="80" width="200">
 &nbsp;
 &nbsp; 
 &nbsp;
  
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
-<img src="assests/images/sponsers/AEC.png" alt="AEC" height="100" width="100">
+<img src="assests/images/sponsers/AEC.png" alt="AEC" height="180" width="180">
 &nbsp;
 &nbsp; 
 &nbsp;     
         
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
-<img src="assests/images/sponsers/Orange_logo.svg" alt="Orange" height="100" width="100">
+<img src="assests/images/sponsers/Orange_logo.svg" alt="Orange" height="150" width="150">
         
     <!--   
     <ul class="" style="margin: 0 auto;
