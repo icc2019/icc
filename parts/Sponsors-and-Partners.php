@@ -1,7 +1,7 @@
     <div class="container ">
     <div class="row"  style="text-align: -webkit-center;">
    
-        
+    <h1> Our Sponsors </h1>
     
     <!--   
     <ul class="" style="margin: 0 auto;
