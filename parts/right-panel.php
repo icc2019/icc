@@ -8,7 +8,8 @@
       list-style: none;">
 
            <div class="slider-content-sub">
-              <img src="assests/images/sponsers/0.png" alt="" width="400px" height="200px"/>
+             
+              <img src="assests/images/sponsers/cisco.svg" alt="" width="80px" height="80px"/>
            </div>
 
         </li>
@@ -17,7 +18,7 @@
       list-style: none;">
 
            <div class="slider-content-sub">
-              <img src="assests/images/sponsers/2.png" alt=""width="400px" height="200px" />
+              <img src="assests/images/sponsers/huawei-icon.svg" alt=""width="80px" height="80px" />
            </div>
 
         </li>
@@ -26,13 +27,14 @@
       list-style: none;">
 
            <div class="slider-content-sub">
-              <img src="assests/images/sponsers/1.png" alt=""width="400px" height="200px" />
+              <img src="assests/images/sponsers/dellemc.svg" alt=""width="80px" height="80px" />
            </div>
            <div class="slider-content-sub">
-              <img src="assests/images/sponsers/4.png" alt=""width="400px" height="200px" />
+             assests/images/sponsers/1.png
+              <img src="assests/images/sponsers/aec.svg" alt=""width="80px" height="80px" />
            </div>
            <div class="slider-content-sub">
-              <img src="assests/images/sponsers/Orange_logo.svg" alt=""width="400px" height="200px" />
+              <img src="assests/images/sponsers/Orange_logo.svg" alt=""width="80px" height="80px" />
            </div>
 
         </li>
