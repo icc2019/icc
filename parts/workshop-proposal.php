@@ -2,6 +2,22 @@
 
 <div class="row">
   <div class="Organizing-Committee">
+    
+   
+ 
+    <button class="">About <i class="fa fa-caret-down"></i></button>
+ 
+      <a href="">submission</a>
+      <a href="">Information</a>
+      
+    </div>
+    </div>
+    
+    
+    
+    
+    
+
   <h1>
   WORKSHOP </h1>
 
