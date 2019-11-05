@@ -47,7 +47,7 @@
 &nbsp;
  
 <a target="_blank" href="https://www.nutanix.com/go/what-is-nutanix-hyperconverged-infrastructure?utm_source=google_adwords&utm_medium=paid_search&utm_campaign=Google_Search_DG_Alpha_Brand_SAU&utm_term=nutanix&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7M-Lf_v2MToAxmKXGykI_XqJewLbxiGPOHfsoTG0V5a2x192rHTTIwaAg1TEALw_wcB">
-    <img src="aassests/images/sponsers/NUTANIX00.png" alt="NUTANIX" height="150" width="150"> </a>
+    <img src="assests/images/sponsers/NUTANIX00.png" alt="NUTANIX" height="150" width="150"> </a>
         
  <br>
 <br>
