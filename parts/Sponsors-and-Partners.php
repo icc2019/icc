@@ -1,8 +1,53 @@
     <div class="container ">
     <div class="row"  style="text-align: -webkit-center;">
    
-    <h1> Our Sponsors </h1>
+    <P> Our Sponsors </P>
+        
+    <P> Silver Sponsors </P>
+        
+    <P> Other Sponsors </P>
     
+        
+<style>
+* {
+  box-sizing: border-box;
+  }
+
+.row {
+  display: flex;
+  }
+
+/* Create three equal columns that sits next to each other */
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+</style>
+</head>
+
+<body>
+    
+<P> Gold Sponsors  </P>
+<div class="row">
+<div class="column">
+<img src="assests/images/sponsers/CISCO.png" alt="CISCO" style="width:100%">
+</div>
+
+<P> Silver Sponsors </P>
+<div class="column">
+<img src="assests/images/sponsers/Citrix1 (1).png" alt="CITRIX" style="width:100%">
+</div>
+    
+<div class="column">
+<img src="assests/images/sponsers/HPE1 (1).png" alt="HPE" style="width:100%">
+</div>
+
+</div>
+</body>   
+        
+        
+        
+        
     <!--   
     <ul class="" style="margin: 0 auto;
     display: grid;
