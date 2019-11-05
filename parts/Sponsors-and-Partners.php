@@ -34,7 +34,7 @@
 &nbsp;
  
 <!--<a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">-->
-<img src="assests/images/sponsers/NUTANIX.png" alt="NUTANIX" height="100" width="200">
+<img src="assests/images/sponsers/NUTANIX.png" alt="NUTANIX" height="50" width="200">
        
         
         
