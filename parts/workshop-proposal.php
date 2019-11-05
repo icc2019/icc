@@ -1,14 +1,13 @@
 <?php //include('right-panel.php');?>
 
-<div class="row">
+<div class="col">
   <div class="Organizing-Committee">
-    
+    <h1>  Submission</h1>
+    <div class="">
    
  
-    <button class="">About <i class="fa fa-caret-down"></i></button>
  
-      <a href="">submission</a>
-      <a href="">Information</a>
+  
       
     </div>
     </div>
