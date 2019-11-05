@@ -59,6 +59,10 @@
 
                   <li>
                      <a href="workshop-proposal.php"><span><strong>  Workshops </strong> </span></a>
+                     <ul class="sub-menu">
+                        <li><a href="submission.php"><span> Submission</span></a></li>
+                        <li><a href="Important-Dates.php"><span> Information</span></a></li>
+                     </ul>
                    
                    
                   </li>
