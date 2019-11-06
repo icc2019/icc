@@ -1,6 +1,8 @@
-<?php //include('right-panel.php');?>
 
 <div class="col">
+  <div class="Organizing-Committee">
+
+
 
    
  
