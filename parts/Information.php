@@ -15,6 +15,6 @@
   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
 
-</div>
+
 <?php //include('left-panel.php');?>
 <?php include('bottom-panel.php');?>
