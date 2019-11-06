@@ -41,7 +41,7 @@
       <td><p> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;   August 10th, 2019</p></td>
     </tr>
   </table>
-    
+   
     <bR>
 
   <ul>
@@ -53,7 +53,7 @@
   </div>
 
     </div>
-  </div></div></div>
+  </div>
 
 
 <?php //include('left-panel.php');?>
