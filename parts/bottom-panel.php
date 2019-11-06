@@ -5,24 +5,7 @@
   <div class="row">
 
     
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-      &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
+   
     &nbsp;
     &nbsp;
     &nbsp;
@@ -91,7 +74,19 @@
 <img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="80" width="80" ali>
       <br>
       <br>
-      
+        &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+      &nbsp;
+      &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
         &nbsp;
     &nbsp;
     &nbsp;
