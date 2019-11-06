@@ -31,13 +31,15 @@
 
     </div>
     
-    <div class="col-lg-2 col-sm-2 col-xs-4">
+    <br> <br>
+    
+    <div class="col-lg-2 col-sm-2 col-xs-4" align="center">
        <img src="assests/images/sponsers/aec.svg" alt=""width="80px" height="80px" />
 
     </div>
    
     
-    <div class="col-lg-2 col-sm-2 col-xs-4">
+    <div class="col-lg-2 col-sm-2 col-xs-4" align="center">
        <img src="assests/images/sponsers/Orange_logo.svg" alt=""width="80px" height="80px" />
 
     </div>
