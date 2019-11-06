@@ -71,7 +71,7 @@
     &nbsp;
     &nbsp;
     <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
-<img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="80" width="80" ali>
+<img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="150" width="150" ali>
       <br>
       <br>
         &nbsp;
