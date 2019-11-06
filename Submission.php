@@ -1,12 +1,12 @@
 <?php //include('right-panel.php');?>
 <div class="col">
-  <div class="Organizing-Committee">
-
- <div class="">
-
-   <div class=" tt-column">
  
+
+
+
+   </div>
  
+  <div class="">
   
       
     
@@ -29,13 +29,13 @@
   <table>
      
     <tr> 
-      <td> <p>​ Download the workshop proposal format </p> </td>
+      <td> <p>Download the workshop proposal format </p> </td>
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Abstract_ [2702].docx" target="_blank"download> here </a> </b> </p> </td>
     </tr>
   
   
     <tr>
-     <td><p>​The deadline for workshop abstract submission </p></td>
+     <td><p>The deadline for workshop abstract submission </p></td>
       <td><p> <del> June 6th , 2019 </del> 	&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; 	&nbsp;  &nbsp; 	&nbsp; June 30th, 2019</p></td>
     </tr>
     <tr>
