@@ -4,8 +4,7 @@
 <div class="container">
   <div class="row">
 
-    &nbsp;
-    &nbsp;
+    
     &nbsp;
     &nbsp;
     &nbsp;
