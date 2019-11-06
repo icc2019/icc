@@ -12,7 +12,7 @@
             <div class="main-area">
 
             <!-- END jquery1-slider-wrap -->
-            <?php include('parts/tracks.php');?>
+           
           <?php include('parts/Information.php');?>
                <main role="main" id="content" class="">
 
