@@ -8,7 +8,7 @@
      
     <tr> 
       
-      <td> <p>​ <img src="assests/images/cisco card-1.png" alt="cisco card" height="150" width="150"> </p> </td>
+      <td> <p>​ <img src="assests/images/cisco card-1.png" alt="cisco card" height="300" width="300"> </p> </td>
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/cisco card.pdf" target="_blank"cisco card> here </a> </b> </p> </td>
     </tr>>
   </table>
