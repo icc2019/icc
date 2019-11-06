@@ -4,22 +4,13 @@
     <h1>  Information</h1>
 
   <table>
-    <tr>
-      <td><p>Submission Deadline</p></td>
-      <td><p>June 20<sup>th</sup>, 2019 (Final Extension) </p></td>
-    </tr>
-    <tr>
-      <td><p>Notification Deadline</p></td>
-      <td><p>July 15<sup>th</sup>, 2019  </p></td>
-
-
-
-    </tr>
-    <tr>
-      <td><p>Camera Ready Deadline</p></td>
-      <td><p>	​August 1<sup>st</sup>, 2019​</p></td>
-
-    </tr>
+    <table>
+     
+    <tr> 
+      
+      <td> <p>​ <img src="assests/images/cisco card-1.png" alt="cisco card" height="150" width="150"> </p> </td>
+      <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/cisco card.pdf" target="_blank"cisco card> here </a> </b> </p> </td>
+    </tr>>
   </table>
   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
