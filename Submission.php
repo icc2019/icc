@@ -2,7 +2,7 @@
 <div class="col">
   <div class="Organizing-Committee">
 
-
+ <div class="">
 
    
  
