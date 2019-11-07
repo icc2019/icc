@@ -9,11 +9,11 @@
 <br>
 <br>
 
-        <p> <b> Gold Sponsor </b> </p>
+        <p style="font-size:160%;"> <b> Gold Sponsor </b> </p>
 <br>
 <br>
 <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
-<img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="150" width="150">
+<img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="220" width="220">
         </a>
 
 <br>
