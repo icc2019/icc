@@ -143,7 +143,7 @@
       &nbsp;
       
       <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
-    <img src="assests/images/sponsers/hpe.png" alt="HPE" height="80" width="80"> </a>
+    <img src="assests/images/sponsers/newHPE.png" alt="HPE" height="80" width="80"> </a>
       &nbsp;
       
       <a target="_blank" href="https://www.nutanix.com/go/what-is-nutanix-hyperconverged-infrastructure?utm_source=google_adwords&utm_medium=paid_search&utm_campaign=Google_Search_DG_Alpha_Brand_SAU&utm_term=nutanix&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7M-Lf_v2MToAxmKXGykI_XqJewLbxiGPOHfsoTG0V5a2x192rHTTIwaAg1TEALw_wcB">
