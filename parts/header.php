@@ -103,7 +103,7 @@
                      </ul>
                   </li> -->
                   <li>
-                     <a href="Sponsors-and-Partners.php"><span> <strong>Sponsors and Partners</strong> </span></a>
+                     <a href="Sponsors-and-Partners.php"><span> <strong>Sponsors </strong> </span></a>
 
                   </li>
                   <li>
