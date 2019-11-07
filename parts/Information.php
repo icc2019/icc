@@ -29,6 +29,14 @@
    </tr>
    </tr>>
   </table>
+<table>
+     
+    <tr> 
+      <td> <p>​  GUIDE WORKSHOPS </p> </td>
+      <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/WORKSHOPS GUIDE.pdf	" target="_blank"GUIDE WORKSHOPS> here </a> </b> </p> </td>
+    </tr>
+    </table>
+
   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>
 
