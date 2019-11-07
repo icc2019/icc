@@ -9,7 +9,7 @@
 <br>
 <br>
 
-        <p style="font-size:160%;"> <b> Gold Sponsor </b> </p>
+        <h1 style="color:black;"> Gold Sponsor </h1>
 <br>
 <br>
 <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
@@ -24,7 +24,7 @@
 <br>
         
       
-<p> <b> Silver Sponsors </b> </p>
+<h1 style="color:black;"> Silver Sponsors </h1>
 <br>
 <br>
 <a target="_blank" href="https://www.citrix.com/about/what-does-citrix-do.html?utm_medium=Paid+Search+(SEM)&utm_source=sem-bra-brand-em-en-sea-go&utm_term=brand+evergreen&utm_content=brand-think&ef_id=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB:G:s&gclid=Cj0KCQiA2ITuBRDkARIsAMK9Q7PX0xVpwmSbsnSagH3HERI2a5R03okOnMsBEndkQs52Zg4GhqYA6YEaAgdbEALw_wcB">
@@ -57,7 +57,7 @@
 <br>
         
       
-<p> <b> Other Sponsors </b> </p>
+<h1 style="color:black;"> Other Sponsors </h1>
 <br>
 <br>
 <a target="_blank" href="https://consumer.huawei.com/sa-en/">
