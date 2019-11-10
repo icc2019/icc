@@ -26,7 +26,12 @@
    <br></tr>
      <td> <p>​ <img src="assests/images/Norma card-1.png" alt="cisco card" height="500" width="500"> </p> </td>
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Norma card.pdf	" target="_blank"Norma card> here </a> </b> </p> </td>
+
+
    </tr>
+<br></tr>
+     <td> <p>​ <img src="assests/images/Workshops’ Schedule.jpg	" alt="Workshops’ Schedule" height="700" width="700"> </p> </td>
+   <br></tr>
    </tr>>
   </table>
 <table>
