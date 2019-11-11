@@ -133,13 +133,13 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="https://sauditourism.sa/ar/aboutKSA/CultureAndHistory/Museums/PublishingImages/Riyadh/Almasmuk9.jpg" style="width:100%">
+  <img src="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/media/28/02/2013/p5a_0.jpg?itok=NUbTyBAP" style="width:100%">
   <div class="text">Al Masmak Museum </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-  <img src="https://sauditourism.sa/ja/ExploreKSA/AttractionSites/Diriyah/PublishingImages/Albojairi.jpg" style="width:100%">
+  <img src="https://www.cntravellerme.com/sites/default/files/styles/1920px_900px_wide_landscape/public/images/2019/10/03/Dirriyah-Park-Heritage-City-Riyadh-Saudi-Tourism-Opens-%281%29.jpg?itok=rS1VCbGH&c=2ec070ae480137b3a6a7262bef07acba" style="width:100%">
   <div class="text">Al Bujairi Heritage Park </div>
 </div>
 
