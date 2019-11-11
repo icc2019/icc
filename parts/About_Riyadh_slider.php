@@ -126,7 +126,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="https://cdnassets.hw.net/dims4/GG/30a0752/2147483647/thumbnail/876x580%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2Ff1%2Fc0%2F47fa35164565bb3ea20deb749de1%2Fe3331a06cb92418fac36a8ee3d7dcdfd.jpg" width="800px" height="800px">
+  <img src="https://cdnassets.hw.net/dims4/GG/30a0752/2147483647/thumbnail/876x580%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2Ff1%2Fc0%2F47fa35164565bb3ea20deb749de1%2Fe3331a06cb92418fac36a8ee3d7dcdfd.jpg" width="1000%" height="400%">
   <div class="text">Kingdom Centre Tower (Al-Mamlaka Tower)</div>
   
 </div>
