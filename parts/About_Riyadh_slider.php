@@ -126,40 +126,40 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="https://kingdomcentre.com.sa/docs/slider1.jpg" style="width:100%">
+  <img src="https://kingdomcentre.com.sa/docs/slider1.jpg" width="800px" height="800px">
   <div class="text">Kingdom Centre Tower (Al-Mamlaka Tower)</div>
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/media/28/02/2013/p5a_0.jpg?itok=NUbTyBAP" style="width:100%">
+  <img src="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/media/28/02/2013/p5a_0.jpg?itok=NUbTyBAP" width="800px" height="800px">
   <div class="text">Al Masmak Museum </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-  <img src="https://www.cntravellerme.com/sites/default/files/styles/1920px_900px_wide_landscape/public/images/2019/10/03/Dirriyah-Park-Heritage-City-Riyadh-Saudi-Tourism-Opens-%281%29.jpg?itok=rS1VCbGH&c=2ec070ae480137b3a6a7262bef07acba" style="width:100%">
+  <img src="https://www.cntravellerme.com/sites/default/files/styles/1920px_900px_wide_landscape/public/images/2019/10/03/Dirriyah-Park-Heritage-City-Riyadh-Saudi-Tourism-Opens-%281%29.jpg?itok=rS1VCbGH&c=2ec070ae480137b3a6a7262bef07acba" width="800px" height="800px">
   <div class="text">Al Bujairi Heritage Park </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="https://i2.wp.com/www.sauditravel.com/wp-content/uploads/king-abdullah-park.jpg?w=580" style="width:100%">
+  <img src="https://i2.wp.com/www.sauditravel.com/wp-content/uploads/king-abdullah-park.jpg?w=580" width="800px" height="800px">
   <div class="text">King Abdullah Park</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-  <img src="https://sauditourism.sa/ar/ExploreKSA/AttractionSites/NationalMuseum/PublishingImages/ManAndUniverse.jpg" style="width:100%">
+  <img src="https://sauditourism.sa/ar/ExploreKSA/AttractionSites/NationalMuseum/PublishingImages/ManAndUniverse.jpg" width="800px" height="800px">
   <div class="text">National Museum of Saudi Arabia </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
-  <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" style="width:100%">
+  <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" width="800px" height="800px">
   <div class="text">Tuwaiq Mountains (The Edge of The World)</div>
 </div>
 
