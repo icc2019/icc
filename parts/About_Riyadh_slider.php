@@ -159,7 +159,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
-  <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" width="1000%" height="400%">
+  <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" width="1000%" height="200%">
   <div class="text">Tuwaiq Mountains (The Edge of The World)</div>
 </div>
 
