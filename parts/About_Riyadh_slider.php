@@ -152,7 +152,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-  <img src="https://sauditourism.sa/ar/ExploreKSA/AttractionSites/NationalMuseum/PublishingImages/ManAndUniverse.jpg" width="800px" height="800px">
+  <img src="https://cdn.expatwoman.com/s3fs-public/editorial/SaudiMuseum04-1650x1300.jpg" width="800px" height="800px">
   <div class="text">National Museum of Saudi Arabia </div>
 </div>
 
