@@ -148,6 +148,12 @@ img {vertical-align: middle;}
   <img src="assests/images/Norma card-1.png" width="1000px" height="450px">
   <div class="text">Norma card</div>
 </div>
+  
+  <div class="mySlides fade">
+  <div class="numbertext">7 / 7</div>
+  <img src="assests/images/Workshops’ Schedule.jpg" width="1000px" height="450px">
+  <div class="text">Workshops’ Schedule</div>
+</div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -162,6 +168,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(4)"></span> 
   <span class="dot" onclick="currentSlide(5)"></span> 
   <span class="dot" onclick="currentSlide(6)"></span> 
+   <span class="dot" onclick="currentSlide(7)"></span>
 </div>
 
 
