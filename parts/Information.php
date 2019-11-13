@@ -48,7 +48,7 @@ img {vertical-align: middle;}
 }
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: black ;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -119,34 +119,34 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/media/28/02/2013/p5a_0.jpg?itok=NUbTyBAP" width="1000px" height="450px">
-  <div class="text">Al Masmak Museum </div>
+  <img src="assests/images/dhabia card-1.png" width="1000px" height="450px">
+  <div class="text">dhabia card </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-  <img src="https://www.cntravellerme.com/sites/default/files/styles/1920px_900px_wide_landscape/public/images/2019/10/03/Dirriyah-Park-Heritage-City-Riyadh-Saudi-Tourism-Opens-%281%29.jpg?itok=rS1VCbGH&c=2ec070ae480137b3a6a7262bef07acba" width="1000px" height="450px">
-  <div class="text">Al Bujairi Heritage Park </div>
+  <img src="assests/images/Michael card-1.png">
+  <div class="text">Michael card </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="https://i2.wp.com/www.sauditravel.com/wp-content/uploads/king-abdullah-park.jpg?w=580" width="1000px" height="450px">
-  <div class="text">King Abdullah Park</div>
+  <img src="moussa card-1.png" width="1000px" height="450px">
+  <div class="text">moussa card</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-  <img src="https://cdn.expatwoman.com/s3fs-public/editorial/SaudiMuseum04-1650x1300.jpg" width="1000px" height="450px">
-  <div class="text">National Museum of Saudi Arabia </div>
+  <img src="assests/images/norah alnashwan- card-1.png" width="1000px" height="450px">
+  <div class="text">norah alnashwan- card</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
-  <img src="https://i.pinimg.com/originals/d7/ed/2a/d7ed2aaa8cdff9419ab460acc3733661.jpg" width="1000px" height="450px">
-  <div class="text">Tuwaiq Mountains (The Edge of The World)</div>
+  <img src="assests/images/Norma card-1.png" width="1000px" height="450px">
+  <div class="text">Norma card</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
