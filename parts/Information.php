@@ -112,7 +112,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="file:///C:/Users/Lenovo/Desktop/%D8%A7%D9%84%D8%AC%D8%B3%D8%A7%D8%B3/%E2%80%8F%E2%80%8FDesktop%20-%20%D9%86%D8%B3%D8%AE%D8%A9/%D9%88%D8%B8%D9%8A%D9%81%D8%A9/lcjlv/cisco%20card.pdf" width="1000px" height="450px">
+  <img src="C:\Users\Lenovo\Desktop\الجساس\‏‏Desktop - نسخة\وظيفة\lcjlv\cisco card-1.png" width="1000px" height="450px">
   <div class="text">cisco card</div>
   
 </div>
