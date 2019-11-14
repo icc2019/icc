@@ -238,14 +238,13 @@ img {vertical-align: middle;}
 
    </tr>
 <br></tr>
-     <td> <p>​ <img src="assests/images/Workshops’ Schedule.jpg	" alt="Workshops’ Schedule" height="700" width="700"> </p> </td>
    <br></tr>
    </tr>>
   </table>
 <table>
      
     <tr> 
-      <td> <p>​  GUIDE WORKSHOPS </p> </td>
+      <td> <p>​  To download the PDF version of "GUIDE WORKSHOPS" </p> </td>
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/WORKSHOPS GUIDE.pdf	" target="_blank"GUIDE WORKSHOPS> here </a> </b> </p> </td>
     </tr>
     </table>
