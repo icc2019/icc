@@ -231,8 +231,8 @@ img {vertical-align: middle;}
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Norma card.pdf	" target="_blank"Norma card>click here</a> </b> </p> </td>
         <br></tr>
 
-<td> <p>​  To download the PDF version of"GUIDE WORKSHOPS" </p> </td>
-      <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/WORKSHOPS GUIDE.pdf	" target="_blank"GUIDE WORKSHOPS> click here </a> </b> </p> </td>
+<td> <p>​  To download the PDF version of"Workshops’ Schedule" </p> </td>
+      <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/images/Workshops’ Schedule.jpg	" target="_blank"GUIDE WORKSHOPS> click here </a> </b> </p> </td>
     
 
 
