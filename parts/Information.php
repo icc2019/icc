@@ -223,7 +223,7 @@ img {vertical-align: middle;}
    <br></tr>
               <td> <p>To download the PDF version of"norah alnashwan- card"</p> </td>
 
-      <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/norah alnashwan- card.pdf "target="_blank"norah alnashwan- card>click here</a> </p> </td>
+      <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/norah alnashwan- card.pdf"target="_blank"norah alnashwan- card>click here</a> </p> </td>
    <br></tr>
               <td> <p>To download the PDF version of"Norma card"</p> </td>
 
