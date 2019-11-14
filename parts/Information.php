@@ -215,18 +215,18 @@ img {vertical-align: middle;}
         <td> <p>​ To download the PDF version of "dhabia card" </p> </td>
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp;		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/dhabia card.pdf" target="_blank"dhabia card>click here</a> </b> </p> </td>
    <br></tr>
-          <td> <p>​ To download the PDF version of "Michael card" </p> </td>
+          <td> <p>​To download the PDF version of "Michael card" </p> </td>
 
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Michael card.pdf" target="_blank"Michael card>click here</a> </b> </p> </td>
    <br></tr>
-            <td> <p>​>To download the PDF version of "moussa card" </p> </td>
+            <td> <p>To download the PDF version of "moussa card" </p> </td>
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/moussa card.pdf	" target="_blank"moussa card>click here</a> </b> </p> </td>
    <br></tr>
-              <td> <p>​>To download the PDF version of" norah alnashwan- card"</p> </td>
+              <td> <p>To download the PDF version of" norah alnashwan- card"</p> </td>
 
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/norah alnashwan- card.pdf" target="_blank"norah alnashwan- card>click here</a> </b> </p> </td>
    <br></tr>
-              <td> <p>​> To download the PDF version of"Norma card"</p> </td>
+              <td> <p> To download the PDF version of"Norma card"</p> </td>
 
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Norma card.pdf	" target="_blank"Norma card>click here</a> </b> </p> </td>
 
