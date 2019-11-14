@@ -229,6 +229,11 @@ img {vertical-align: middle;}
               <td> <p> To download the PDF version of"Norma card"</p> </td>
 
       <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/Norma card.pdf	" target="_blank"Norma card>click here</a> </b> </p> </td>
+        <br></tr>
+
+<td> <p>​  To download the PDF version of"GUIDE WORKSHOPS" </p> </td>
+      <td> <p> <b> 	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/WORKSHOPS GUIDE.pdf	" target="_blank"GUIDE WORKSHOPS> click here </a> </b> </p> </td>
+    
 
 
    </tr>
