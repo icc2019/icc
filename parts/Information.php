@@ -209,7 +209,8 @@ img {vertical-align: middle;}
      
     <tr> 
       
-    <td> <p>​  To download the PDF version of "cisco card" </p> </td> <p>  	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/cisco card.pdf" target="_blank"cisco card>click here</a> </p> </td>
+    <td> <p>​  To download the PDF version of "cisco card" </p> </td> 
+      <td><b><p>  	&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/cisco card.pdf" target="_blank"cisco card>click here</a> </p> </td>
       <br></tr> 
         <td> <p>​ To download the PDF version of "dhabia card" </p> </td>
       <td> <p>  	&nbsp; 	&nbsp; &nbsp;		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  <a href="assests/dhabia card.pdf" target="_blank"dhabia card>click here</a> </p> </td>
