@@ -211,7 +211,7 @@ img {vertical-align: middle;}
       
     <td> <p>​  To download the PDF version of "cisco card" </p> </td> 
       <td><b><p>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/cisco card.pdf"target="_blank"cisco card>click here</a></p></td></tr> 
-        <td> <p>​ To download the PDF version of "dhabia card" </p> </td>
+        <td> <b><p>​ To download the PDF version of "dhabia card" </p> </td>
       <td> <p>&nbsp; 	&nbsp; &nbsp;		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/dhabia card.pdf"target="_blank"dhabia card>click here</a></p></td>
    <br></tr>
           <td> <p>​To download the PDF version of "Michael card" </p> </td>
@@ -219,7 +219,7 @@ img {vertical-align: middle;}
       <td> <p><b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/Michael card.pdf"target="_blank"Michael card>click here</a></p></td>
    <br></tr>
             <td> <p>To download the PDF version of "moussa card" </p> </td>
-      <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/moussa card.pdf	"target="_blank"moussa card>click here</a> </p> </td>
+      <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/moussa card.pdf"target="_blank"moussa card>click here</a> </p> </td>
    <br></tr>
               <td> <p>To download the PDF version of" norah alnashwan- card"</p> </td>
 
@@ -227,7 +227,7 @@ img {vertical-align: middle;}
    <br></tr>
               <td> <p> To download the PDF version of"Norma card"</p> </td>
 
-      <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/Norma card.pdf	" target="_blank"Norma card>click here</a></p></td>
+      <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/Norma card.pdf	"target="_blank"Norma card>click here</a></p></td>
         <br></tr>
 
 <td> <p>​  To download the PDF version of"Workshops’ Schedule" </p> </td>
