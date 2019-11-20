@@ -112,41 +112,41 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
-  <img src="assests/images/cisco card-1.png" width="1000px" height="450px">
-  <div class="text">cisco card</div>
+  <img src="assests/images/cisco card-1.png" width="700px" height="450px">
+  <div class="text">CISCO Card</div>
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
   <img src="assests/images/dhabia card-1.png" width="1000px" height="450px">
-  <div class="text">dhabia card </div>
+  <div class="text">Dr.Dhabia Card </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
   <img src="assests/images/Michael card-1.png" width="1000px" height="450px">
-  <div class="text">Michael card </div>
+  <div class="text">Eng. Michael Card </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
   <img src="assests/images/moussa card-1.png" width="1000px" height="450px">
-  <div class="text">moussa card</div>
+  <div class="text">Dr.Moussa Card</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
   <img src="assests/images/norah alnashwan- card-1.png" width="1000px" height="450px">
-  <div class="text">norah alnashwan- card</div>
+  <div class="text">Norah Alnashwan Card</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
   <img src="assests/images/Norma card-1.png" width="1000px" height="450px">
-  <div class="text">Norma card</div>
+  <div class="text">AP Dr.Norma Card</div>
 </div>
   
   <div class="mySlides fade">
@@ -209,23 +209,23 @@ img {vertical-align: middle;}
      
     <tr> 
       
-    <td> <p>To download the PDF version of "cisco card"</p> </td> 
+    <td> <p>To download the PDF version of "CISCO Card"</p> </td> 
       <td><b><p>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/cisco card.pdf"target="_blank"cisco card>click here</a></p></td></tr> 
-        <td> <p>To download the PDF version of "dhabia card"</p> </td>
+        <td> <p>To download the PDF version of "Dr.Dhabia Card"</p> </td>
       <td> <b><p>&nbsp; 	&nbsp; &nbsp;		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/dhabia card.pdf"target="_blank"dhabia card>click here</a></p></td>
    <br></tr>
-          <td> <p>To download the PDF version of "Michael card"</p> </td>
+          <td> <p>To download the PDF version of "Eng. Michael Card"</p> </td>
 
       <td> <p><b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/Michael card.pdf"target="_blank"Michael card>click here</a></p></td>
    <br></tr>
-            <td> <p>To download the PDF version of "moussa card" </p> </td>
+            <td> <p>To download the PDF version of "Dr.Moussa Card" </p> </td>
       <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/moussa card.pdf"target="_blank"moussa card>click here</a> </p> </td>
    <br></tr>
-              <td> <p>To download the PDF version of"norah alnashwan- card"</p> </td>
+              <td> <p>To download the PDF version of"Norah Alnashwan Card"</p> </td>
 
       <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/images/norah alnashwan- card.pdf"target="_blank"norah alnashwan- card>click here</a> </p> </td>
    <br></tr>
-              <td> <p>To download the PDF version of"Norma card"</p> </td>
+              <td> <p>To download the PDF version of"AP Dr.Norma Card"</p> </td>
 
       <td> <p> <b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/Norma card.pdf	"target="_blank"Norma card>click here</a></p></td>
         <br></tr>
@@ -243,7 +243,7 @@ img {vertical-align: middle;}
 <table>
      
     <tr> 
-      <td> <p>​  To download the PDF version of "GUIDE WORKSHOPS" </p> </td>
+      <td> <p>​  To download the PDF version of "WORKSHOPS GUIDE " </p> </td>
       <td> <p><b>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/WORKSHOPS GUIDE.pdf	" target="_blank"GUIDE WORKSHOPS>click here</a> </b> </p> </td>
     </tr>
     </table>
