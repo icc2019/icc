@@ -21,7 +21,7 @@ img {vertical-align: middle;}
   max-width: 700px;
   /*position: relative;*/ 
   margin: auto;
-  position: center;
+ /* position: center;*/
   
 }
 /* Next & previous buttons */
