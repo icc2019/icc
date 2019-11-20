@@ -53,9 +53,9 @@ img {vertical-align: middle;}
   color: black ;
   font-size: 15px;
   padding: 8px 12px;
-  position: absolute;
+  /*position: absolute;*/
   bottom: 8px;
-  
+  position: center;
   width: 100%;
   text-align: center;
 }
