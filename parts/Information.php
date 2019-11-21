@@ -211,7 +211,8 @@ img {vertical-align: middle;}
      
     <tr> 
       
-    <td> <p>To download the PDF version of "CISCO Card"</p> </td> <a href="assests/cisco card.pdf"target="_blank"cisco card>click here</a></p></td></tr> 
+    <td> <p>To download the PDF version of "CISCO Card"</p> </td>
+     <td><b><p>&nbsp; 	&nbsp; &nbsp; 		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp; <a href="assests/cisco card.pdf"target="_blank"cisco card>click here</a></p></td></tr> 
         <td> <p>To download the PDF version of "Dr.Dhabia Card"</p> </td>
       <td> <b><p>&nbsp; 	&nbsp; &nbsp;		&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/dhabia card.pdf"target="_blank"dhabia card>click here</a></p></td>
    <br></tr>
