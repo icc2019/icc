@@ -18,7 +18,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
-  max-width: 700px;
+  max-width: 750px;
   /*position: relative;*/ 
   margin: auto;
  /* position: center;*/
