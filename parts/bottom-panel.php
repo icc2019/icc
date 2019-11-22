@@ -4,9 +4,9 @@
 <div class="container">
   <div class="row">
 
-
-    <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html"  text-align:center>
-<img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="150" width="150"> </a>
+<div style="margin: 0 auto; text-align: center">
+    <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html"    id="cc_strinfo_song_tranceilfm" class="cc_streaminfo" style="margin: 0px; display:block;">
+<img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="150" width="150"> </a> </div>
       <br>
       <br>
       &nbsp;
