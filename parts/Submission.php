@@ -209,7 +209,7 @@
       <b> You can submit a  workshop proposal as a single  PDF file online via the following email:<a href="mailto:ccis-cs-workshop@pnu.edu.sa"><strong>ccis-cs-workshop@pnu.edu.sa</strong></a> </b>
     
     </p>
-  </div>
+  
     
     <br> 
   <table>
@@ -246,7 +246,7 @@
 
     </div>
   </div>
-
+</div>
 
 <?php //include('left-panel.php');?>
 <?php include('bottom-panel.php');?>
