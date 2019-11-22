@@ -121,7 +121,7 @@ img {vertical-align: middle;}
   <br>
   <br>
 
-<div class="slideshow-container">
+<div class="slideshow-container" align="center">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
