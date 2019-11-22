@@ -237,4 +237,6 @@ function showSlides(n) {
 
 
 
+
+<?php //include('left-panel.php');?>
 <?php include('bottom-panel.php');?>
