@@ -121,39 +121,39 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="assests/images/dhabia card-1.png" width="750px" height="450px">
+  <img src="assests/images/dhabia card-1.png" width="550px" height="750px">
   <div class="text">Dr.Dhabia Card </div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
-  <img src="assests/images/Michael card-1.png" width="750px" height="450px">
+  <img src="assests/images/Michael card-1.png" width="550px" height="750px">
   <div class="text">Eng. Michael Card </div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="assests/images/moussa card-1.png" width="750px" height="450px">
+  <img src="assests/images/moussa card-1.png" width="550px" height="750px">
   <div class="text">Dr.Moussa Card</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-  <img src="assests/images/norah alnashwan- card-1.png" width="750px" height="450px">
+  <img src="assests/images/norah alnashwan- card-1.png" width="550px" height="750px">
   <div class="text">Norah Alnashwan Card</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
-  <img src="assests/images/Norma card-1.png" width="750px" height="450px">
+  <img src="assests/images/Norma card-1.png" width="550px" height="750px">
   <div class="text">AP Dr.Norma Card</div>
 </div>
   
   <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="assests/images/Workshops’ Schedule.jpg" width="750px" height="450px">
+  <img src="assests/images/Workshops’ Schedule.jpg" width="550px" height="750px">
   <div class="text">Workshops’ Schedule</div>
 </div>
 
