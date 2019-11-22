@@ -4,7 +4,13 @@
 <div class="container">
   <div class="row">
 
-    
+   img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+  
    
     &nbsp;
     &nbsp;
