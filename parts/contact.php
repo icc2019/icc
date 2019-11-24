@@ -4,7 +4,7 @@
 
     <div class=" tt-column">
   <ul class="">
-<ol>
+
     <h1>Contact</h1>
 
    
