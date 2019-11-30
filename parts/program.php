@@ -123,7 +123,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
- <img src="assests/images/cisco card-1.png" width="600px" height="750px">
+ <img src="assests/images/1photo.jpg" width="600px" height="750px">
   <div class="text">CISCO Card</div>
   
 </div>
