@@ -122,40 +122,40 @@ img {vertical-align: middle;}
 <div class="slideshow-container" align="center">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
+  <div class="numbertext">1 / 6</div>
  <img src="assests/images/1photo.jpg" width="600px" height="750px">
 
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
+  <div class="numbertext">2 / 6</div>
   <img src="assests/images/2photo.jpg" width="600px" height="750px">
 
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">3 / 6</div>
  <img src="assests/images/3photo.jpg" width="600px" height="750px">
   
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
+  <div class="numbertext">4 / 6</div>
   <img src="assests/images/4photo.jpg" width="600px" height="750px">
   
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">5 / 6</div>
    <img src="assests/images/5photo.jpg" width="600px" height="750px">
 
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">6 / 6</div>
  <img src="assests/images/6photo.jpg" width="600px" height="750px">
 
 </div>
@@ -175,7 +175,6 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(4)"></span> 
   <span class="dot" onclick="currentSlide(5)"></span> 
   <span class="dot" onclick="currentSlide(6)"></span> 
-  <span class="dot" onclick="currentSlide(7)"></span> 
 </div>
 
 
