@@ -124,40 +124,40 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
  <img src="assests/images/1photo.jpg" width="600px" height="750px">
-  <div class="text">CISCO Card</div>
+
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 7</div>
   <img src="assests/images/2photo.jpg" width="600px" height="750px">
-  <div class="text">Dr.Dhabia Card </div>
+
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 7</div>
  <img src="assests/images/3photo.jpg" width="600px" height="750px">
-  <div class="text">Eng. Michael Card </div>
+  
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 7</div>
   <img src="assests/images/4photo.jpg" width="600px" height="750px">
-  <div class="text">Dr.Moussa Card</div>
+  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 7</div>
    <img src="assests/images/5photo.jpg" width="600px" height="750px">
-  <div class="text">Norah Alnashwan Card</div>
+
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 7</div>
  <img src="assests/images/6photo.jpg" width="600px" height="750px">
-  <div class="text">AP Dr.Norma Card</div>
+
 </div>
   
     <div class="mySlides fade">
