@@ -123,40 +123,40 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
- <img src="assests/images/1photo.jpg" width="600px" height="750px">
+ <img src="assests/images/1-1.jpg" width="600px" height="750px">
 
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="assests/images/2photo.jpg" width="600px" height="750px">
+  <img src="assests/images/2-2.jpg" width="600px" height="750px">
 
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
- <img src="assests/images/3photo.jpg" width="600px" height="750px">
+ <img src="assests/images/3-3.jpg" width="600px" height="750px">
   
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="assests/images/4photo.jpg" width="600px" height="750px">
+  <img src="assests/images/4-4.jpg" width="600px" height="750px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-   <img src="assests/images/5photo.jpg" width="600px" height="750px">
+   <img src="assests/images/5-5.jpg" width="600px" height="750px">
 
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
- <img src="assests/images/6photo.jpg" width="600px" height="750px">
+ <img src="assests/images/6-6.jpg" width="600px" height="750px">
 
 </div>
   
@@ -222,7 +222,7 @@ function showSlides(n) {
       
     <td> <p>To download the PDF version of "Conference program"</p> </td>
      <td><b><p>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="
-assests/images/7.pdf "target="_blank"cisco card>click here</a></p></td></tr> 
+assests/images/f.pdf "target="_blank"cisco card>click here</a></p></td></tr> 
         
 
    </tr>
