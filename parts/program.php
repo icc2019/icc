@@ -160,11 +160,7 @@ img {vertical-align: middle;}
 
 </div>
   
-    <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
-  <img src="assests/images/Workshops’ Schedule.jpg" width="600px" height="750px">
-  <div class="text">Workshops’ Schedule</div>
-</div>
+  
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
