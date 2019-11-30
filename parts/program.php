@@ -226,7 +226,7 @@ function showSlides(n) {
     <tr> 
       
     <td> <p>To download the PDF version of "Conference program"</p> </td>
-     <td><b><p>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/images/7.pdf."target="_blank"cisco card>click here</a></p></td></tr> 
+     <td><b><p>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/images/7.pdf"target="_blank"cisco card>click here</a></p></td></tr> 
         
 
    </tr>
