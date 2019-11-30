@@ -114,7 +114,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
- <h1> Program</h1>
+ <h1>Conference Program</h1>
 <br>
   <br>
   <br>
@@ -225,44 +225,16 @@ function showSlides(n) {
      
     <tr> 
       
-    <td> <p>To download the PDF version of "CISCO Card"</p> </td>
-     <td><b><p>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/cisco card.pdf"target="_blank"cisco card>click here</a></p></td></tr> 
-        <td> <p>To download the PDF version of "Dr.Dhabia Card"</p> </td>
-      <td> <b><p>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/dhabia card.pdf"target="_blank"dhabia card>click here</a></p></td>
-   <br></tr>
-          <td> <p>To download the PDF version of "Eng. Michael Card"</p> </td>
-
-      <td> <p><b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/Michael card.pdf"target="_blank"Michael card>click here</a></p></td>
-   <br></tr>
-            <td> <p>To download the PDF version of "Dr.Moussa Card" </p> </td>
-      <td> <p> <b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/moussa card.pdf"target="_blank"moussa card>click here</a> </p> </td>
-   <br></tr>
-              <td> <p>To download the PDF version of"Norah Alnashwan Card"</p> </td>
-
-      <td> <p> <b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/images/norah alnashwan- card.pdf"target="_blank"norah alnashwan- card>click here</a> </p> </td>
-   <br></tr>
-              <td> <p>To download the PDF version of"AP Dr.Norma Card"</p> </td>
-
-      <td> <p> <b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/Norma card.pdf	"target="_blank"Norma card>click here</a></p></td>
-        <br></tr>
-
-<td> <p>To download the PDF version of"Workshops’ Schedule"</p> </td>
-      <td> <p> <b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 	&nbsp;	&nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/images/Workshops’ Schedule.jpg	"target="_blank"GUIDE WORKSHOPS>click here</a></p></td>
-    
-
+    <td> <p>To download the PDF version of "Conference program"</p> </td>
+     <td><b><p>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/images/7.pdf."target="_blank"cisco card>click here</a></p></td></tr> 
+        
 
    </tr>
 <br></tr>
    <br></tr>
    </tr>>
   </table>
-<table>
-     
-    <tr> 
-      <td> <p>​  To download the PDF version of "WORKSHOPS GUIDE " </p> </td>
-      <td> <p><b>	  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/WORKSHOPS GUIDE.pdf	" target="_blank"GUIDE WORKSHOPS>click here</a> </b> </p> </td>
-    </tr>
-    </table>
+
        
 
 
