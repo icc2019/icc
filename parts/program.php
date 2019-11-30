@@ -233,7 +233,7 @@ assests/images/7.pdf "target="_blank"cisco card>click here</a></p></td></tr>
    </tr>
 <br></tr>
    <br></tr>
-   </tr>>
+   </tr>
   </table>
 
        
