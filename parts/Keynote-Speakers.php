@@ -26,6 +26,20 @@
 	 member and an ASME Fellow. He served as Editor of several symposia/conference proceedings.
 	 He is author of over 320 publications, and about 50 registered/pending patents. He has been
 	 invited to lecture at over 200 seminars worldwide.
+	 The revolution of big data simulation and big data analytics has empowered the high resolution of
+         visualization and accurate decision making. The transformation trend of modelling and simulation,
+         sequential and parallel algorithms, distributed and shared memory are required to achieve the
+         information technology revolution in big data analytics. The trend of data simulation and model
+         simulation-driven were focused on the independent and dependent parameters of the strong
+         fundamental theory and methodology in data modelling and mathematical modelling. The use of
+         complex modelling and machine learning technique for training a high-dimensional and integrated
+         dataset can be obtained by the SIMD architecture of high performance computing system. Some
+         applications highlight the indicators of the parallel performance measurement and big data analytics
+         performance for investigating the high resolution of visualization and decision making. In conclusion, a
+         variety of different analysis such as numerical analysis, parallel performance evaluation, visualizations,
+         multi-dimensional graph, list of tables, and effective indicators are able to predict and interpret the
+         decision making accurately.
+								.
 						 </p>
 
 					 </div><!-- END member-bio -->
