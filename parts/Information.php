@@ -256,7 +256,7 @@ function showSlides(n) {
    </tr>
 <br></tr>
    <br></tr>
-   </tr>>
+   </tr>
   </table>
 <table>
      
