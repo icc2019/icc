@@ -67,7 +67,39 @@
 	                            <h4 class="team-member-name">Prof. Omer Rana</h4>
 	                            <p>Biography:</p>
 															<p align="justify">
-																Omer F. Rana is Professor of Performance Engineering at Cardiff University, with research interests in high performance distributed computing, data analysis/mining and multi-agent systems. He is the Dean of International for the Physical Science and Engineering College at Cardiff University. He previously led the Complex Systems Research Group, and was also formerly the deputy director of the Welsh eScience Centre and had the opportunity to interact with a number of computational scientists across Cardiff University and the UK. He serves on the steering committee of Cardiff University's multi-disciplinary "Data Innovation" and "Energy Systems" Research Institutes. Rana has contributed to specification and standardisation activities via the Open Grid Forum and worked as software developer with London-based Marshall Bio-Technology Limited prior to joining Cardiff University, where he developed specialist software to support biotech instrumentation. He also contributed to public understanding of science, via the Wellcome Trust funded "Science Line", in collaboration with BBC and Channel 4. Rana holds a PhD in "Neural Computing and Parallel Architectures" from Imperial College (London Univ.), an MSc in Microelectronics (Univ. of Southampton) and a BEng in Information Systems Eng. from Imperial College (London Univ.). He serves on the editorial boards (as Associate Editor) of IEEE Transactions on Parallel and Distributed Systems, (formerly) IEEE Transactions on Cloud Computing, IEEE Cloud Computing magazine and ACM Transactions on Internet Technology. He is a founding-member and associate editor of ACM Transactions on Autonomous & Adaptive Systems.
+																Omer F. Rana is Professor of Performance Engineering at Cardiff University, with research interests in high performance distributed computing, data analysis/mining and multi-agent systems. He is the Dean of International for the Physical Science and Engineering College at Cardiff University. He previously led the Complex Systems Research Group, and was also formerly the deputy director of the Welsh eScience Centre and had the opportunity to interact with a number of computational scientists across Cardiff University and the UK. He serves on the steering committee of Cardiff University's multi-disciplinary "Data Innovation" and "Energy Systems" Research Institutes. Rana has contributed to specification and standardisation activities via the Open Grid Forum and worked as software developer with London-based Marshall Bio-Technology Limited prior to joining Cardiff University, where he developed specialist software to support biotech instrumentation. He also contributed to public understanding of science, via the Wellcome Trust funded "Science Line", in collaboration with BBC and Channel 4. Rana holds a PhD in "Neural Computing and Parallel Architectures" from Imperial College (London Univ.), an MSc in Microelectronics (Univ. of Southampton) and a BEng in Information Systems Eng. from Imperial College (London Univ.). He serves on the editorial boards (as Associate Editor) of IEEE Transactions on Parallel and Distributed Systems, (formerly) IEEE Transactions on Cloud Computing, IEEE Cloud Computing magazine and ACM Transactions on Internet Technology. He is a founding-member and associate editor of ACM Transactions on Autonomous & Adaptive Systems. <p >									
+								Keynote title:</p>
+							<p align="justify">
+								<p >									
+								Realizing Edge Marketplaces
+</p>
+							<p align="justify">
+								<p >									
+								Abstract:</p>
+							<p align="justify">
+
+Research in the Internet of Things (IoT) conceives a world where everyday objects are connected to the
+Internet and exchange, store, process, and collect data from the surrounding environment. IoT devices
+are becoming essential for supporting the delivery of data to enable electronic services, but they are not
+sufficient in most cases to host application services directly due to their intrinsic resource constraints.
+Edge (or Fog) computing can be a suitable paradigm to overcome these limitations, as it can coexist and
+cooperate with centralized Cloud systems and extends the latter toward the network edge. In this way,
+it is possible to distribute resources and services of computing, storage, and networking along the Cloud-
+to-Things continuum. 
+The edge of the network therefore has the potential to host services for supporting a variety of user
+applications, ranging in complexity from data preprocessing, image and video rendering, and interactive
+gaming, to embedded systems in autonomous cars and built environments. However, the computational
+and data resources over which such services are hosted, and the actors that interact with these services,
+have an intermittent availability and access profile, introducing significant risk for user applications that
+must rely on them. This talk will describe the development of an edge marketplace, which is able to
+support multiple providers for offering services at the network edge, and to enable demand supply for
+influencing the operation of such a marketplace. Resilience, cost, and quality of service and experience
+will subsequently enable such a marketplace to adapt its services over time. This talk will also describes
+how distributed-ledger technologies (such as blockchains) provide a promising approach to support the
+operation of such a marketplace and regulate its behavior (such as the GDPR in Europe) and operation.
+Application scenarios provide context for the discussion of how such a marketplace would function and
+be utilized in practice. The talk suggests potential edge services that can be hosted in cities in the Middle
+East (such as Riyadh), and business models to support these services.
 
 															</p>
 
