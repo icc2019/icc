@@ -125,6 +125,33 @@ East (such as Riyadh), and business models to support these services.
 							Prof. Khurram is the recipient of King Saud University Award for Scientific Excellence (Research Productivity) in May 2015. He is also a recipient of King Saud University Award for Scientific Excellence (Inventions, Innovations, and Technology Licensing) in May 2016.
 							He has published more than 350 papers in the journals and conferences of international repute. In addition, he is an inventor of 10 US/PCT patents. His research areas of interest are Cybersecurity, digital authentication, biometrics, IoT security, and technological innovation management.
 							He is a fellow of the IET (UK), fellow of the BCS (UK), fellow of the FTRA (Korea), senior member of the IEEE (USA), member of the IEEE Consumer Electronics Society, member of the IEEE Communications Society, member of the IEEE Technical Committee on Security & Privacy, member of the IEEE IoT Community, and member of the IEEE Cybersecurity Community. He is also the Vice Chair of IEEE Communications Society Saudi Chapter. He is a distinguished Lecturer of the IEEE. His detailed profile can be visited at http://www.professorkhurram.com
+									 <p >									
+								Keynote title:</p>
+							<p align="justify">
+								<p >									
+Cybersecurity Challenges and Solutions in Hyper-Connected 5G-based IoT Ecosystem
+</p>
+							<p align="justify">
+								<p >									
+								Abstract:</p>
+							<p align="justify">
+
+Due to the modern technological advancements and innovations, computers are not just limited to
+the desktop, laptop or portable devices, but they are proliferating into various areas of our lives and
+blurring the lines between reality and fiction. This fact is becoming truth due to the emergence of
+Internet of Things (IoT), which unites physical and virtual worlds by extending computing and
+connectivity capabilities to everyday things e.g. cars, refrigerators, and home appliances, etc. IoT is
+ushering in a new era which is transforming the way we work, live, communicate and perform
+businesses. The dawn of fifth generation networks (5G) with the promise of ultra-high speed,
+massive bandwidth, and super-low latency is the building block of making this all happen with more
+IoT friendly ecosystem and its applications in automotive, healthcare, energy, aerospace &amp; defense,
+industrial, and consumer electronics products, etc. However, this unprecedented dependence and
+increased connectivity of billions of connected IoT devices could lead to unexpected cybersecurity
+risks and threats, which may have serious ramifications beyond our imagination. In this speech, we
+would dissect cybersecurity challenges and concerns in the 5G connected IoT-enabled world.
+Furthermore, we would explore some peculiar problems inherent in 5G and IoT ecosystem, which
+could exacerbate the risks of cybersecurity breaches, crimes, and attacks. Finally, we would discuss
+some of our research contributions as well as future trends in this domain.
 
 								</p>
 
