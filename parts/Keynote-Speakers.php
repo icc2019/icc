@@ -176,6 +176,58 @@ some of our research contributions as well as future trends in this domain.
 																		 <p >Biography: </p>
 																		 <p align="justify">
 																		 Stephanie E. August is a Professor of Computer Science in the Department of Electrical Engineering and Computer Science in the Frank R. Seaver College of Science and Engineering at Loyola Marymount University in Los Angeles. She is currently serving as a Program Director in the Directorate for Education and Human Resources Division of Undergraduate Education at the National Science Foundation in Arlington, Virginia, in the United States. At NSF she works on programs related to undergraduate education, data science, the future of work, and the future of STEM education. She received her B.A. in Slavic Languages and M.S. and Ph.D. in Computer Science, all from the University of California, Los Angeles. Prior to LMU she was a staff engineer at Hughes Aircraft Company and a copy cataloger at UCLA. Stephanie has served as department director of graduate studies and special assistant to the chief academic officer for graduate studies.  Her current research interests focus on online interactive digital learning environments and infusing other disciplines with computing concepts. She is also interested in computational models of reasoning by analogy and exploring the boundaries between people and machines. Her teaching repertoire includes courses in databases, artificial intelligence, new media (English+graphics+computing), programming 3D animation tools (animation+computing), and first year seminars (English composition+computing). Stephanie enjoys hiking, camping, gardening and baking, and looks forward to the day when a machine can read a novel and understand the symbolism in it.
+																		 <p >									
+								Keynote title:</p>
+							<p align="justify">
+								<p >									
+Rethinking Education for the Future World and Future Work
+</p>
+							<p align="justify">
+								<p >									
+								Abstract:</p>
+							<p align="justify">
+In eight years, today’s ten-year-olds will be entering college and today’s fourteen-year-olds will be
+embarking on careers. In twenty years, today’s seven-year-olds will become the assistant professors that
+will prepare the workforce of a world that we are just beginning to envision. What will we encounter in
+that world? What can AI contribute to preparing students for the future? What more needs to be done?
+Our rapidly evolving human-technology interface has enormous implications for science, education,
+work, and society. In addition, our students will be asked to solve social and cultural problems that
+involve not only incomplete or contradictory knowledge, but also large numbers of people and opinions.
+Addressing such problems can incur a large economic burden. These problems are made more complex
+by their interconnectedness with other equally challenging problems. How will we prepare our students
+for this future? There is a call for experiential learning that transcends traditional disciplinary boundaries
+and incorporates the skills needed to build bridges across stakeholders. We can use technology to
+empower instructors and to teach our students, or better yet, to enable all students to learn in the 21st
+century.  The Internet of Things and cloud-based resources enable us to share courses, modules,
+devices, and experiences, and provide education at scale. Experiential learning is labor intensive.
+Researchers are developing exoskeletons and augmented reality systems to enhance a worker’s physical
+and cognitive abilities. Similarly, instructors require metaphorical exoskeletons that extend their ability
+to provide meaningful guidance and feedback to students in real time, and also extend their ability to
+support real-world, hands-on, problem-based, and just-in-time learning. Applications of AI-based
+education technology support learning in four ways:  automated tutoring, personalizing learning,
+assessing student knowledge, and automating tasks normally performed by the instructor. Intelligent
+Tutoring Systems (ITS) produce statistically significant improvements in student learning outcomes, such
+as mastery and retention, when compared to traditional classroom teaching, independent textbook use,
+and non-AI computer-based instruction. Additional effort is needed to increase flexibility of ITS curricula
+to overcome technical challenges in accommodating user feedback, modified core standards, and
+content change. Along the way we need to carefully consider what is effective and reproducible, and
+generate evidence to support our beliefs. We also need to reflect on the questions that we, as computer
+science education researchers, practitioners, and administrators, are not asking. Higher education needs
+to evolve to meet these challenges and prepare our students to deal with the future world and
+consequences of technology. A major transformation is needed in how we package and present
+knowledge, how we track knowledge gained, and what students experience along the way. Critical
+thinking exercises from the liberal arts can be adopted to train students to view a problem from multiple
+perspectives and at multiple levels of abstraction. Effective relationships can replace silos in our
+organizational units. Team building, collaboration, communication, and bridge building skills can be
+woven into our courses. Concerns regarding design, privacy, security, and ethics can be woven
+throughout the curriculum, rather than being distinct upper division courses. Convergence of disciplines
+can be experienced in thoughtfully chosen project. Formal acknowledgement of achievements and skill
+acquisition of skills at a more granular level than a college degree can address changing workforce
+through adoption of micro-credentialing and badging, with buy-in from academia and industry. Our
+challenge is to understand what lies ahead; identify the tools available; involve all stakeholders from
+students, educators, and administrators through workforce leaders and policy makers; and consider
+social, economic, and political perspectives to collectively construct a shared vision for the future of
+STEM education.
 
 																		 </p>
 																	</div><!-- END member-bio -->
