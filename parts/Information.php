@@ -237,7 +237,7 @@ function showSlides(n) {
       <td> <p><b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/Michael card.pdf"target="_blank"Michael card>click here</a></p></td>
    <br></tr>
             <td> <p>To download the PDF version of "Dr.Moussa Card" </p> </td>
-      <td> <p> <b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/moussa card.pdf"target="_blank"moussa card>click here</a> </p> </td>
+      <td> <p> <b>	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp;<a href="assests/images/moussa card new.pdf"target="_blank"moussa card>click here</a> </p> </td>
    <br></tr>
               <td> <p>To download the PDF version of"Norah Alnashwan Card"</p> </td>
 
