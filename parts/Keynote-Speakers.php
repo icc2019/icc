@@ -25,7 +25,10 @@
 	 served on many professional committees and as a consultant for multinationals. He is an IEEE
 	 member and an ASME Fellow. He served as Editor of several symposia/conference proceedings.
 	 He is author of over 320 publications, and about 50 registered/pending patents. He has been
-	 invited to lecture at over 200 seminars worldwide.  
+	 invited to lecture at over 200 seminars worldwide.  </p>
+								<p >
+								Abstract:</p>
+							<p align="justify">
 	 The revolution of big data simulation and big data analytics has empowered the high resolution of
          visualization and accurate decision making. The transformation trend of modelling and simulation,
          sequential and parallel algorithms, distributed and shared memory are required to achieve the
