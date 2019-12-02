@@ -23,7 +23,6 @@
     <br>Mada Alaskar, <b> Princess Nourah University, KSA </b>
     <br>Manel AYADI, <b> Princess Nourah University, KSA </b>
     <br>Myriam Hadjouni, <b> Princess Nourah University, KSA </b>
-    <br>Norah Alghamdi, <b> Princess Nourah University, KSA </b>
     <br>Samiah Chelloug, <b> Princess Nourah University, KSA </b>
 
 </ul>
