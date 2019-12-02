@@ -19,7 +19,6 @@
     <br>Hanan Aljuaid, <b> Princess Nourah University, KSA</b>
     <br>Hanen Karamti, <b> Princess Nourah University, KSA </b>
     <br>Heba A. Kurdi, <b> King Saud University, KSA </b>
-    <br>Hessah Aleisa, <b> Princess Nourah University, KSA</b>
     <br>Mada Alaskar, <b> Princess Nourah University, KSA </b>
     <br>Manel AYADI, <b> Princess Nourah University, KSA </b>
     <br>Myriam Hadjouni, <b> Princess Nourah University, KSA </b>
