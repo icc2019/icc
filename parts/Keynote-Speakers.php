@@ -28,7 +28,9 @@
 	 invited to lecture at over 200 seminars worldwide.  </p>
 								<p >
 									Keynote title:
+									
 Forces of Change in the Digital Age
+									
 								Abstract:</p>
 							<p align="justify">
 	 The revolution of big data simulation and big data analytics has empowered the high resolution of
