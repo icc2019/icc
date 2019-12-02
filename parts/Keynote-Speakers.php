@@ -26,11 +26,13 @@
 	 member and an ASME Fellow. He served as Editor of several symposia/conference proceedings.
 	 He is author of over 320 publications, and about 50 registered/pending patents. He has been
 	 invited to lecture at over 200 seminars worldwide.  </p>
-								<p >
-									Keynote title:
-									
-Forces of Change in the Digital Age
-									
+						 <p >									
+								Keynote title:</p>
+							<p align="justify">
+								<p >									
+								Forces of Change in the Digital Age</p>
+							<p align="justify">
+								<p >									
 								Abstract:</p>
 							<p align="justify">
 	 The revolution of big data simulation and big data analytics has empowered the high resolution of
