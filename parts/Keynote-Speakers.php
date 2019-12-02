@@ -248,6 +248,29 @@ STEM education.
 																					 Dr Norma Alias is currently an Associate Professor, and Research Fellow and Head of Networking and Linkages Division of Center for Sustainable Nanomaterials, IbnuSina Institute for Scientific and Industrial Research (IIS), UniversitiTeknologi Malaysia (UTM). She was appointed as an Associate Professor and Research Fellow at King Saud University, Saudi Arabia. She is a member of the Malaysian Mathematical Sciences Society.
 															 AP Dr. Norma possessed a PhD degree in Industrial Computing (Parallel Computing) in 2004. She has a diverse field of specializations including mathematical modeling, big data simulation, industrial computing, scientific computing, high performance computing, shared-distributed parallel computing system, grid computing and software development. She has supervised for 13 PhD students and 32 MSc with Philosophy. She is supervising ongoing 5 PhD students , 12 MSc with Philosophy students, 2 postdoctoral students and reviewing postgraduate students of local and international universities. Awarded as Distinguished Women in Mathematical Sciences in the year 2018 from VIWA, India. AP Dr. Norma has a distinguished academic and research track record having published over 200 publications which consist of index journal, index proceedings articles, books and modules. She is an active innovator , having earned 2 product patent disclosures in 2015, 4 Intellectual property declarations, and 16 medals won in product innovation and invention expo since 2004 and having 2 products for commercialization.
 															 She is active organizing a monthly workshop such as Matlab, Maple, Mathematica, Comsol Multiphysics, CUDA, C++, PVM, MPI, OpenMP, Big data analytics, FEM, FDM and Machine Learning. She has been invited by 14 international conferences in the year 2016-2017 as keynote, plenary and invited speaker in Malaysia, China, India, New Zealand, New Zealand, South Korea,  Japan, Indonesia, Vietnam, Laos, Saudi Arabia, Kuwait, United Arab Emirates and Pakistan.
+															 <p >									
+								Keynote title:</p>
+							<p align="justify">
+								<p >									
+Big Data Simulation-Driven and Analytics to Guide High-Resolution Visualization and Decision-Making
+</p>
+							<p align="justify">
+								<p >									
+								Abstract:</p>
+							<p align="justify">
+The revolution of big data simulation and big data analytics has empowered the high resolution of
+visualization and accurate decision making. The transformation trend of modelling and simulation,
+sequential and parallel algorithms, distributed and shared memory are required to achieve the
+ information technology revolution in big data analytics. The trend of data simulation and model
+simulation-driven were focused on the independent and dependent parameters of the strong
+fundamental theory and methodology in data modelling and mathematical modelling. The use of
+complex modelling and machine learning technique for training a high-dimensional and integrated
+dataset can be obtained by the SIMD architecture of high performance computing system. Some
+applications highlight the indicators of the parallel performance measurement and big data analytics
+performance for investigating the high resolution of visualization and decision making. In conclusion, a
+variety of different analysis such as numerical analysis, parallel performance evaluation, visualizations,
+multi-dimensional graph, list of tables, and effective indicators are able to predict and interpret the
+decision making accurately.
 
 																					 </p>
 															 					</div><!-- END member-bio -->
