@@ -13,7 +13,7 @@
      <br>Mai Alduailij, <b>Princess Nourah University, KSA</b>
     <br> Maali Alabdulhafith, <b>Princess Nourah University, KSA</b>
     <br>Hadil Ahmed Shaiba, <b> Princess Nourah University, KSA </b>
-
+    <br>Norah Alghamdi, <b> Princess Nourah University, KSA </b>
  <br>Shiroq Al-Megren, <b> Massachusetts Institute of Technology (MIT), USA</b>
  
 
