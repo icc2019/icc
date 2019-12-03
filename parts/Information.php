@@ -116,7 +116,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
- <h1> Information</h1>
+ <h1> Workshop Information</h1>
 <br>
   <br>
   <br>
