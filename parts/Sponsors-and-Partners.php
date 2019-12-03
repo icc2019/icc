@@ -41,12 +41,7 @@
     
 <a target="_blank" href="https://www.hpe.com/emea_europe/en/home.html">
     <img src="assests/images/sponsers/newHPE.png" alt="HPE" height="150" width="150"> </a>
-&nbsp;
-&nbsp; 
-&nbsp;
-    &nbsp;
-&nbsp; 
-&nbsp;
+
         
         
 <br>
