@@ -157,8 +157,8 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 7</div>
-   <img src="assests/images/moussa card-1.png" width="600px" height="750px">
-  <div class="text">Dr.Moussa Card</div>
+   <img src="assests/images/Mohannad.png" width="600px" height="750px">
+  <div class="text">Dr.Mohannad Card</div>
   
 
 </div>
@@ -166,16 +166,16 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 7</div>
- <img src="assests/images/dhabia card-1.png" width="600px" height="750px">
-  <div class="text">Dr.Dhabia Card</div>
-   
+ <img src="assests/images/moussa card-1new.png" width="600px" height="750px">
+  <div class="text"> Dr.Moussa Card</div>
+  
   
 </div>
   
     <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="assests/images/moussa card-1new.png" width="600px" height="750px">
-  <div class="text"> CISCO Card</div>
+  <img src="assests/images/dhabia card-1.png" width="600px" height="750px">
+  <div class="text">Dr.Dhabia Card</div>
 </div>
   
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
