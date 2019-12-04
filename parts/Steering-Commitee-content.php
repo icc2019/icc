@@ -8,7 +8,7 @@
 <ol>
     <h1>Steering Committee </h1>
 <p>
-  <br>Hessah Aleisa, <b> Princess Nourah University, KSA </b> 
+  <br>Hussah N.AlEisa, <b> Princess Nourah University, KSA </b> 
  <br>Heba A. Kurdi, <b> King Saud University, KSA </b>
      <br>Mai Alduailij, <b>Princess Nourah University, KSA</b>
     <br> Maali Alabdulhafith, <b>Princess Nourah University, KSA</b>
