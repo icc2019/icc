@@ -21,8 +21,8 @@
  &nbsp;
 &nbsp; 
 &nbsp;        
- <a target="_blank" href="assests/images/sponsers/hw.jpg">
-    <img src="assests/images/sponsers/huawei-icon.svg" alt="HUAWEI" height="220" width="220"> </a> 
+ <a target="_blank" href="https://www.huawei.com/en/">
+    <img src="assests/images/sponsers/hw.jpg" alt="HUAWEI" height="220" width="220"> </a> 
 
 
 <br>
