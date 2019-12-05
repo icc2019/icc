@@ -15,6 +15,15 @@
 <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
 <img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="220" width="220">
         </a>
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+&nbsp; 
+&nbsp;        
+ <a target="_blank" href="assests/images/sponsers/hw.jpg">
+    <img src="assests/images/sponsers/huawei-icon.svg" alt="HUAWEI" height="220" width="220"> </a> 
+
 
 <br>
 <br>
@@ -69,14 +78,7 @@
 <h1 style="color:black;"> Other Sponsors </h1>
 <br>
 <br>
-<a target="_blank" href="https://consumer.huawei.com/sa-en/">
-    <img src="assests/images/sponsers/huawei-icon.svg" alt="HUAWEI" height="150" width="150"> </a> 
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
-&nbsp; 
-&nbsp;
+
         
     
 <a target="_blank" href="https://www.dellemc.com/ar-sa/index.htm">
