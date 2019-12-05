@@ -74,7 +74,7 @@
 <br>
 <br>
         
-      
+  <!--    
 <h1 style="color:black;"> Other Sponsors </h1>
 <br>
 <br>
@@ -102,6 +102,7 @@
 <a target="_blank" href="https://www.orange-business.com/en">
 <img src="assests/images/sponsers/Orange_logo.svg" alt="Orange" height="150" width="150">
     </a>
+-->
 <br>
 <br>
 <br>
