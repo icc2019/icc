@@ -74,6 +74,9 @@
     &nbsp;
     <a target="_blank" href="https://www.cisco.com/c/en_sa/index.html">
 <img src="assests/images/sponsers/cisco.svg" alt="CISCO" height="150" width="150"> </a>
+    &nbsp;
+     <a target="_blank" href="https://www.huawei.com/en/">
+    <img src="assests/images/sponsers/hw.jpg" alt="HUAWEI" height="150" width="150"> </a> 
       <br>
       <br>
       &nbsp;
