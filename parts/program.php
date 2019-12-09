@@ -123,40 +123,40 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 6</div>
- <img src="assests/images/1-1.jpg" width="600px" height="750px">
+ <img src="assests/images/ICC2019_Program_Final - 1-1.jpg" width="600px" height="750px">
 
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="assests/images/2-2.jpg" width="600px" height="750px">
+  <img src="assests/images/ICC2019_Program_Final - 1-2.jpg" width="600px" height="750px">
 
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 6</div>
- <img src="assests/images/3-3.jpg" width="600px" height="750px">
+ <img src="assests/images/ICC2019_Program_Final - 1-3.jpg" width="600px" height="750px">
   
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 6</div>
-  <img src="assests/images/4-4.jpg" width="600px" height="750px">
+  <img src="assests/images/ICC2019_Program_Final - 1-4.jpg" width="600px" height="750px">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 6</div>
-   <img src="assests/images/5-5.jpg" width="600px" height="750px">
+   <img src="assests/images/ICC2019_Program_Final - 1-5.jpg" width="600px" height="750px">
 
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
- <img src="assests/images/6-6.jpg" width="600px" height="750px">
+ <img src="assests/images/ICC2019_Program_Final - 1-6.jpg" width="600px" height="750px">
 
 </div>
   
