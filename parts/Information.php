@@ -272,7 +272,7 @@ function showSlides(n) {
      
     <tr> 
       <td> <p>​  To download the PDF version of "WORKSHOPS GUIDE " </p> </td>
-      <td> <p><b>	  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/WORSHOPS GUIDE1(1new).pdf" target="_blank"GUIDE WORKSHOPS>click here</a> </b> </p> </td>
+      <td> <p><b>	  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;  &nbsp;  &nbsp; 	&nbsp;	&nbsp;  &nbsp; 	&nbsp; &nbsp; 	&nbsp;  &nbsp; 	&nbsp;<a href="assests/WORSHOPS GUIDE1(1).pdf" target="_blank"GUIDE WORKSHOPS>click here</a> </b> </p> </td>
     </tr>
     </table>
        
