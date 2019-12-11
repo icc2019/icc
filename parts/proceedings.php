@@ -7,26 +7,28 @@
 <h3> First International Conference on Computing, ICC 2019, Riyadh, Saudi Arabia, December 10–12, 2019, Proceedings, Part I + II </h3>
     
     <p align="justify">
-      <strong>Part I:</strong>
+      <b>Part I:</b>
       <br>
  
 CCIS 1097, ICC 2019:  Advances in Data Science, Cyber Security and IT Applications
+      <br>
 eISBN: 978-3-030-36365-9
       <br>
-Conference website: http://www.icconf.org/
+      <B>Conference website:</b> http://www.icconf.org/
       <br>
-SpringerLink: https://link.springer.com/book/10.1007/978-3-030-36365-9 
+      <b>SpringerLink:</b> https://link.springer.com/book/10.1007/978-3-030-36365-9 
  </p>
     
    <p align="justify"> 
-     <strong> Part II: </strong>
+     <b> Part II: </b>
  <br>
 CCIS 1098, ICC 2019:  Advances in Data Science, Cyber Security and IT Applications
+     <bR>
 eISBN: 978-3-030-36368-0
      <br>
-Conference website: http://www.icconf.org/
+       <b>Conference website:</b> http://www.icconf.org/
      <br>
-SpringerLink: https://link.springer.com/book/10.1007/978-3-030-36368-0 
+       <b> SpringerLink: </b> https://link.springer.com/book/10.1007/978-3-030-36368-0 
     </p>
   
   </div>
