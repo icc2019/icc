@@ -4,13 +4,6 @@
 
 
 
-<div class="col" >
-
-
-
-
-</div>
-
 
 
 
