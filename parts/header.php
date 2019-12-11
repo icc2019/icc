@@ -87,6 +87,11 @@
                      <a href="Keynote-Speakers.php" class="nav-link" ><span><strong> Keynote Speakers</strong></span></a>
 
                   </li>
+                 
+                 <li>
+                     <a href="proceedings.php" class="nav-link" ><span><strong> Proceedings</strong></span></a>
+
+                  </li>
                   <!-- <li>
                      <a href="#" class="nav-link"><span><strong>   Media Center</strong></span></a>
                      <ul class="sub-menu">
