@@ -89,7 +89,7 @@
                   </li>
                  
                  <li>
-                     <a href="proceedings.php" class="nav-link" ><span><strong> Proceedings</strong></span></a>
+                     <a href="parts/proceedings.php" class="nav-link" ><span><strong> Proceedings</strong></span></a>
 
                   </li>
                   <!-- <li>
