@@ -17,9 +17,9 @@ CCIS 1097, ICC 2019:  Advances in Data Science, Cyber Security and IT Applicatio
 eISBN: 978-3-030-36365-9
       <br>
      
-      <B>Conference website:</b> <a href="http://www.icconf.org/" target="_blank">http://www.icconf.org/ </a>
+      <B>Conference website: <a href="http://www.icconf.org/" target="_blank">http://www.icconf.org/ </a> </b>
       <br>
-      <b>SpringerLink:</b> <a href="https://link.springer.com/book/10.1007/978-3-030-36365-9" target="_blank">https://link.springer.com/book/10.1007/978-3-030-36365-9 </a>
+      <b>SpringerLink: <a href="https://link.springer.com/book/10.1007/978-3-030-36365-9" target="_blank">https://link.springer.com/book/10.1007/978-3-030-36365-9 </a> </b>
       
  </p>
     
@@ -34,9 +34,9 @@ CCIS 1098, ICC 2019:  Advances in Data Science, Cyber Security and IT Applicatio
 eISBN: 978-3-030-36368-0
      <br>
       
-       <b>Conference website:</b> <a href="http://www.icconf.org/" target="_blank">http://www.icconf.org/ </a>
+       <b>Conference website: <a href="http://www.icconf.org/" target="_blank">http://www.icconf.org/ </a> </b>
      <br>
-       <b> SpringerLink: </b> <a href="https://link.springer.com/book/10.1007/978-3-030-36368-0" target="_blank">https://link.springer.com/book/10.1007/978-3-030-36368-0 </a>
+       <b> SpringerLink: <a href="https://link.springer.com/book/10.1007/978-3-030-36368-0" target="_blank">https://link.springer.com/book/10.1007/978-3-030-36368-0 </a> </b>
     </p>
   
   </div>
