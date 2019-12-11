@@ -3,8 +3,8 @@
   <div class="content" >
     <h1>Proceedings</h1>
     
-    <h3>Advances in Data Science, Cyber Security and IT Applications </h3>
-<h3> First International Conference on Computing, ICC 2019, Riyadh, Saudi Arabia, December 10–12, 2019, Proceedings, Part I + II </h3>
+    <h5>Advances in Data Science, Cyber Security and IT Applications </h5>
+<h5> First International Conference on Computing, ICC 2019, Riyadh, Saudi Arabia, December 10–12, 2019, Proceedings, Part I + II </h5>
     
     <p align="justify">
       <b>Part I:</b>
