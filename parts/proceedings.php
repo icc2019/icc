@@ -5,7 +5,9 @@
     
     <h5>Advances in Data Science, Cyber Security and IT Applications </h5>
 <h5> First International Conference on Computing, ICC 2019, Riyadh, Saudi Arabia, December 10–12, 2019, Proceedings, Part I + II </h5>
-    
+    <br>
+    <br>
+    <br>
     <p align="justify">
       <b>Part I:</b>
       <br>
@@ -18,6 +20,9 @@ eISBN: 978-3-030-36365-9
       <br>
       <b>SpringerLink:</b> https://link.springer.com/book/10.1007/978-3-030-36365-9 
  </p>
+    
+    <br>
+    <br>
     
    <p align="justify"> 
      <b> Part II: </b>
